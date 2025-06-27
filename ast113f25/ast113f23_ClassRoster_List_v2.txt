@@ -1,0 +1,337 @@
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Katherine Elder     Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85255  AST 111   Intro/Solar Systems Astronomy (Lab)   21/21     Windhorst, Staff  M        7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 450
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Abdelrazek, Able          1224194140  4140-197   The College of Lib Arts & Sci   - Economics BS                     Sophomore    ahabdel3    Resident
+ 2    Algorri, Antolin          1225040635  0635-889   W.P. Carey School of Business   - Business-BA                      Sophomore    aalgorri    Non-Resident
+ 3    Alrashidi, Mousa          1227268330  8330-473   Ira A Fulton Engineering        - Computer Science (Cybersec)      Freshman     maalras6    Non-Resident
+ 4    Ballou, Logan             1225131609  1609-535   W.P. Carey School of Business   - Business-BA                      Sophomore    lballou     Resident
+ 5    Bollinger, Tommy          1226028104  8104-666   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    tebolli1    Non-Resident
+ 6    Bueno, Julian             1228100434  0434-226   The College of Lib Arts & Sci   - Earth&Space Exp (Astrophysics)   Junior       jtbueno1    Resident
+ 7    Dai, Omer                 1225571412  1412-998   W.P. Carey School of Business   - Comptr Info Systems              Sophomore    odai1       Non-Resident
+ 8    Davis, Luke               1225083782  3782-690   W.P. Carey School of Business   - Business-BA                      Sophomore    ldavis82    Non-Resident
+ 9    Devrukhkar, Smit          1228965103  5103-532   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    ssdevruk    Non-Resident
+10    Gardea, Desirey           1217798114  8114-208   The College of Lib Arts & Sci   - Psychology BS - Tempe            Sophomore    dnalvare    Resident
+11    Heinrichs, Anthony        1226234596  4596-365   Integrative Sciences & Arts     - Interdisciplinary Studies        Sophomore    ajheinr2    Non-Resident
+12    James, Anton              1226764554  4554-915   W.P. Carey School of Business   - Management                       Sophomore    atjames3    Resident
+13    Kathiriya, Nehal Anilkuma 1228636619  6619-317   Ira A Fulton Engineering        - Computer Science - BS            Freshman     nkathir2    Non-Resident
+14    King, Kennedy             1226125266  5266-948   W.P. Carey School of Business   - Marketing                        Sophomore    kgking5     Non-Resident
+15    Lane, Jessi               1223659515  9515-790   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    dlane10     Resident
+16    Nguyen, Joshua            1224876042  6042-087   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    tnguy225    Non-Resident
+17    San Miguel, Nicholas      1226046525  6525-114   W.P. Carey School of Business   - Business-BA                      Sophomore    nmsanmig    Non-Resident
+18    Sanchez, Brandon          1225910974  0974-579   The College of Lib Arts & Sci   - Philosophy (Moral Pol Law)       Sophomore    brsanch7    Resident
+19    Summy, Zak                1230409273  9273-269   The College of Lib Arts & Sci   - Economics BS                     Junior       zsummy      Resident
+20    Trafton, Willie           1216232940  2940-567   Ira A Fulton Engineering        - Engineering Management           Senior       twtrafto    Non-Resident
+21    Yang, Haoran              1220612848  2848-384   The College of Lib Arts & Sci   - Economics BS                     Senior       hyang221    Non-Resident
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Isabel McIntyre     Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85282  AST 111   Intro/Solar Systems Astronomy (Lab)   23/24     Windhorst, Staff  M        7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 456
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Aimakov, Alisher          1230994754  4754-187   The College of Lib Arts & Sci   - Data Science                     Freshman     aaimakov    Non-Resident
+ 2    Arnott, Jonathan          1224387177  7177-215   Ira A Fulton Engineering        - Aerospace Engr (Astronautics)    Junior       jarnott1    Resident
+ 3    Aryan, Advik              1226855281  5281-555   Ira A Fulton Engineering        - Computer Science - BS            Freshman     aaryan4     Non-Resident
+ 4    Brooks, Aidan             1225222752  2752-438   W.P. Carey School of Business   - Business (Law)                   Sophomore    arbroo11    Non-Resident
+ 5    Burrola, Jacob            1224343328  3328-294   Herberger Institute             - Film & Media Production          Sophomore    jaburrol    Resident
+ 6    Cahill, Kennedy           1222047320  7320-330   Undergrad Non-deg/Non-Fin Aid   - Law and Human Behavior (cert)    Junior       klcahill    Resident
+ 7    Cluen, Kaylee             1225401931  1931-512   W.P. Carey School of Business   - Finance                          Sophomore    kcluen1     Non-Resident
+ 8    DeBord, Josie             1224683577  3577-586   Herberger Institute             - Film & Media Production          Sophomore    jjdebord    Non-Resident
+ 9    Doan, Sarah               1212650658  0658-632   Integrative Sciences & Arts     - Organizational Lead (Prj Mgmt)   Junior       sadoan1     Resident
+10    Garcia, Kaycee            1224358382  8382-914   Ira A Fulton Engineering        - Computer Science (Sftwre Engr)   Sophomore    kgarc107    Resident
+11    Goodall, Sydney           1229152940  2940-472   Ira A Fulton Engineering        - Computer Science - BS            Freshman     sgoodal3    Non-Resident
+12    Herrera, Armando          1216812909  2909-956   Ira A Fulton Engineering        - Computer Science - BS            Senior       aherre52    Resident
+13    Hu, Zhendong              1225018249  8249-149   Ira A Fulton Engineering        - Computer Science (Sftwre Engr)   Sophomore    zhendon4    Non-Resident
+14    LaMont, Luke              1224872766  2766-837   The College of Lib Arts & Sci   - Political Science BA             Sophomore    lclamont    Resident
+15    Remedios, Anthony         1219366447  6447-022   Cronkite School-Journ/MassComm  - Sports Journalism                Senior       aremedio    Non-Resident
+16    Rowe, Jackson             1225281083  1083-633   Undergrad Non-deg/Non-Fin Aid   - Cross-Sector Leadership          Sophomore    jtrowe1     Non-Resident
+17    San Roman, Patrick        1225136887  6887-941   W.P. Carey School of Business   - Business-BA                      Sophomore    psanroma    Non-Resident
+18    Schrott, Connor           1225074110  4110-946   W.P. Carey School of Business   - Finance                          Sophomore    cschrott    Non-Resident
+19    Stephens, Taylor          1222703573  3573-140   The College of Lib Arts & Sci   - Religion, Culture &Public Life   Junior       tlsteph4    Non-Resident
+20    Storz, Daniel             1224728141  8141-831   W.P. Carey School of Business   - Finance                          Sophomore    dstorz      Resident
+21    Surendar, Rohan           1225141788  1788-318   W.P. Carey School of Business   - App Bus Data Analytics (Cert)    Sophomore    rsurenda    Non-Resident
+22    Yimer, Fetiha             1216729514  9514-579   The College of Lib Arts & Sci   - Global Studies                   Senior       fyimer      Resident
+23    Zamudio, Brenda           1225132233  2233-583   W.P. Carey School of Business   - Business (Lang & Culture)        Junior       bzamudi1    Resident
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Zach Carpenter      Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+96316  AST 111   Intro/Solar Systems Astronomy (Lab)   19/20     Windhorst, Staff  M        8:30 PM - 11:00 PM   8/17/23 - 12/1/23     Tempe PSH 460
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Adams, Jacob              1230604455  4455-611   Ira A Fulton Engineering        - Computer Science - BS            Junior       jadam120    Non-Resident
+ 2    Alateyah, Abdalla         1223716663  6663-931   The College of Lib Arts & Sci   - English (Linguistics)            Sophomore    aalateya    Non-Resident
+ 3    Cate, Gillian             1221887901  7901-214   Watts Col of Pub Ser & Com Sol  - Criminology & Criminal Justice   Junior       gncate      Resident
+ 4    Coppola, Vina             1222174668  4668-206   W.P. Carey School of Business   - Management                       Senior       vcoppola    Resident
+ 5    Crane, Taylor             1222833118  3118-479   The College of Lib Arts & Sci   - Psychology BS - Tempe            Sophomore    tmcrane     Non-Resident
+ 6    Feldhake, Tyler           1221610611  0611-007   W.P. Carey School of Business   - App Bus Data Analytics (Cert)    Junior       tfeldhak    Resident
+ 7    Fischer, Bella            1225907035  7035-276   University College              - Explore-Health/Life Sci          Freshman     ijfische    Resident
+ 8    Fitch, Riley              1225220516  0516-266   Ira A Fulton Engineering        - Informatics                      Sophomore    rfitch4     Resident
+ 9    Flennoy, Kennedy          1225104283  4283-267   Health Solutions                - Health Care Admin and Policy     Sophomore    kflennoy    Non-Resident
+10    Johnson, Kaden            1221869987  9987-438   The College of Lib Arts & Sci   - Economics BS                     Junior       kmjoh103    Non-Resident
+11    Koelbl, Charlie           1225308903  8903-156   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    ckoelbl     Non-Resident
+12    Madrid, Christopher       1222431730  1730-994   Herberger Institute             - Industrial Design                Sophomore    cemadrid    Non-Resident
+13    Meadows, Lily             1222136279  6279-698   Herberger Institute             - Art (Animation)                  Sophomore    ldmeado1    Resident
+14    Meyers, Jake              1226315248  5248-744   Herberger Institute             - Art (Animation)                  Sophomore    jmmeye12    Non-Resident
+15    Murray, Kayla             1225715582  5582-922   The College of Lib Arts & Sci   - Communication BS                 Freshman     kdmurra2    Non-Resident
+16    Salbenblatt, Nash         1224966665  6665-683   W.P. Carey School of Business   - App Bus Data Analytics (Cert)    Sophomore    nsalbenb    Non-Resident
+17    Sanchez, Ian              1224981251  1251-030   Undergrad Non-deg/Non-Fin Aid   - Jewish Studies (Certificate)     Sophomore    iasanc15    Non-Resident
+18    Talone, Daniel            1224752412  2412-152   The College of Lib Arts & Sci   - History                          Sophomore    dbtalone    Resident
+19    Zhang, Guijun             1225973803  3803-002   Ira A Fulton Engineering        - Computer Science - BS            Junior       gzhang89    Non-Resident
+      
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Katherine Elder     Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85283  AST 111   Intro/Solar Systems Astronomy (Lab)   23/24     Windhorst, Staff  Tu       7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 450
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Carroll, Benjamin         1224543281  3281-595   Ira A Fulton Engineering        - Computer Science (Sftwre Engr)   Junior       bjcarro3    Resident
+ 2    Dalgai, Shon              1226354547  4547-186   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    ddalgai     Resident
+ 3    Decker, Kate              1225080038  0038-402   Ira A Fulton Engineering        - Computer Science (Sftwre Engr)   Sophomore    cedecker    Resident
+ 4    Ellis, Charlie            1225012672  2672-720   Herberger Institute             - Art (Photography)                Sophomore    cellis29    Non-Resident
+ 5    Fiore, Anna               1224817269  7269-151   Herberger Institute             - Media Arts and Sciences (Film)   Sophomore    amfiore     Non-Resident
+ 6    Gonzalez, Alan            1225888393  8393-509   Watts Col of Pub Ser & Com Sol  - Criminology & Criminal Justice   Sophomore    agonz438    Resident
+ 7    Haeger, Drew              1224971800  1800-303   Ira A Fulton Engineering        - Computer Science (Cybersec)      Sophomore    ashaeger    Non-Resident
+ 8    Luu, Nelson               1225512782  2782-537   W.P. Carey School of Business   - Accountancy                      Sophomore    nluu4       Resident
+ 9    McCall, Ethan             1225513640  3640-521   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    emccall8    Non-Resident
+10    McGhee, Jonathon          1226023060  3060-776   Ira A Fulton Engineering        - Computer Science - BS            Junior       jrmcghee    Resident
+11    Peachera, Daivik          1219812256  2256-194   Integrative Sciences & Arts     - Interdisciplinary Studies        Junior       dpeacher    Non-Resident
+12    Peterson, Dayton          1225452722  2722-861   The College of Lib Arts & Sci   - Biological Sciences              Junior       dkpeter2    Non-Resident
+13    Preston, Kym              1225130595  0595-457   W.P. Carey School of Business   - Business (Tourism)-BA            Sophomore    krprest1    Resident
+14    Rajyagor, Sid             1224775487  5487-829   W.P. Carey School of Business   - Business (Financial Planning)    Sophomore    srajyago    Non-Resident
+15    Raveendra, Rohith         1226577094  7094-949   Ira A Fulton Engineering        - Computer Science - BS            Freshman     rraveen3    Non-Resident
+16    Rayapati, Hima Shanthi    1228637438  7438-380   The College of Lib Arts & Sci   - Psychology BS - Tempe            Sophomore    hrayapa1    Non-Resident
+17    Schroeder, Chris          1225697148  7148-667   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    caschro4    Non-Resident
+18    Settle, Devin             1224124109  4109-188   The College of Lib Arts & Sci   - Psychology BS - Tempe            Sophomore    dmsettle    Resident
+19    Shrivastava, Devyansh     1223451073  1073-564   Ira A Fulton Engineering        - Aerospace Engr (Astronautics)    Junior       dshriva2    Non-Resident
+20    Shukla, Harshvardhan      1228693871  3871-689   W.P. Carey School of Business   - Business Data Analytics          Freshman     hshukla8    Non-Resident
+21    Stella, Luca              1224943135  3135-873   The College of Lib Arts & Sci   - Psychology BA                    Sophomore    lstella     Non-Resident
+22    Swift, Spencer            1225211962  1962-188   Cronkite School-Journ/MassComm  - Digital Audiences                Freshman     sjswift4    Non-Resident
+23    Winters, Samuel           1225117400  7400-276   W.P. Carey School of Business   - Marketing                        Sophomore    sjwinte1    Resident
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Zach Carpenter      Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85285  AST 111   Intro/Solar Systems Astronomy (Lab)   23/24     Windhorst, Staff  Tu       7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 456
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Beitz, Hunter             1224813421  3421-726   The College of Lib Arts & Sci   - Political Science BS             Sophomore    hbeitz      Resident
+ 2    Bressner, Lyndi           1224538081  8081-211   W.P. Carey School of Business   - Management                       Sophomore    lbressne    Resident
+ 3    Capodanno, Mason          1228939038  9038-609   W.P. Carey School of Business   - Business Entrepreneurship        Sophomore    mcapodan    Non-Resident
+ 4    Chase, Taryn              1224842801  2801-380   The College of Lib Arts & Sci   - Psychology BA                    Sophomore    tchase7     Non-Resident
+ 5    Chintapalli, Sriveda      1225819766  9766-593   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    schint25    Non-Resident
+ 6    Cody, David               1221934337  4337-404   The College of Lib Arts & Sci   - Psychology BA                    Junior       dccody1     Resident
+ 7    DeBolt, Cody              1225425565  5565-436   W.P. Carey School of Business   - Accountancy                      Junior       cdebolt1    Resident
+ 8    Drummer, Donovan          1225405389  5389-807   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    dadrumme    Non-Resident
+ 9    Fletcher, Fletch          1221269881  9881-747   W.P. Carey School of Business   - Business (Lang & Culture)        Junior       cmfletc2    Resident
+10    Gataric, Milan            1222978874  8874-094   W.P. Carey School of Business   - Business (Financial Planning)    Sophomore    mgatari1    Non-Resident
+11    Goli, Anish               1225718325  8325-877   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    agoli       Non-Resident
+12    Harders, Ian              1224514720  4720-701   W.P. Carey School of Business   - Finance                          Sophomore    iharders    Resident
+13    Hinton, Josh              1225291106  1106-404   W.P. Carey School of Business   - Business (Law)                   Junior       jahinto2    Resident
+14    Igo, Jacob                1221119068  9068-036   Ira A Fulton Engineering        - Computer Science (Sftwre Engr)   Sophomore    jigo2       Resident
+15    Johnson, Luke             1225195114  5114-843   Ira A Fulton Engineering        - Materials Sci & Engineering      Sophomore    ljohn174    Non-Resident
+16    Ligon, Dallas             1224135367  5367-136   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    dmligon     Resident
+17    Nance, Emma               1224649023  9023-407   W.P. Carey School of Business   - Economics                        Junior       egnance     Resident
+18    Norton, Reese             1221838891  8891-765   Ira A Fulton Engineering        - Computer Science - BS            Junior       rcnorto1    Resident
+19    Owens, Laryn              1224687724  7724-107   Herberger Institute             - Art (Animation)                  Sophomore    lmowens5    Resident
+20    Sullivan, Rhiannon        1224403830  3830-636   Herberger Institute             - Art (Painting and Drawing)       Junior       rasulli4    Resident
+21    Taves, Jacob              1225123510  3510-912   Herberger Institute             - Film & Media Production          Sophomore    jtaves      Resident
+22    Vera, Jacob               1225224650  4650-584   W.P. Carey School of Business   - Finance                          Junior       jlvera      Non-Resident
+23    Zeigler, Kayla            1224689180  9180-217   W.P. Carey School of Business   - Business (Communication)-BA      Sophomore    kbzeigle    Resident
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Isabel McIntyre     Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+96317  AST 111   Intro/Solar Systems Astronomy (Lab)   20/21     Windhorst, Staff  Tu       8:30 PM - 11:00 PM   8/17/23 - 12/1/23     Tempe PSH 460
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Bailey, Andrew            1225868828  8828-430   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    acbaile7    Non-Resident
+ 2    Belknap, Collin           1221470276  0276-971   Herberger Institute             - Graphic Design                   Junior       cebelkna    Non-Resident
+ 3    Casey, Finlay             1224177448  7448-281   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    fdcasey     Resident
+ 4    Chantland, Cassandra      1222110071  0071-478   Watts Col of Pub Ser & Com Sol  - Criminology & Criminal Justice   Sophomore    cchantla    Non-Resident
+ 5    Dingley, Katrina          1221715014  5014-408   The College of Lib Arts & Sci   - Psychology BS - Tempe            Sophomore    kdingley    Non-Resident
+ 6    Ferguson, Connor          1225129360  9360-362   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    chfergu1    Resident
+ 7    Gutierrez, Angel          1224357797  7797-869   W.P. Carey School of Business   - Business (Law)                   Sophomore    amguti39    Resident
+ 8    Haro, Jaren               1228919915  9915-659   Ira A Fulton Engineering        - Computer Science - BS            Freshman     jeharo      Resident
+ 9    Helvig, Caleb             1224843100  3100-403   W.P. Carey School of Business   - Marketing                        Sophomore    chelvig     Non-Resident
+10    Johnson, Amareya          1224080949  0949-014   Undergrad Non-deg/Non-Fin Aid   - Digital Bus Innovation Cert      Sophomore    arjohn74    Non-Resident
+11    Kennedy, Cameron          1226169934  9934-248   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    cckenne4    Non-Resident
+12    Knipling, Crispin         1224476149  6149-249   Ira A Fulton Engineering        - Computer Science (Cybersec)      Sophomore    ckniplin    Non-Resident
+13    Masini Aleman, Leo        1229106803  6803-792   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    lmasinia    Non-Resident
+14    Mcghee, Megan             1225012542  2542-710   Herberger Institute             - Film & Media Production          Freshman     mmcghee9    Resident
+15    Natt, Noah                1219218442  8442-833   W.P. Carey School of Business   - Business Entrepreneurship        Junior       nmnatt      Non-Resident
+16    Ramos, Ben                1231144280  4280-528   The College of Lib Arts & Sci   - Political Science BA             Sophomore    bramos30    Non-Resident
+17    Rice, Samuel              1225078985  8985-321   W.P. Carey School of Business   - Business (Sustainability)-BA     Sophomore    srice21     Non-Resident
+18    Saenz Gomez, Ashley       1224700750  0750-340   Herberger Institute             - Art (Painting and Drawing)       Sophomore    asaenzgo    Resident
+19    Sawyer, Lily              1225759392  9392-513   W.P. Carey School of Business   - Business (Sports Business)       Senior       lnsawyer    Non-Resident
+20    Wilson, I'mon             1201439438  9438-250   The College of Lib Arts & Sci   - Justice Studies                  Junior       iwilson1    Resident
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Zach Carpenter      Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85284  AST 111   Intro/Solar Systems Astronomy (Lab) 23/24       Windhorst, Staff  W        7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 450
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Aidarov, Artur            1226255019  5019-147   Ira A Fulton Engineering        - Computer Science (Sftwre Engr)   Sophomore    aaidarov    Non-Resident
+ 2    Avery, Chase              1224960022  0022-172   Ira A Fulton Engineering        - Computer Science (Cybersec)      Sophomore    cjavery2    Non-Resident
+ 3    Avila, Valeria            1224448303  8303-823   W.P. Carey School of Business   - Business (Communication)-BA      Sophomore    vnavila     Resident
+ 4    Cote, Braden              1224808754  8754-367   W.P. Carey School of Business   - Business-BA                      Sophomore    bacote      Resident
+ 5    Dowdakin, Hunter          1225114241  4241-033   W.P. Carey School of Business   - Finance                          Sophomore    hdowdaki    Non-Resident
+ 6    Fisher, Colin             1225109015  9015-631   W.P. Carey School of Business   - Business-BA                      Sophomore    ctfishe2    Non-Resident
+ 7    Goldberg, Keith           1227306043  6043-067   W.P. Carey School of Business   - Business (Communication)-BA      Sophomore    kjgoldb2    Non-Resident
+ 8    Green, Chase              1225460210  0210-527   W.P. Carey School of Business   - Business (Financial Planning)    Sophomore    ccgree12    Non-Resident
+ 9    Gulati, Aryan             1227681119  1119-357   Ira A Fulton Engineering        - Computer Science - BS            Freshman     agulat16    Non-Resident
+10    Jackson, Trevor           1224781688  1688-498   W.P. Carey School of Business   - Business (Financial Planning)    Sophomore    tajack16    Non-Resident
+11    Mejia, Deja               1224584062  4062-526   The College of Lib Arts & Sci   - Sociology                        Sophomore    ddmejia     Resident
+12    Munday, Kailee            1225486158  6158-757   W.P. Carey School of Business   - Management                       Sophomore    kjmunday    Non-Resident
+13    Paswater, Eric            1225022747  2747-495   W.P. Carey School of Business   - Finance                          Sophomore    epaswate    Non-Resident
+14    Rathee, Ayush             1226454907  4907-903   W.P. Carey School of Business   - Business Data Analytics          Sophomore    arathee2    Non-Resident
+15    Reyes, Paige              1225580954  0954-898   W.P. Carey School of Business   - Business (Tourism)-BA            Sophomore    pcreyes     Resident
+16    Seltzer, Sydney           1226752841  2841-822   W.P. Carey School of Business   - Marketing (Dig&IntegrMktComm)    Sophomore    sjseltze    Non-Resident
+17    Sharma, Kavish            1225855659  5659-374   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    ksharm67    Non-Resident
+18    Srivastava, Shubhi        1225326063  6063-743   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    ssriva80    Non-Resident
+19    Tadipatri, Srikanth       1226983890  3890-743   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    stadipat    Non-Resident
+20    Thompson, Emma            1225146104  6104-650   W.P. Carey School of Business   - Business-BA                      Sophomore    ebthomp3    Non-Resident
+21    Wegele, Brennan           1224604797  4797-425   W.P. Carey School of Business   - Business (Financial Planning)    Sophomore    bwegele     Resident
+22    WolyniaMcCall, Trinity    1225870362  0362-548   Herberger Institute             - Art (Photography)                Sophomore    twolynia    Resident
+23    Zaveri, Atharva Vimal     1228803331  3331-367   Ira A Fulton Engineering        - Computer Science - BS            Freshman     azaveri1    Non-Resident
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Isabel McIntyre     Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85290  AST 111   Intro/Solar Systems Astronomy (Lab)   21/24     Windhorst, Staff  W        7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 456
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Alhabeeb, Khalid          1218820642  0642-321   W.P. Carey School of Business   - Finance                          Senior       kzalhabe    Non-Resident
+ 2    Amato, Isabella           1225512795  2795-623   The College of Lib Arts & Sci   - Psychology BS - Tempe            Sophomore    imamato     Non-Resident
+ 3    Bharadwaj, Vaibhav        1225135769  5769-855   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    vbharad5    Non-Resident
+ 4    Bird, Jersey              1224691143  1143-367   W.P. Carey School of Business   - Finance                          Sophomore    mjbird2     Resident
+ 5    Burger, Colton            1226127749  7749-249   W.P. Carey School of Business   - Supply Chain Management          Sophomore    cburger2    Non-Resident
+ 6    Daou, Nathan              1228849078  9078-452   The College of Lib Arts & Sci   - Data Science                     Freshman     ndaou       Non-Resident
+ 7    Davila Rivera, Rachelle   1218508213  8213-458   W.P. Carey School of Business   - Business (Communication)-BA      Senior       rdavilar    Resident
+ 8    Gmyrek, Alex              1225239496  9496-945   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    agmyrek     Non-Resident
+ 9    Henke, Emma               1226066051  6051-616   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    erhenke     Resident
+10    Jimenez, Jesse            1224768909  8909-323   University College              - Explore-Mat/Tech/Egr/PhysSci     Freshman     jrjimen7    Resident
+11    Kleszczynski, Cloe        1225951378  1378-567   The College of Lib Arts & Sci   - Justice Studies                  Sophomore    ckleszcz    Non-Resident
+12    Malemba, Sabrina          1224801110  1110-072   The College of Lib Arts & Sci   - Sociology                        Junior       smalemb1    Resident
+13    Narel, Simon              1225849744  9744-505   W.P. Carey School of Business   - Accountancy                      Sophomore    snarel      Non-Resident
+14    Pascual, Paul             1228189133  9133-120   The College of Lib Arts & Sci   - Data Science                     Freshman     pspascua    Resident
+15    Patel, Shyam              1225793636  3636-467   W.P. Carey School of Business   - Finance                          Sophomore    shpate14    Non-Resident
+16    Ponce, Robert             1225762317  2317-773   W.P. Carey School of Business   - Accountancy                      Sophomore    rcponce     Non-Resident
+17    Rowitz, Emmy              1224624362  4362-829   W.P. Carey School of Business   - Business Entrepreneurship        Sophomore    erowitz     Resident
+18    Schnabel, Jenna           1224811575  1575-584   W.P. Carey School of Business   - Business (Communication)-BA      Sophomore    jschnabe    Non-Resident
+19    Totsky, Olivia            1224956005  6005-863   W.P. Carey School of Business   - Marketing                        Sophomore    ototsky     Non-Resident
+20    Wagner, Patrick           1225296709  6709-835   Ira A Fulton Engineering        - Computer Science (Cybersec)      Sophomore    pcwagne1    Non-Resident
+21    Youngquist, Emma          1225702127  2127-528   W.P. Carey School of Business   - Accountancy                      Sophomore    eryoungq    Resident
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Evrim Gulser        Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+96318  AST 111   Intro/Solar Systems Astronomy (Lab)   23/22     Windhorst, Staff  W        8:30 PM - 11:00 PM   8/17/23 - 12/1/23     Tempe PSH 460
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Aguirre, Fiorella         1225462667  2667-250   W.P. Carey School of Business   - Management                       Junior       fvaguirr    Non-Resident
+ 2    Arunachala Kumar, Sajeesh 1226998905  8905-123   W.P. Carey School of Business   - Management                       Sophomore    saruna14    Non-Resident
+ 3    Bhandari, Pranay          1225269981  9981-689   Ira A Fulton Engineering        - Computer Science (Cybersec)      Sophomore    pbhanda9    Non-Resident
+ 4    Broussard, Jasmine        1226807675  7675-099   MaryLouFulton Teachers College  - Secondary Education              Sophomore    jbrouss7    Non-Resident
+ 5    Donovan, Megan            1224714530  4530-481   The College of Lib Arts & Sci   - English (Creative Writing)       Sophomore    mdonova7    Non-Resident
+ 6    Dubin, Amy                1224476695  6695-291   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    akdubin     Resident
+ 7    Fay, Ronald               1225040804  0804-822   W.P. Carey School of Business   - Business (Financial Planning)    Sophomore    rofay       Non-Resident
+ 8    Grone, James              1226835456  5456-743   W.P. Carey School of Business   - Business (Communication)-BA      Sophomore    jbgrone     Resident
+ 9    Jirov, Jacob              1218616620  6620-760   Herberger Institute             - Film & Media Production          Junior       jjirov      Resident
+10    Kaben, Abzalbek           1227413033  3033-891   The College of Lib Arts & Sci   - Economics BS                     Senior       akaben      Non-Resident
+11    Klein, Tyler              1224964923  4923-549   W.P. Carey School of Business   - Business-BA                      Sophomore    tjklein4    Non-Resident
+12    Le, Brittney              1225259672  9672-716   The College of Lib Arts & Sci   - Psychology BA                    Sophomore    brittne2    Resident
+13    Lieberman, Caleb          1229232123  2123-532   College of Global Futures       - Innovation in Society            Freshman     clieber5    Non-Resident
+14    Mardueno, Malachi         1221644359  4359-709   W.P. Carey School of Business   - Finance                          Junior       mmarduen    Resident
+15    Owen, Aj                  1223265251  5251-815   The College of Lib Arts & Sci   - Communication BS                 Junior       ajowen1     Resident
+16    Pape, Jackson             1225154463  4463-293   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    jpape1      Non-Resident
+17    Pohle, Ethan              1224138097  8097-346   Herberger Institute             - Art (Animation)                  Sophomore    epohle      Resident
+18    Quintero, Luis            1225105193  5193-337   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    liquinte    Non-Resident
+19    Sawyer, Raen              1223937871  7871-502   Ira A Fulton Engineering        - Materials Sci & Engineering      Sophomore    ssawyer5    Resident
+20    Setia, Pranjal            1225955122  5122-868   W.P. Carey School of Business   - App Bus Data Analytics (Cert)    Sophomore    psetia      Non-Resident
+21    Tate, Lindsey             1219302669  2669-307   Undergrad Non-deg/Non-Fin Aid   - Sales & Marketing Essentials     Senior       lstate      Non-Resident
+22    Urbiztondo, Nicholas      1222482586  2586-431   W.P. Carey School of Business   - Comptr Info Systems              Junior       nurbizto    Non-Resident
+23    Willie, Madison           1224140294  0294-515   MaryLouFulton Teachers College  - Elementary Education             Sophomore    mjwillie    Resident
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Ashley Herbst       Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85287  AST 111   Intro/Solar Systems Astronomy (Lab)   17/18     Windhorst, Staff  Th       7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 450
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Aguilar, Estevan          1226024542  4542-641   The College of Lib Arts & Sci   - Psychology BS - Tempe            Sophomore    emaguil7    Non-Resident
+ 2    Aldubaisi, Mohammed       1226833363  3363-582   W.P. Carey School of Business   - Economics                        Sophomore    malduba1    Non-Resident
+ 3    Alvarez, Nataly           1223683916  3916-679   W.P. Carey School of Business   - Business Entrepreneurship        Sophomore    nalvar23    Resident
+ 4    Bansal, Raghav            1226184897  4897-185   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    rbansa24    Non-Resident
+ 5    Cardenas, Jessica         1225439319  9319-500   The College of Lib Arts & Sci   - Political Science BS             Sophomore    jgcarde2    Non-Resident
+ 6    Carnahan, Patrick         1219143003  3003-485   W.P. Carey School of Business   - Business (Sports Business)       Junior       pdcarnah    Resident
+ 7    Dickey, Chris             1225024307  4307-615   W.P. Carey School of Business   - Supply Chain Management          Sophomore    cadickey    Non-Resident
+ 8    Dua, Hemant               1225688464  8464-979   Ira A Fulton Engineering        - Computer Science (Sftwre Engr)   Sophomore    hdua3       Non-Resident
+ 9    Dubey, Aryash             1225867879  7879-357   Ira A Fulton Engineering        - Computer Science (Sftwre Engr)   Sophomore    adubey27    Non-Resident
+10    Griley, Kai               1226043548  3548-885   Ira A Fulton Engineering        - Mechanical Engineering           Sophomore    kngriley    Non-Resident
+11    Harfield, Hayden          1224489565  9565-281   W.P. Carey School of Business   - Business-BA                      Sophomore    hharfiel    Non-Resident
+12    Patel, Swet Nikeshkumar   1228864093  4093-977   Ira A Fulton Engineering        - Computer Science - BS            Freshman     spate252    Non-Resident
+13    Roojam, Aaryan            1224808728  8728-365   W.P. Carey School of Business   - Business (Law)                   Sophomore    aroojam     Resident
+14    Smart, Aaron              1220707592  7592-612   The College of Lib Arts & Sci   - Family & Human Development       Junior       awsmart     Resident
+15    Spagnola, Nico            1224562989  2989-829   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    nspagno1    Resident
+16    Trinidad, Nick            1226827032  7032-741   Ira A Fulton Engineering        - Computer Science (Cybersec)      Sophomore    nrtrinid    Non-Resident
+17    Zheng, Yuke               1225722602  2602-547   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    yzhen175    Non-Resident
+      
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Laura Pang          Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+96315  AST 111   Intro/Solar Systems Astronomy (Lab)   17/18     Windhorst, Staff  Th       7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 456
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Chochrek, Hannah          1218977409  7409-268   W.P. Carey School of Business   - Supply Chain Management          Junior       hchochre    Non-Resident
+ 2    Deshpande, Aditya         1224725710  5710-651   Ira A Fulton Engineering        - Computer Science (Cybersec)      Sophomore    adeshp32    Non-Resident
+ 3    Espinal, Noah             1214802394  2394-454   Integrative Sciences & Arts     - Interdisciplinary Studies        Sophomore    nespinal    Non-Resident
+ 4    Gavlik, Joanna            1228250051  0051-687   Ira A Fulton Engineering        - Computer Science (Sftwre Engr)   Junior       jgavlik     Resident
+ 5    Hernandez Ayala, Melissa  1229267548  7548-632   The College of Lib Arts & Sci   - Psychology BS - Tempe            Freshman     maher114    Resident
+ 6    Hested, Max               1218734439  4439-736   University College              - Explore-Social & Behavioral Sc   Junior       mhested     Resident
+ 7    Hetzler, Andrew           1221414506  4506-633   Undergrad Non-deg/Non-Fin Aid   - Sales & Marketing Essentials     Senior       ahetzler    Resident
+ 8    Kaushik, Ayush            1225096990  6990-706   Ira A Fulton Engineering        - Computer Science (Sftwre Engr)   Sophomore    akaush27    Non-Resident
+ 9    Kelly, Brianna            1230160414  0414-917   W.P. Carey School of Business   - Economics                        Freshman     bmkelly8    Resident
+10    Lu, Luke                  1225855087  5087-335   Integrative Sciences & Arts     - Interdisciplinary Studies        Sophomore    lukelu      Non-Resident
+11    Majchrzak, Krystian       1224625935  5935-950   Ira A Fulton Engineering        - Computer Science (Cybersec)      Sophomore    kmajchrz    Resident
+12    McCarthy, Avery           1226055339  5339-792   MaryLouFulton Teachers College  - Elementary Education             Sophomore    admccar6    Non-Resident
+13    McLaughlin, Avery         1224981797  1797-072   The College of Lib Arts & Sci   - Family & Human Development       Sophomore    amclau12    Non-Resident
+14    Otoole, Finnegan          1224737007  7007-513   Herberger Institute             - Architectural Studies            Sophomore    fotoole     Resident
+15    Schlachter, Sage          1231244458  4458-995   The College of Lib Arts & Sci   - Psychology BA                    Sophomore    sschlach    Non-Resident
+16    Swan, Tyler               1225389932  9932-492   W.P. Carey School of Business   - Business-BA                      Sophomore    tswan3      Resident
+17    Towers, Ben               1225232749  2749-354   The College of Lib Arts & Sci   - History                          Sophomore    btowers1    Non-Resident
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Logan Conrad        Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85292  AST 111   Intro/Solar Systems Astronomy (Lab)   20/24     Windhorst, Staff  Th       7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 460
+
+Nr    Name                      ID          PostingID  Program and Plan                Academic Level                     Year         ASURITE     Residency
+ 1    Adhikari, Anubhav         1228877171  7171-981   Ira A Fulton Engineering        - Computer Science - BS            Freshman     aadhik21    Non-Resident
+ 2    Bates, Ethan              1224433665  3665-426   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    edbates     Non-Resident
+ 3    Carrington, Mae           1224603913  3913-357   Ira A Fulton Engineering        - Aerospace Engr (Astronautics)    Junior       mcarrin3    Resident
+ 4    Castaneda Marquez, Luis   1224873858  3858-931   Ira A Fulton Engineering        - Aerospace Engr (Astronautics)    Sophomore    lcasta16    Resident
+ 5    Edmiston, Adam            1224171286  1286-807   The College of Lib Arts & Sci   - Physics                          Sophomore    aedmist1    Resident
+ 6    Groman, Jacob             1229145270  5270-882   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    jdgroman    Resident
+ 7    Krosschell, Vince         1225069768  9768-612   Herberger Institute             - Art (Museum Studies)             Sophomore    kkrossch    Resident
+ 8    Lopez Delfin, Anthony     1226125968  5968-002   W.P. Carey School of Business   - Business-BA                      Sophomore    alopezd4    Resident
+ 9    Merrill, Sydney           1224727998  7998-820   Herberger Institute             - Art (Animation)                  Senior       slmerril    Resident
+10    Murray, Miles             1224749214  9214-751   The College of Lib Arts & Sci   - Bio Sci (Conser Bio & Ecology)   Sophomore    bemurray    Non-Resident
+11    Newhouse, Eric            1224775409  5409-823   Ira A Fulton Engineering        - Computer Science - BS            Sophomore    enewhous    Resident
+12    Robledo, Maryan           1224107911  7911-327   The College of Lib Arts & Sci   - Political Science BA             Junior       mrobled8    Resident
+13    Salgado Barroso, Jose     1224627378  7378-061   W.P. Carey School of Business   - Marketing                        Sophomore    jsalga23    Resident
+14    Sneor, Grant              1220955554  5554-093   Herberger Institute             - Mda Art & Sc (Graph Info Tech)   Sophomore    gsneor      Non-Resident
+15    Spector, William          1222321178  1178-562   W.P. Carey School of Business   - Business (Law)                   Sophomore    wspector    Non-Resident
+16    Sullivan, Jack            1225038750  8750-572   W.P. Carey School of Business   - Business Entrepreneurship        Sophomore    jbsulli2    Non-Resident
+17    Togao, Yuki               1224902341  2341-435   W.P. Carey School of Business   - Business (Sports Business)       Sophomore    ytogao      Non-Resident
+18    Tse, Yip                  1225930357  0357-070   W.P. Carey School of Business   - Marketing                        Sophomore    ytse7       Non-Resident
+19    Willems, Ryan             1224539602  9602-296   W.P. Carey School of Business   - Supply Chain Management          Sophomore    rjwillem    Resident
+20    Yu, Dalton                1229595642  5642-514   Ira A Fulton Engineering        - Computer Science - BS            Freshman     dryu9       Resident
+
+===============================================================================================================================================================
+

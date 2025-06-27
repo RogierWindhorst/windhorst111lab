@@ -1,0 +1,89 @@
+Date: Wed, 27 Jan 2016 00:35:04 -0700
+From: Rhonda Holton <rkholton@asu.edu>
+To: Rogier Windhorst <Rogier.Windhorst@asu.edu>, Teresa Ashcraft
+<Teresa.ashcraft@asu.edu>, Bhavin Ashok Joshi <bajoshi@asu.edu>, Nathan Smith
+<Nathan.David.Smith@asu.edu>, Duho Kim <Duho.Kim@asu.edu>, Jake Hanson
+<Jake.Hanson@asu.edu>, Stephanie Stawinski <stephanie.stawinski@asu.edu>
+Subject: Telescope Lab Notes
+
+Hey Everyone,
+
+Tonight, I did the first telescope lab where I have students drive the
+telescopes themselves. I wanted to share some of my experiences with you.
+
+1) I initially started out by having all of my students align their telescopes
+as a class. DO NOT do this. Since the first activity has you turn off the
+telescope to measure the field of view, it resets all the alignments and your
+students will have to do it all over again for section
+
+2. Originally, I thought this would be ok because it would give them practice
+aligning. In the end, it simply took too much time. Instead, I recommend the
+following:
+
+- Give them a quick tour of the night sky. I showed them Orion, the Pleiades,
+Taurus, and Polaris.
+
+- Have them turn on their telescopes and use the control paddle to move the
+telescope manually to Sirius. They should be able to first line it up in the
+telrad and then find it in their eyepiece
+
+- Once they find Sirius in their eyepiece, have them move the star to just
+outside the RIGHT side of their field of view and turn off the motor
+
+- Wait until Sirius enters the field of view and start the stopwatch. When
+Sirius move out of the field of view on the other side, stop the stop watch.
+
+- This is their 1st measurement for Exercise 1. Wash, rinse, repeat for the
+other measurements.
+
+AFTER they have finished Exercise 1, THEN lead them through aligning the
+telescope. They will use this alignment for completing parts 2 and 3. Because
+you will have students complete Exercise 1 at different times, this may mean
+explaining the alignment process several times. Teresa has a print out that
+should help. Most of my students took home that print out by accident, but I
+will try to print out more before tomorrow's lab.
+
+2) Choose Sirius and Caph for your aligning stars. (Or Sirius and Polaris.) I
+was originally planning on using Capella, but for some reason, after aligning
+on Sirius, Capella does not show up on the list of stars you can align off of.
+Caph and Polaris are both options that you can use.
+
+3) For exercise 2, you will want to use an extended object, if you can. I had a
+couple students who did their alignment well enough to find the Orion Nebula,
+which they liked to see. Some students did the moon (for which I provided
+neutral density filters). Teresa recommended using the Pleiades as a good
+object for Exercise 2.
+
+4) WARN YOUR STUDENTS to keep an eye on the power cords. If they get wrapped
+too far around the telescope, then it will hurt the cord. I had a group snap a
+cord connection this way, and now that power cord is useless. (Teresa found a
+replacement cord for that telescope.) Warn them at the beginning. Warn them
+again as you show them how to align their telescopes. And warn them a third
+time as they are working on the lab.
+
+About 1/3 of my students got through all 3 activities. All but 1 group got
+through exercises 1 and 2, and only 1 group did not quite complete exercise 2.
+I think that by adjusting my teaching, as listed above, I can get most of my
+students through all 3 exercises, but I will keep you guys informed.
+
+Some final notes:
+
+- Keep an eye on the telrads. Some of the batteries are starting to get low.
+Make sure you turn them off when your students are done for the night.
+
+- The control paddle on telescope 8 is on the fritz. It would occasionally
+randomly reset itself.
+
+- Remind your student to dress warmly! It is AZ, but it gets chilly at night
+this time of year.
+
+That is all for now. Good luck!
+
+~Rhonda
+
+*******
+*Rhonda K Holton*
+*PhD Student, Astrophysics*
+*Arizona State University*
+*School of Earth and Space Exploration*
+

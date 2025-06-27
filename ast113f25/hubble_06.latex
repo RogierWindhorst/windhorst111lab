@@ -1,0 +1,498 @@
+\documentstyle[psfig,11pt]{article}
+
+\begin{document}
+
+\font\kxbgsy=cmsy10 scaled \magstep4
+\font\kwbgsy=cmsy10 scaled \magstep3
+\font\kvbgsy=cmsy10 scaled \magstep2
+
+\pagestyle{empty}
+
+\input /home/raw/papers/texinit.latex
+
+\setlength{\textwidth}{6.5in}
+\setlength{\textheight}{9.0in}
+\setlength{\oddsidemargin}{0.0in}
+\setlength{\evensidemargin}{0.0in}
+\setlength{\topmargin}{-0.3in}
+
+%%% \magnification \magstep1
+\def\ub{\underbar}
+
+%%% \nopagenumbers
+
+\centerline{\bf THE EXPANSION RATE AND AGE OF THE UNIVERSE}
+
+\vskip 20pt \noindent \ub{\bf I. Introduction:}
+
+\vskip 10pt \rm The visible Universe contains about 100 billion galaxies of 
+several different types. The oldest galaxies are the \it elliptical galaxies,
+\rm which show almost no evidence of new stars being born. Most of their stars
+were formed long ago, and these galaxies have not changed very much since. 
+The \it spiral galaxies \rm are of intermediate-age. Each of them shows a
+slightly different spiral pattern where star formation occurred and is still
+going on. Finally, there are \it dwarf \rm and \it irregular \rm galaxies
+which only recently started to form most of their stars and are presumably the
+youngest in the family of galaxies.
+
+Thus, it is not surprising that the Universe has not always looked the same. 
+Galaxies change with time because stars form and die. When did this start? 
+Astronomers think that the Universe had its Beginning through a big explosion
+that created the seeds out of which all galaxies (and the stars within them)
+formed. This event is known as \it The Big Bang. \rm It can still be observed
+through the expansion of the Universe, seen in the recession of galaxies away
+from each other. We will measure the \it Expansion Rate \rm of these galaxies
+and from that derive the current \it Age of the Universe. \rm
+
+\vskip 10pt \bf Distances: \rm One of the fundamental problems in cosmology is 
+how to determine accurate distances for galaxies. The majority of galaxies 
+are too far away to use \it parallaxes \rm or other \it standard candles, \rm 
+such as Cepheid variable stars or luminous supergiants, to measure their
+distances. In general, these galaxies are too distant for us to see individual
+stars. Thus, we must use an indirect method such as the \it apparent \rm size
+of the entire galaxy to determine its distance. Indirect methods must be \it
+calibrated \rm using nearby galaxies which are close enough for us to resolve
+individual stars whose distances we can determine by direct methods. 
+Basically, there are two methods to determine distances to very distant 
+galaxies.
+
+\vskip 10pt 1) \it Giant ellipticals \rm all have approximately the same \it
+linear diameter, \rm L, (expressed in \it kilo-parsecs). \rm Thus, one can
+measure the galaxy's \it angular diameter, \rm A (in arcseconds), and derive
+its \it distance, \rm R (in kilo-parsecs), as follows:
+
+\vskip 10pt \centerline{L(kpc) / R(kpc) $=$ A\tt "\rm /206265\tt"}
+
+\vskip 5pt \centerline{\rm Therefore:~~ distance $=$ R(kpc) $=$ [206265\tt " \rm
+ x L(kpc)] / A\tt "}
+
+\vskip 10pt \rm This distance determination technique is referred to as the
+\it standard rod \rm method. It is not perfect, because not all galaxies have
+the same linear diameter. However, we will use this approximation to find
+distances for the galaxies in our sample. 
+
+\vskip 10pt 2) The second method assumes that a certain types of galaxies all
+have the same \it absolute magnitude, \rm M (intrinsic brightness). From the
+observed \it apparent magnitude, \rm m, the distance can be derived using the
+\it Inverse Square Law. \rm Because most galaxies were more actively forming
+stars in the past, this method has the disadvantage that the \it absolute
+magnitudes \rm of galaxies at large distances may be brighter. Therefore, this
+\it standard candle \rm method is not as reliable as the \it standard rod \rm
+method described above. 
+
+\vskip 10pt \bf Units: \rm Because a variety of different kinds of units are
+needed in this Lab Exercise, some conversions are listed below:
+
+\vskip 10pt 
+
+1 Mega-parsec $=$ 1 Mpc $=$ 10$^3$ kilo-parsecs $=$ 10$^6$ parsecs
+
+1 kiloparsec $=$ 1 kpc $=$ 1000 parsecs $=$ 10$^3$ pc $=$ 3 x 10$^{19}$ km 
+
+1 parsec $=$ 1 pc $=$ 3 x 10$^{13}$ km $=$ 206265 astronomical units 
+
+1 astronomical unit $=$ 1 a.u. $=$ average Earth to Sun distance $=$ 1.5 x
+10$^8$ km
+
+\vskip 20pt \noindent \ub{\bf II. Determining the Distances of Galaxies \rm}
+
+\vskip 10pt We will use the \it standard rod \rm method to determine the
+distances to five galaxies whose images and spectra are shown in the
+photograph (Figure 1). All five galaxies are reproduced at the same \it scale,
+\rm so that more distant galaxies appear smaller. 
+
+\vskip 10pt 1) Determine the \it scale \rm of the photographs. The horizontal 
+\it angular size \rm of each image $=$ 3.93 \it arc minutes \rm ($3.93'$) $=$
+235.8 arc seconds (235.8\tt "\rm ). 
+
+\vskip 5pt \noindent Average horizontal \it linear size \rm of each photograph
+is: \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} mm
+
+\vskip 5pt \noindent Thus, the \it scale \rm of each photograph is: ~~ angular
+size/linear size $=$ \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} \tt "\rm /mm
+
+\vskip 10pt 2) Measure the \it diameter, \rm d (in millimeters), of all 5
+galaxies in Figure 1. The measurements must be as accurate as possible,
+preferably within 0.2 mm. Repeat each measurement a few times. For galaxies
+that are not circular in shape, determine the diameter along the \it major \rm
+and \it minor axes \rm (\it i.e. \rm the longest and shortest dimensions) and
+average the two values. The fifth photograph is of a double galaxy; measure
+only the left-most galaxy. Record the names of the galaxies in the first
+column of Table 1 and your measurements in the second column. 
+
+\vskip 5pt \noindent Estimate the size of your \it measurement error \rm for
+the diameters: \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} mm
+
+\vskip 10pt 3) Convert the \it measured diameter, \rm d(mm), to \it angular
+diameter, \rm A(\tt "\rm ), using the \it scale \rm of the photograph from
+Question 1. Remember that:
+
+\vskip 5pt \centerline{A(\tt "\rm ) $=$ d(mm) x scale(\tt "\rm /mm)}
+
+\vskip 5pt \noindent Record your values of the \it angular diameter, \rm A, 
+in the third column of Table 1.
+
+\vskip 10pt 4) Compute the \it distance, \rm R, to each of the galaxies using
+your angular diameters, A(\tt "\rm ). Because the distances are very large we
+will use mega-parsec (Mpc) rather than kilo-parsecs (kpc). We are observing
+giant elliptical galaxies which are assumed to have intrinsic \it linear
+diameters, \rm L, $=$ 32 kpc. Hence their \it distances, \rm R(Mpc) are:
+
+\vskip 10pt \centerline{R(Mpc) $=$ [206.265 x L(kpc)]/ A\tt "\rm $=$ (206.265 x
+32)/A}
+
+\vskip 10pt This version of the formula takes into account the fact that L is
+in \it kpc, \rm and R is in \it Mpc, \rm the common units of measure for both
+quantities. Compute the distances to all five galaxies, and record the values
+in the fourth column of Table 1.
+
+\vskip 10pt
+
+5) Name the nearest of your five galaxies: \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} 
+
+\vskip 5pt Name the galaxy with the largest angular diameter: 
+\ub{~~~~~~~~~~~~~~~~~~~~~~~~~}
+
+\vskip 5pt Should these answers be the same or different? Explain why. 
+
+\vskip 20pt \noindent \ub{\bf III. Determining the Recession Velocities of
+Galaxies:}
+
+\vskip 10pt \rm The Big Bang explosion gave birth to our Universe and all the
+galaxies within it. This explosion generated a universal expansion, with every
+galaxy moving away from every other one with a recession velocity that 
+increases with distance. No single galaxy is located in the center of this
+cosmic explosion, because the expansion occurs at the same rate everywhere. 
+Even though it appears to us that our Milky Way Galaxy is in the center of the
+cosmic expansion, observers at any other galaxies would see the same universal
+expansion and think they were at the apparent center. This is because the
+Universe expands without an apparent center in \it space, \rm but only a center
+in \it time: \rm the moment zero, when the Big Bang started.
+
+The consequence of the universal expansion is that all galaxies recede at high
+velocities from each other. This results in an apparent shift of their light
+towards longer (redder) wavelengths. This effect is called the \it Doppler
+redshift. \rm The amount of \it redshift \rm is directly proportional to the
+recession velocity. This redshift can be found by measuring how far a line in
+the galaxy's spectrum is shifted to longer wavelengths (red-wards). To measure
+this we use the spectrum next to each galaxy's photograph in Figure 1.
+
+A spectrum is an image of a galaxy spread out into colors (or wavelengths) of
+visible light. The blue/violet spectral region (on the left side) has the
+shortest wavelengths, $\sim$3000 Angstroms (1 Angstrom, \AA, $=$ 0.000,000,000,1
+meter $=$ 10$^{-10}$ meter). The red region (on the right side of the
+spectrum) has the longest wavelengths, $\sim$5000 \AA. \vskip 10pt
+
+6) First, \it calibrate \rm the spectral scale (\it i.e. \rm how many 
+Angstroms are in one millimeter on the spectrum photograph). We use a
+calibration spectrum from the chemical element helium. The helium spectrum is
+shown above and below each galaxy spectrum. The helium calibration lines are 
+marked with the arrows in the upper spectrum. They have wavelengths of 3888.7
+\AA\ and 5014.9 \AA, and correspond to the lines labeled $a$ and $g$ at the
+bottom of Fig. 1.
+
+\vskip 5pt \noindent The difference in wavelength (\AA) between the helium lines
+is \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} \AA\ 
+
+\vskip 5pt \noindent The measured distance between these lines is
+\ub{~~~~~~~~~~~~~~~~~~~~~~~~~} mm 
+
+\vskip 5pt \noindent Therefore, the \it spectral scale \rm $=$ [difference in
+wavelength (\AA)] / [measured distance] $=$ \ub{~~~~~~~~~~~~~~~~~~~~~~~~~}
+\AA/mm
+
+\vskip 10pt 7) Now determine the \it redshift \rm for every galaxy. We use the
+two strong absorption lines caused by the element calcium (the so-called \it H
+and K lines) \rm to measure the galaxies' redshifts. These lines show up as the
+two black dips in the cigar shaped galaxy spectrum. The amount of the spectral
+shift of these lines is indicated by the horizontal arrow below each galaxy
+spectrum. Measure the length of this arrow to within 0.5 mm, and record the
+results in the fifth column of Table 1. The amount of spectral shift is
+directly related to the redshift or recession velocity of the galaxy.
+
+\vskip 10pt 8) Use the spectral \it scale \rm derived in Question 6 to compute
+the \it wavelength shift \rm of each galaxy spectrum (in Angstroms). Record
+the results in the sixth column of Table 1.
+
+\vskip 5pt \centerline{wavelength shift(\AA) $=$ $\Delta\lambda$(\AA) $=$ measured
+spectral shift(mm) x spectral scale (\AA/mm)}
+
+\vskip 10pt 9) The \it wavelength shifts \rm (in Angstroms) are meaningless,
+unless you compare them to the wavelength that spectral line would have if the
+galaxy were not moving away from us. The position of the un-shifted line is
+referred to as the \it laboratory \rm or \it rest-frame \rm wavelength,
+$\lambda_0$. The laboratory wavelengths of the calcium \it H and K lines \rm
+are 3968.5 \AA\ and 3933.7 \AA, respectively. Compute their average rest-frame 
+wavelength:
+
+\vskip 5pt \centerline{$\lambda_0$ $=$ [\ub{~~~~~~~~~~~~~~~~~~~~~~~~~}(\AA) $+$
+\ub{~~~~~~~~~~~~~~~~~~~~~~~~~}(\AA)] / 2 $=$ \ub{~~~~~~~~~~~~~~~~~~~~~~~~~}
+(\AA) }
+
+\vskip 5pt The tail of the arrow in each spectrum indicates the \it rest-frame 
+wavelength position \rm of the average of the calcium lines. The head of the
+arrow indicates their redshifted position. Divide the wavelength shift,
+$\Delta\lambda$, by the average rest-frame wavelength of the calcium lines, 
+$\lambda_0$. Record the results in the seventh column of Table 1. This ratio
+is a dimensionless number, which is referred to as the \it redshift, \rm Z.
+
+\vskip 5pt \centerline{redshift $=$ Z $=$ [wavelength shift(\AA)] / [rest-frame 
+wavelength] $=$ $\Delta\lambda$ / $\lambda_0$}
+
+\vskip 10pt 10) Using the Doppler relation, the \it recession velocity, \rm V,
+for each galaxy is: 
+
+\vskip 5pt \centerline{V $=$ c x $\Delta\lambda(\AA)$ / $\lambda_0$(\AA) $=$ c
+x Z}
+
+\vskip 10pt where: ~~ Z is the redshift that you calculated (column 7 of Table
+1), 
+
+and ~~~~~~~c is the speed of light (c $=$ 300,000 $=$ 3 x 10$^5$ km/sec) 
+
+\vskip 10pt \noindent Record the recession velocities, V, in the eighth column
+of Table 1.
+
+\vskip 20pt \noindent \ub{\bf IV. Determining the Expansion Rate of the
+Universe:} 
+
+\vskip 10pt \rm In 1929, Edwin Hubble discovered that the Universe is
+expanding. He used photographs similar to those in this lab. From the \it
+distances \rm and \it recession \rm velocities measured for the galaxies 
+above, we can determine the \it expansion rate \rm of the Universe in two ways
+using (a) a graph of recession velocity \it versus \rm distance, and (b) by
+straightforward calculation using individual values of V and R in Table 1.
+
+\vskip 10pt 11) On an 8 x 11 inch sheet of graph paper plot the measured \it 
+recession velocities, \rm V (km/sec), on the vertical scale versus the measured
+\it distances, \rm R (in Mpc), on the horizontal scale, for all five galaxies
+\ub{plus} our Milky Way Galaxy (given in Table 1). For the vertical scale use
+5,000 km/sec $=$ 1 cm on your graph paper; for the horizontal scale use 50 Mpc
+$=$ 1 cm. Mark both scales on the graph paper and label the axes. 
+
+\vskip 5pt What relationship do you observe between the recession velocity and
+the galaxy distances? 
+
+\vskip 40pt This was exactly the discovery that Hubble made $-$ the greater the
+distance to a galaxy, the faster it moves away from us. That's what we call
+expansion! Hubble expressed that relationship by the following expression:
+
+\vskip 10pt \centerline{V (km/sec) $=$ H x R (Mpc)}
+
+\vskip 10pt \noindent Where H is now called the \it Hubble Constant. \rm It
+indicates how many km/sec faster a galaxy will recede away from us for every
+Mpc of distance it is away from us. The units of the Hubble constant are \it
+kilometers per second per mega-parsec \rm (or km/sec/Mpc).
+
+\vskip 10pt 12) Draw a \it best fit line \rm through the points on your graph,
+with the line going \ub{exactly} through the origin. The line you draw should
+have equal numbers of galaxies above and below it. The \it slope \rm of this
+line is equal to the \it Hubble constant. \rm Determine your value of the \it
+Hubble Constant \rm by reading the velocity that corresponds to R = 1000 Mpc
+from the best-fit line on your graph. 
+
+\vskip 10pt \centerline{H $=$ V/R $=$ \ub{~~~~~~~~~~~~~~~~~~~~~~~~~}
+km/sec/1000 Mpc $=$ \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} km/sec/Mpc}
+
+\vskip 10pt 13) You can also make a crude estimate of the Hubble constant from 
+the measured recession velocity, V, and distance, R, for each galaxy
+individually. Simply determine H $=$ V /R for each galaxy, and write the
+results in the ninth column of Table 1. 
+
+\vskip 10pt \noindent The average value of the Hubble constant determined this
+way is: 
+
+\vskip 5pt \centerline{H $=$ \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} (include units !)}
+
+\vskip 10pt How does this average value of the Hubble constant compare to the
+best fit value that you obtained in Question 12? 
+
+\vskip 20pt \noindent \ub{\bf V. Determining the Age of the Universe:}
+
+\vskip 10pt \rm When Hubble first determined the expansion rate of the Universe 
+he obtained H $=$ 550 km/sec/Mpc. However, when the 200 inch telescope at
+Mount Palomar came into use in 1948, several errors in the distance scale were 
+discovered. It turned out that the real Universe was several times larger 
+than previously thought. Currently, it is believed that the most likely value 
+of the Hubble Constant is between 70 and 75 km/sec/Mpc. If the real Hubble
+Constant is indeed about 73 km/sec/Mpc, this is 7--8 times smaller than
+Hubble's value. Thus our Universe is $\sim$7--8 times bigger and older than
+Hubble thought. This illustrates how difficult extragalactic astronomy is. 
+
+\vskip 5pt 14) If the true value of the Hubble constant is 73 km/sec/Mpc, what
+is the percentage error in your determination from the graph? SHOW WORK
+
+\vskip 1.5truecm Name at least four uncertainties resulting from your
+measurements on the photographs (two of them have to do with scales of the
+photograph):
+
+\vskip 5pt a)
+
+\vskip 10pt b)
+
+\vskip 10pt c)
+
+\vskip 10pt d) 
+
+\vskip 10pt The major source of uncertainty in the determination of the Hubble
+Constant has nothing to do with your measurements, but is the consequence of
+one of our assumptions. Which assumption do you think that is?
+
+\vskip 2truecm 15) We can now calculate the current \it Age of the Universe.
+\rm If all galaxies were packed closely together at the initial moment of the
+Big Bang, and if the expansion of the Universe has not slowed down since then,
+a galaxy we observe today (at a distance, R, and with a recession velocity, V)
+would have traveled exactly the distance R during the total Age of the
+Universe, T. Since \it distance \rm $=$ \it rate \rm times \it time, \rm we
+can write:
+
+\vskip 10pt \centerline{R $=$ V x T ~~~~~~or: ~~~~~~~V $=$ R / T}
+
+\vskip 10pt Hubble's law tells us that V $=$ H x R, so we can substitute: 
+
+\vskip 10pt \centerline{R / T $=$ H x R}
+
+\vskip 10pt Thus, the \it Age of the Universe, \rm T, is equal to: 
+
+\vskip 5pt \centerline{T $=$ 1 / H}
+
+\vskip 5pt Compute the current Age of the Universe, using your best-fit value
+of the Hubble Constant. However, our galaxy distances were measured in
+mega-parsecs. Therefore, in order to determine the age (in seconds), we must
+change our value of H from units of km/sec/Mpc into units of km/sec/km. Using
+your value: 
+
+\vskip 5pt \noindent H $=$ \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} km/sec/Mpc / (3 x
+10$^{19}$ km/Mpc) $=$ \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} km/sec/km
+
+\vskip 10pt \noindent Finally, the \it total \rm Age of the Universe in seconds:
+
+\vskip 10pt \centerline{T $=$ 1 / H (km/sec/km) $=$
+\ub{~~~~~~~~~~~~~~~~~~~~~~~~~} seconds}
+
+\vskip 10pt \noindent Since a second is a very small unit, change this age from
+seconds to Giga-years (Gyr) (units of a billion years). Number of seconds in a
+year $=$ 365.2425 days x 24 hours x 60 minutes x 60 seconds $=$ 3.156 x 10$^7$
+sec. 
+
+\vskip 5pt Since, 1 Giga-year (Gyr) $=$ 1 billion years $=$ 1,000,000,000 year
+$=$ 10$^9$ yr 
+
+\vskip 5pt \centerline{1 Gyr $=$ \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} sec}
+
+\vskip 5pt \noindent Thus, from your best-fit value of H, the Age of the
+Universe is:
+
+\vskip 10pt \centerline{T $=$ \ub{~~~~~~~~~~~~~~~~~~~~~~~~~} Gyr}
+
+\vskip 10pt The currently adopted best value for the Age of the Universe is 13.7 
+Gyr. How large is your percentage error in T? 
+
+\vskip 1.5truecm 16) The current age of our \it solar system \rm is about 4.65
+Gyr. 
+
+The oldest stars in the Milky Way Galaxy are about 12 - 13 Gyr. 
+
+The oldest known galaxies, the \it giant ellipticals, \rm have ages about 13 Gyr. 
+
+\vskip 5pt If your determination of the \it Age of the Universe \rm is the
+true value, is it consistent with these galaxy ages? Explain.
+
+\vskip 1.5truecm If you had measured a Hubble constant twice as large as you
+did, what would your Age of the Universe have been? 
+
+\vskip 40pt Would that value have been consistent with the above galaxy ages? 
+Explain why or why not. 
+
+
+\ve 
+\vspace*{-2.0cm}\hspace*{-2.5cm}\begin{verbatim}
+          Table 1. Galaxy distances and redshifts (as measured from Figure 1).
+===========================================================================================
+
+  Galaxy  Diameter  Angular   Distance  Spectral  Spectral   Spectral  Recession   Hubble's
+  Name    d         Size A    R         Shift     Shift in   Shift /   Velocity v  constant
+          (mm)      (")       (Mpc)     (mm)      Angstrom   lambda0   (km/sec)    H=v/R
+-------------------------------------------------------------------------------------------
+
+0 Our own    --        --       0         0          0          0         0          --
+
+
+1 .....   ........  ........  ........  ........  .........  ........  .........  ........ 
+
+
+2 .....   ........  ........  ........  ........  .........  ........  .........  ........ 
+
+
+3 .....   ........  ........  ........  ........  .........  ........  .........  ........ 
+
+
+4 .....   ........  ........  ........  ........  .........  ........  .........  ........ 
+
+
+5 .....   ........  ........  ........  ........  .........  ........  .........  ........ 
+
+------------------------------------------------------------------------------------------
+\end{verbatim}
+
+\bn
+
+\bf \indent Notes to recall the expressions above \rm (be sure to include units!):
+
+\vskip 10pt \noindent Col. 2: Diameter, d, measured size (mm) from galaxy
+photograph
+
+\vskip 5pt \noindent Col. 3: Angular size, A(\tt "\rm) $=$ d(mm) x scale(\tt
+"\rm /mm)
+
+\vskip 5pt ~~~~~Photographic scale, from Question 1 $=$ $_{----------}$
+
+\vskip 5pt \noindent Col. 4: Distance, R(Mpc) $=$ 206.265 x L(kpc) / A(\tt
+"\rm) 
+
+\vskip 5pt ~~~~~From Question 4, L $=$ $_{----------}$
+
+\vskip 5pt \noindent Col. 5: Spectral shift, measured distance (mm) that Ca II
+lines shifted in spectrum
+
+\vskip 5pt \noindent Col. 6: Wavelength shift, $\Delta\lambda$(A) $=$
+[spectral shift(mm)] x [spectral scale(A/mm)]
+
+\vskip 5pt ~~~~~Spectral scale, from Question 6 $=$ $_{----------}$ \vskip 5pt
+\noindent
+
+Col. 7: Redshift, Z $=$ [wavelength shift(A)] / [rest-frame wavelength (A)] $=$
+$\Delta\lambda$/$\lambda_0$ \vskip 5pt ~~~~~Average rest-frame wavelength of
+CAI lines, from Question 9, $\lambda_0$ $=$ $_{----------}$
+
+\vskip 5pt \noindent Col. 8: Recession velocity, V(km/sec) $=$ [speed of light]
+x [redshift] $=$ c Z
+
+\vskip 5pt ~~~~~Speed of light, c $=$ 3 x 10$^5$ km/sec
+
+\vskip 5pt \noindent Col. 9: Hubble Constant (km/sec/Mpc), H $=$ [recession
+velocity] / [distance] $=$ V / R
+
+\ve 
+
+\bn {\bf Fig. 1 [shown on next page].}\ {\ksmss Images [LEFT PANELS] and spectra
+[RIGHT PANELS] of five distant giant elliptical galaxies. The galaxy spectrum
+is the cigar-shaped horizontal light streak sandwiched between two helium
+comparison spectra. The vertical dashes labeled $a$ and $g$ at the bottom point
+to the strong helium comparison lines at 3888 \AA and 5015 \AA, \rm
+respectively. The horizontal arrows show the amount of \it redshift \rm of the
+calcium K and H absorption lines in each galaxy's spectrum. The left panels
+will be used to measure the galaxy apparent diameters and --- given their known
+linear diameters --- their approximate distances. The right panels will be used
+to measure their spectral redshifts resulting from the universal expansion. The
+two together will estimate the expansion rate of the universe (in Table 1), and
+thereby the age of the universe. Photographs are from Hale Observatories. }
+
+
+\ve
+
+\vspace*{-2.75cm}
+\n \cl {\psfig{file=hubble.galspec.ps,width=1.00\textwidth} }
+
+
+\end{document}

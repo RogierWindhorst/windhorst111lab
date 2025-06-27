@@ -1,0 +1,100 @@
+Date: Wed, 17 Nov 2010 15:30:48 -0700
+From: Angel G. Fuentes <agfuente@asu.edu>
+To: Karen Knierman <Karen.Knierman@asu.edu>
+Cc: Rogier Windhorst <Rogier.Windhorst@asu.edu>, Robert Alling <Robert.Alling@asu.edu>, Joshua Begay <jjbegay5@asu.edu>, Marian Benton <Marian.Benton@asu.edu>, Bryce Carande <bcarande@asu.edu>, John Geier <jjgeier@asu.edu>, Jacqueline Monkiewicz <Jacqueline.Monkiewicz@asu.edu>, Kelley Liebst <Kelley.Liebst@asu.edu>, Mark Rubin <Mark.E.Rubin@asu.edu>, Sara Swinson <sara.swinson@asu.edu>
+Subject: Evals step-by-step
+
+TAs,
+
+Here are the step-by-step instructions on how to set up the evals.
+
+1) Download the file I sent you on the previous email. The file is a  
+zipped file. DO NOT UNZIP THE FILE.
+
+2) Rename the part of the file name that has the section number.  
+Replace it with the section number of one of your sections.
+
+3) Go to the blackboard (hereafter BB) page of the section you chose  
+(the one you changed the name of the zipped file with).
+
+4) On the lower left part of the BB page click on Course Tools (under  
+the Course Management menu).
+
+5) Click on Tests, Surveys and Pools.
+
+6) Click on Surveys.
+
+7) Click on Import Surveys.
+
+8) Click on Browse for Local File.
+
+9) Select the renamed zip file.
+
+10) Click Submit and wait for a WHILE. The file is 17 Mb so it will  
+take a while.
+
+11) Once it uploads click ok.
+
+12) Next to the name of the file there is a button with 2 arrows that  
+point down. Click on it and click Edit.
+
+13) Next to the word Header there is a button with 2 arrows that point  
+down. Click on it and click Edit.
+
+14) OPTIONAL: If you don't want to give your students 10 extra credit  
+points for completing it delete that sentence. I delete it because I  
+feel it is a little of an ethical problem giving students pts for  
+evaluations.
+
+15) Click on Submit.
+
+16) Now on the top left of the BB page there is a red box with the  
+different sections of the page. Above it there is a  button with a +  
+sign. It is a maroon square and the + sign is white. Move your mouse  
+to it and click on Create Content Area.
+
+17) Name it Course Evaluations and DO NOT FORGET to select the box  
+that says Available to Users. Click Submit.
+
+18) Go to that Content Area you just created.
+
+19) Move your mouse to the button called Evaluate and click on Create  
+Survey.
+
+20) Select the name of the zipped file you uploaded earlier from the  
+Add Survey box and click Submit.
+
+21) OPTIONAL: Change the name of the file to remove the underscores.
+
+22) THIS IS PROBABLY THE MOST IMPORTANT THING. Under Survey  
+Availability there is an option called Make the Link Available. SELECT  
+YES. If you don't your students won't see the evaluations.
+
+23) Under Survey Availability there is an option called Add a New  
+Announcement for this Survey. Select yes.
+
+24) OPTIONAL: Change the options to your liking. Just know that the  
+surveys should be completed before you give them the grades. You  
+should set up a deadline on the Display Until option to Dec. 7th,  
+2010. If you make it password protected you need to give the students  
+the password. Click Submit.
+
+25) Email your students letting them know how to access the Evals.
+
+26) Go have a good glass of wine, maybe a nice Gewürztraminer or a  
+something from Burgundy. You deserve it after doing this for every  
+single section. Don't forget to change the name of the file for every  
+single section.
+
+27) Drink the rest of the bottle of wine. Well if tomorrow is a school  
+day then only drink half. If it is the weekend, bottoms up.
+
+Cheers,
+
+Angel G. Fuentes
+Astrophysics Graduate Student
+School of Earth and Space Exploration
+Arizona State University
+angel.fuentes@asu.edu
+
+

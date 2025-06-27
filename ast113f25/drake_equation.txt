@@ -1,0 +1,20 @@
+There are ~10^12 galaxies out there, each with !10^11 solar masses worth of
+stars. So in total about 10^23 stars inside our visible universe. 
+
+Google the  Drake Equation: it now depends on the lifetime of a civilization
+after they invent (radio) telescopes (by which they are thought to communicate)
+on whether any other civilizations can ever been detected or communicated with.
+
+If civilizations are unwise enough to destroy themselves within say 100-200 years
+after they invent large telescopes, they may never see each other. They may be
+like fireflies in the night ... For a real calculation, see: 
+
+https://www.spacecentre.nz/resources/tools/drake-equation-calculator.html
+
+https://www.pbs.org/lifebeyondearth/listening/drake.html
+
+N = R x fp x ne x fl x fi x fc x L.
+
+If I use a realistic: R=1.0 star born/yr, fp=0.8, Ne=0.01, Fl=0.5, Fi=1, Fc=1, 
+L=100 yrs, then I get 0.4 civilization in the Milky Way. Just us!
+

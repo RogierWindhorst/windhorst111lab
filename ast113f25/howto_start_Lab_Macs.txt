@@ -1,0 +1,46 @@
+Date: Fri, 28 Aug 2015 16:25:38 -0700
+From: Matthew Wiser <Matthew.Wiser@asu.edu>
+To: Ramon Arrowsmith <ramon.arrowsmith@asu.edu>, Paul Scowen
+<paul.scowen@asu.edu>, Rogier Windhorst <Rogier.Windhorst@asu.edu>, Jekan
+Thanga <jekan@asu.edu>, Kelin Whipple <kxw@asu.edu>, Philip Mauskopf
+<Philip.Mauskopf@asu.edu>, Nathaniel Butler <natbutler@asu.edu>
+Cc: Chris Groppi <cgroppi@asu.edu>, Stephen Reynolds <sreynolds@asu.edu>
+Subject: PSH461 iMac notes
+
+I installed a boot loader on the PSH461 computers, in an attempt to make it
+easier to choose between Mac OS and Windows. Now, when you restart the computer
+you'll be given a menu. There's no need to press/hold the ``option'' key.
+
+The boot loader incorrectly detected an OS-reserved Windows partition as
+bootable, so you'll see two Windows launchers. The launcher on the right won't
+work. Always choose the Windows launcher on the left. If the right-hand one is
+chosen you'll see a message that reads ``no boot device --- please insert
+disk'' or something to that effect, and the computer will need to be powered
+off and restarted. I didn't have time to fix that for next week but I can fix
+it in the next couple of weeks if it becomes a problem.
+
+Also, two or three of the iMacs don't seem to immediately find the mouse and
+keyboard during startup, so if the boot loader launches but you can't choose
+the OS, unplug the keyboard and plug it back in. So far, that has forced the
+affected computers to recognize the keyboard. I plan to sort that out in the
+next couple of weeks as well. Let me know if it becomes a major problem.
+
+If for whatever reason an instructor or TA needs admin permissions on these
+computers, there's an admin account on both sides called ``psh461-admin''. The
+password is 8yC4A3HL
+
+Other notes:
+
+SES330 --- The image I installed today contains the LabVIEW fixes that the NI
+engineer implemented. I noticed that while Windows is still loading, sometimes
+the ``ELVISmx Instrument Launcher'' won't start automatically when the
+instrument is plugged in. It can take a couple of minutes for Windows to load
+after logging in.
+
+GLG362 --- The geomorphology data has been updated
+
+Let me know if anyone has questions/comments.
+
+-Matt
+
+

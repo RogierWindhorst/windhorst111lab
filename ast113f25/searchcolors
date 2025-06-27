@@ -1,0 +1,38 @@
+# Search schedule.html for all the appropriate Lab colors. Run as: 
+# 
+# searchcolors > bull
+# 
+# Check file bull for the proper Lab colors afterwards
+#
+# alias sea "grep -i"
+
+
+# RED: Naked Eye Observing Labs    
+
+grep -i "Intro to the Night Sky"         schedule.html
+grep -i "Coordinate Systems"             schedule.html
+grep -i "Motion of the Night Sky"        schedule.html
+
+
+# BLUE: Telescope Observing Labs    
+
+grep -i "Intro to Telescopes"            schedule.html
+grep -i "Lunar Observing"                schedule.html
+grep -i "General Observing"              schedule.html
+
+
+# GREEN: Planetary Geology Labs
+
+grep -i "Impact Cratering"               schedule.html
+grep -i "Mapping Mars"                   schedule.html
+grep -i "Planetary Atmospheres"          schedule.html
+
+
+# PINK: Computer Labs  
+
+grep -i "Archeoastronomy"                schedule.html
+grep -i "Orbital Motion"                 schedule.html
+grep -i "Extrasolar Planets"             schedule.html
+
+
+exit

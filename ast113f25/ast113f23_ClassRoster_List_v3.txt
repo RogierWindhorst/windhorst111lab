@@ -1,0 +1,337 @@
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Katherine Elder     Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85255  AST 111   Intro/Solar Systems Astronomy (Lab)   21/21     Windhorst, Staff  M        7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 450
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Abdelrazek, Able          1224194140  4140-197   0.0
+ 2    Algorri, Antolin          1225040635  0635-889   0.0
+ 3    Alrashidi, Mousa          1227268330  8330-473   0.0
+ 4    Ballou, Logan             1225131609  1609-535   0.0
+ 5    Bollinger, Tommy          1226028104  8104-666   0.0
+ 6    Bueno, Julian             1228100434  0434-226   0.0
+ 7    Dai, Omer                 1225571412  1412-998   0.0
+ 8    Davis, Luke               1225083782  3782-690   0.0
+ 9    Devrukhkar, Smit          1228965103  5103-532   0.0
+10    Gardea, Desirey           1217798114  8114-208   0.0
+11    Heinrichs, Anthony        1226234596  4596-365   0.0
+12    James, Anton              1226764554  4554-915   0.0
+13    Kathiriya, Nehal Anilkuma 1228636619  6619-317   0.0
+14    King, Kennedy             1226125266  5266-948   0.0
+15    Lane, Jessi               1223659515  9515-790   0.0
+16    Nguyen, Joshua            1224876042  6042-087   0.0
+17    San Miguel, Nicholas      1226046525  6525-114   0.0
+18    Sanchez, Brandon          1225910974  0974-579   0.0
+19    Summy, Zak                1230409273  9273-269   0.0
+20    Trafton, Willie           1216232940  2940-567   0.0
+21    Yang, Haoran              1220612848  2848-384   0.0
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Isabel McIntyre     Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85282  AST 111   Intro/Solar Systems Astronomy (Lab)   23/24     Windhorst, Staff  M        7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 456
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Aimakov, Alisher          1230994754  4754-187   0.0
+ 2    Arnott, Jonathan          1224387177  7177-215   0.0
+ 3    Aryan, Advik              1226855281  5281-555   0.0
+ 4    Brooks, Aidan             1225222752  2752-438   0.0
+ 5    Burrola, Jacob            1224343328  3328-294   0.0
+ 6    Cahill, Kennedy           1222047320  7320-330   0.0
+ 7    Cluen, Kaylee             1225401931  1931-512   0.0
+ 8    DeBord, Josie             1224683577  3577-586   0.0
+ 9    Doan, Sarah               1212650658  0658-632   0.0
+10    Garcia, Kaycee            1224358382  8382-914   0.0
+11    Goodall, Sydney           1229152940  2940-472   0.0
+12    Herrera, Armando          1216812909  2909-956   0.0
+13    Hu, Zhendong              1225018249  8249-149   0.0
+14    LaMont, Luke              1224872766  2766-837   0.0
+15    Remedios, Anthony         1219366447  6447-022   0.0
+16    Rowe, Jackson             1225281083  1083-633   0.0
+17    San Roman, Patrick        1225136887  6887-941   0.0
+18    Schrott, Connor           1225074110  4110-946   0.0
+19    Stephens, Taylor          1222703573  3573-140   0.0
+20    Storz, Daniel             1224728141  8141-831   0.0
+21    Surendar, Rohan           1225141788  1788-318   0.0
+22    Yimer, Fetiha             1216729514  9514-579   0.0
+23    Zamudio, Brenda           1225132233  2233-583   0.0
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Zach Carpenter      Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+96316  AST 111   Intro/Solar Systems Astronomy (Lab)   19/20     Windhorst, Staff  M        8:30 PM - 11:00 PM   8/17/23 - 12/1/23     Tempe PSH 460
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Adams, Jacob              1230604455  4455-611   0.0
+ 2    Alateyah, Abdalla         1223716663  6663-931   0.0
+ 3    Cate, Gillian             1221887901  7901-214   0.0
+ 4    Coppola, Vina             1222174668  4668-206   0.0
+ 5    Crane, Taylor             1222833118  3118-479   0.0
+ 6    Feldhake, Tyler           1221610611  0611-007   0.0
+ 7    Fischer, Bella            1225907035  7035-276   0.0
+ 8    Fitch, Riley              1225220516  0516-266   0.0
+ 9    Flennoy, Kennedy          1225104283  4283-267   0.0
+10    Johnson, Kaden            1221869987  9987-438   0.0
+11    Koelbl, Charlie           1225308903  8903-156   0.0
+12    Madrid, Christopher       1222431730  1730-994   0.0
+13    Meadows, Lily             1222136279  6279-698   0.0
+14    Meyers, Jake              1226315248  5248-744   0.0
+15    Murray, Kayla             1225715582  5582-922   0.0
+16    Salbenblatt, Nash         1224966665  6665-683   0.0
+17    Sanchez, Ian              1224981251  1251-030   0.0
+18    Talone, Daniel            1224752412  2412-152   0.0
+19    Zhang, Guijun             1225973803  3803-002   0.0
+      
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Katherine Elder     Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85283  AST 111   Intro/Solar Systems Astronomy (Lab)   23/24     Windhorst, Staff  Tu       7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 450
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Carroll, Benjamin         1224543281  3281-595   0.0
+ 2    Dalgai, Shon              1226354547  4547-186   0.0
+ 3    Decker, Kate              1225080038  0038-402   0.0
+ 4    Ellis, Charlie            1225012672  2672-720   0.0
+ 5    Fiore, Anna               1224817269  7269-151   0.0
+ 6    Gonzalez, Alan            1225888393  8393-509   0.0
+ 7    Haeger, Drew              1224971800  1800-303   0.0
+ 8    Luu, Nelson               1225512782  2782-537   0.0
+ 9    McCall, Ethan             1225513640  3640-521   0.0
+10    McGhee, Jonathon          1226023060  3060-776   0.0
+11    Peachera, Daivik          1219812256  2256-194   0.0
+12    Peterson, Dayton          1225452722  2722-861   0.0
+13    Preston, Kym              1225130595  0595-457   0.0
+14    Rajyagor, Sid             1224775487  5487-829   0.0
+15    Raveendra, Rohith         1226577094  7094-949   0.0
+16    Rayapati, Hima Shanthi    1228637438  7438-380   0.0
+17    Schroeder, Chris          1225697148  7148-667   0.0
+18    Settle, Devin             1224124109  4109-188   0.0
+19    Shrivastava, Devyansh     1223451073  1073-564   0.0
+20    Shukla, Harshvardhan      1228693871  3871-689   0.0
+21    Stella, Luca              1224943135  3135-873   0.0
+22    Swift, Spencer            1225211962  1962-188   0.0
+23    Winters, Samuel           1225117400  7400-276   0.0
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Zach Carpenter      Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85285  AST 111   Intro/Solar Systems Astronomy (Lab)   23/24     Windhorst, Staff  Tu       7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 456
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Beitz, Hunter             1224813421  3421-726   0.0
+ 2    Bressner, Lyndi           1224538081  8081-211   0.0
+ 3    Capodanno, Mason          1228939038  9038-609   0.0
+ 4    Chase, Taryn              1224842801  2801-380   0.0
+ 5    Chintapalli, Sriveda      1225819766  9766-593   0.0
+ 6    Cody, David               1221934337  4337-404   0.0
+ 7    DeBolt, Cody              1225425565  5565-436   0.0
+ 8    Drummer, Donovan          1225405389  5389-807   0.0
+ 9    Fletcher, Fletch          1221269881  9881-747   0.0
+10    Gataric, Milan            1222978874  8874-094   0.0
+11    Goli, Anish               1225718325  8325-877   0.0
+12    Harders, Ian              1224514720  4720-701   0.0
+13    Hinton, Josh              1225291106  1106-404   0.0
+14    Igo, Jacob                1221119068  9068-036   0.0
+15    Johnson, Luke             1225195114  5114-843   0.0
+16    Ligon, Dallas             1224135367  5367-136   0.0
+17    Nance, Emma               1224649023  9023-407   0.0
+18    Norton, Reese             1221838891  8891-765   0.0
+19    Owens, Laryn              1224687724  7724-107   0.0
+20    Sullivan, Rhiannon        1224403830  3830-636   0.0
+21    Taves, Jacob              1225123510  3510-912   0.0
+22    Vera, Jacob               1225224650  4650-584   0.0
+23    Zeigler, Kayla            1224689180  9180-217   0.0
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Isabel McIntyre     Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+96317  AST 111   Intro/Solar Systems Astronomy (Lab)   20/21     Windhorst, Staff  Tu       8:30 PM - 11:00 PM   8/17/23 - 12/1/23     Tempe PSH 460
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Bailey, Andrew            1225868828  8828-430   0.0
+ 2    Belknap, Collin           1221470276  0276-971   0.0
+ 3    Casey, Finlay             1224177448  7448-281   0.0
+ 4    Chantland, Cassandra      1222110071  0071-478   0.0
+ 5    Dingley, Katrina          1221715014  5014-408   0.0
+ 6    Ferguson, Connor          1225129360  9360-362   0.0
+ 7    Gutierrez, Angel          1224357797  7797-869   0.0
+ 8    Haro, Jaren               1228919915  9915-659   0.0
+ 9    Helvig, Caleb             1224843100  3100-403   0.0
+10    Johnson, Amareya          1224080949  0949-014   0.0
+11    Kennedy, Cameron          1226169934  9934-248   0.0
+12    Knipling, Crispin         1224476149  6149-249   0.0
+13    Masini Aleman, Leo        1229106803  6803-792   0.0
+14    Mcghee, Megan             1225012542  2542-710   0.0
+15    Natt, Noah                1219218442  8442-833   0.0
+16    Ramos, Ben                1231144280  4280-528   0.0
+17    Rice, Samuel              1225078985  8985-321   0.0
+18    Saenz Gomez, Ashley       1224700750  0750-340   0.0
+19    Sawyer, Lily              1225759392  9392-513   0.0
+20    Wilson, I'mon             1201439438  9438-250   0.0
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Zach Carpenter      Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85284  AST 111   Intro/Solar Systems Astronomy (Lab) 23/24       Windhorst, Staff  W        7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 450
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Aidarov, Artur            1226255019  5019-147   0.0
+ 2    Avery, Chase              1224960022  0022-172   0.0
+ 3    Avila, Valeria            1224448303  8303-823   0.0
+ 4    Cote, Braden              1224808754  8754-367   0.0
+ 5    Dowdakin, Hunter          1225114241  4241-033   0.0
+ 6    Fisher, Colin             1225109015  9015-631   0.0
+ 7    Goldberg, Keith           1227306043  6043-067   0.0
+ 8    Green, Chase              1225460210  0210-527   0.0
+ 9    Gulati, Aryan             1227681119  1119-357   0.0
+10    Jackson, Trevor           1224781688  1688-498   0.0
+11    Mejia, Deja               1224584062  4062-526   0.0
+12    Munday, Kailee            1225486158  6158-757   0.0
+13    Paswater, Eric            1225022747  2747-495   0.0
+14    Rathee, Ayush             1226454907  4907-903   0.0
+15    Reyes, Paige              1225580954  0954-898   0.0
+16    Seltzer, Sydney           1226752841  2841-822   0.0
+17    Sharma, Kavish            1225855659  5659-374   0.0
+18    Srivastava, Shubhi        1225326063  6063-743   0.0
+19    Tadipatri, Srikanth       1226983890  3890-743   0.0
+20    Thompson, Emma            1225146104  6104-650   0.0
+21    Wegele, Brennan           1224604797  4797-425   0.0
+22    WolyniaMcCall, Trinity    1225870362  0362-548   0.0
+23    Zaveri, Atharva Vimal     1228803331  3331-367   0.0
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Isabel McIntyre     Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85290  AST 111   Intro/Solar Systems Astronomy (Lab)   21/24     Windhorst, Staff  W        7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 456
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Alhabeeb, Khalid          1218820642  0642-321   0.0
+ 2    Amato, Isabella           1225512795  2795-623   0.0
+ 3    Bharadwaj, Vaibhav        1225135769  5769-855   0.0
+ 4    Bird, Jersey              1224691143  1143-367   0.0
+ 5    Burger, Colton            1226127749  7749-249   0.0
+ 6    Daou, Nathan              1228849078  9078-452   0.0
+ 7    Davila Rivera, Rachelle   1218508213  8213-458   0.0
+ 8    Gmyrek, Alex              1225239496  9496-945   0.0
+ 9    Henke, Emma               1226066051  6051-616   0.0
+10    Jimenez, Jesse            1224768909  8909-323   0.0
+11    Kleszczynski, Cloe        1225951378  1378-567   0.0
+12    Malemba, Sabrina          1224801110  1110-072   0.0
+13    Narel, Simon              1225849744  9744-505   0.0
+14    Pascual, Paul             1228189133  9133-120   0.0
+15    Patel, Shyam              1225793636  3636-467   0.0
+16    Ponce, Robert             1225762317  2317-773   0.0
+17    Rowitz, Emmy              1224624362  4362-829   0.0
+18    Schnabel, Jenna           1224811575  1575-584   0.0
+19    Totsky, Olivia            1224956005  6005-863   0.0
+20    Wagner, Patrick           1225296709  6709-835   0.0
+21    Youngquist, Emma          1225702127  2127-528   0.0
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Evrim Gulser        Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+96318  AST 111   Intro/Solar Systems Astronomy (Lab)   23/22     Windhorst, Staff  W        8:30 PM - 11:00 PM   8/17/23 - 12/1/23     Tempe PSH 460
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Aguirre, Fiorella         1225462667  2667-250   0.0
+ 2    Arunachala Kumar, Sajeesh 1226998905  8905-123   0.0
+ 3    Bhandari, Pranay          1225269981  9981-689   0.0
+ 4    Broussard, Jasmine        1226807675  7675-099   0.0
+ 5    Donovan, Megan            1224714530  4530-481   0.0
+ 6    Dubin, Amy                1224476695  6695-291   0.0
+ 7    Fay, Ronald               1225040804  0804-822   0.0
+ 8    Grone, James              1226835456  5456-743   0.0
+ 9    Jirov, Jacob              1218616620  6620-760   0.0
+10    Kaben, Abzalbek           1227413033  3033-891   0.0
+11    Klein, Tyler              1224964923  4923-549   0.0
+12    Le, Brittney              1225259672  9672-716   0.0
+13    Lieberman, Caleb          1229232123  2123-532   0.0
+14    Mardueno, Malachi         1221644359  4359-709   0.0
+15    Owen, Aj                  1223265251  5251-815   0.0
+16    Pape, Jackson             1225154463  4463-293   0.0
+17    Pohle, Ethan              1224138097  8097-346   0.0
+18    Quintero, Luis            1225105193  5193-337   0.0
+19    Sawyer, Raen              1223937871  7871-502   0.0
+20    Setia, Pranjal            1225955122  5122-868   0.0
+21    Tate, Lindsey             1219302669  2669-307   0.0
+22    Urbiztondo, Nicholas      1222482586  2586-431   0.0
+23    Willie, Madison           1224140294  0294-515   0.0
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Ashley Herbst       Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85287  AST 111   Intro/Solar Systems Astronomy (Lab)   17/18     Windhorst, Staff  Th       7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 450
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Aguilar, Estevan          1226024542  4542-641   0.0
+ 2    Aldubaisi, Mohammed       1226833363  3363-582   0.0
+ 3    Alvarez, Nataly           1223683916  3916-679   0.0
+ 4    Bansal, Raghav            1226184897  4897-185   0.0
+ 5    Cardenas, Jessica         1225439319  9319-500   0.0
+ 6    Carnahan, Patrick         1219143003  3003-485   0.0
+ 7    Dickey, Chris             1225024307  4307-615   0.0
+ 8    Dua, Hemant               1225688464  8464-979   0.0
+ 9    Dubey, Aryash             1225867879  7879-357   0.0
+10    Griley, Kai               1226043548  3548-885   0.0
+11    Harfield, Hayden          1224489565  9565-281   0.0
+12    Patel, Swet Nikeshkumar   1228864093  4093-977   0.0
+13    Roojam, Aaryan            1224808728  8728-365   0.0
+14    Smart, Aaron              1220707592  7592-612   0.0
+15    Spagnola, Nico            1224562989  2989-829   0.0
+16    Trinidad, Nick            1226827032  7032-741   0.0
+17    Zheng, Yuke               1225722602  2602-547   0.0
+      
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Laura Pang          Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+96315  AST 111   Intro/Solar Systems Astronomy (Lab)   17/18     Windhorst, Staff  Th       7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 456
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Chochrek, Hannah          1218977409  7409-268   0.0
+ 2    Deshpande, Aditya         1224725710  5710-651   0.0
+ 3    Espinal, Noah             1214802394  2394-454   0.0
+ 4    Gavlik, Joanna            1228250051  0051-687   0.0
+ 5    Hernandez Ayala, Melissa  1229267548  7548-632   0.0
+ 6    Hested, Max               1218734439  4439-736   0.0
+ 7    Hetzler, Andrew           1221414506  4506-633   0.0
+ 8    Kaushik, Ayush            1225096990  6990-706   0.0
+ 9    Kelly, Brianna            1230160414  0414-917   0.0
+10    Lu, Luke                  1225855087  5087-335   0.0
+11    Majchrzak, Krystian       1224625935  5935-950   0.0
+12    McCarthy, Avery           1226055339  5339-792   0.0
+13    McLaughlin, Avery         1224981797  1797-072   0.0
+14    Otoole, Finnegan          1224737007  7007-513   0.0
+15    Schlachter, Sage          1231244458  4458-995   0.0
+16    Swan, Tyler               1225389932  9932-492   0.0
+17    Towers, Ben               1225232749  2749-354   0.0
+
+===============================================================================================================================================================
+
+SLN    Course    Title          TA Logan Conrad        Enrolled  Instructor(s)     Days     Times                Date(s)               Location
+85292  AST 111   Intro/Solar Systems Astronomy (Lab)   20/24     Windhorst, Staff  Th       7:30 PM - 10:00 PM   8/17/23 - 12/1/23     Tempe PSH 460
+
+Nr    LastName, FirstName       ID          PostingID  %Grade
+ 1    Adhikari, Anubhav         1228877171  7171-981   0.0
+ 2    Bates, Ethan              1224433665  3665-426   0.0
+ 3    Carrington, Mae           1224603913  3913-357   0.0
+ 4    Castaneda Marquez, Luis   1224873858  3858-931   0.0
+ 5    Edmiston, Adam            1224171286  1286-807   0.0
+ 6    Groman, Jacob             1229145270  5270-882   0.0
+ 7    Krosschell, Vince         1225069768  9768-612   0.0
+ 8    Lopez Delfin, Anthony     1226125968  5968-002   0.0
+ 9    Merrill, Sydney           1224727998  7998-820   0.0
+10    Murray, Miles             1224749214  9214-751   0.0
+11    Newhouse, Eric            1224775409  5409-823   0.0
+12    Robledo, Maryan           1224107911  7911-327   0.0
+13    Salgado Barroso, Jose     1224627378  7378-061   0.0
+14    Sneor, Grant              1220955554  5554-093   0.0
+15    Spector, William          1222321178  1178-562   0.0
+16    Sullivan, Jack            1225038750  8750-572   0.0
+17    Togao, Yuki               1224902341  2341-435   0.0
+18    Tse, Yip                  1225930357  0357-070   0.0
+19    Willems, Ryan             1224539602  9602-296   0.0
+20    Yu, Dalton                1229595642  5642-514   0.0
+
+===============================================================================================================================================================
+

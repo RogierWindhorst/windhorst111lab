@@ -1,0 +1,41 @@
+
+Your personal Zoom meeting room link is https://asu.zoom.us/j/7191824655
+
+===============================================================================
+
+https://webapp4.asu.edu/myasu/
+
+https://catalog.apps.asu.edu/catalog/classes/classlist?advanced=true&campus=TEMPE&campusOrOnlineSelection=A&catalogNbr=111&honors=F&instructorName=Windhorst&promod=F&searchType=all&subject=AST&term=2247
+
+AST 111 Fall 2024 Introduction to Astronomy Laboratory I, Tempe campus, Rogier Windhorst
+
+TA (tentative)    SLN  Course SCH Days/Start-EndTime Start-EndDate Room Open/Used
+
+Basha             73490 AST 111 1 M  3:30-5:30PM  or  7:30-9:30PM 08/22-12/06 PSH450 00/24
+Gulser/Herbst     73515 AST 111 1 M  3:30-5:30PM  or  7:30-9:30PM 08/22-12/06 PSH460 00/24
+
+Basha             73516 AST 111 1 T  3:30-5:30PM  or  7:30-9:30PM 08/22-12/06 PSH450 00/24
+Douglass          73518 AST 111 1 T  3:30-5:30PM  or  7:30-9:30PM 08/22-12/06 PSH456 00/24
+Kraver            81065 AST 111 1 T  3:30-5:30PM  or  7:30-9:30PM 08/22-12/06 PSH461 00/24
+
+Douglass          73517 AST 111 1 W  3:30-5:30PM  or  7:30-9:30PM 08/22-12/06 PSH450 00/24
+Kraver/Miller     73521 AST 111 1 W  3:30-5:30PM  or  7:30-9:30PM 08/22-12/06 PSH460 00/24
+
+Douglass          73519 AST 111 1 Th 3:30-5:30PM  or  7:30-9:30PM 08/22-12/06 PSH450 00/24
+Kraver            73522 AST 111 1 Th 3:30-5:30PM  or  7:30-9:30PM 08/22-12/06 PSH456 00/24
+Conrad/Herbst     81067 AST 111 1 Th 3:30-5:30PM  or  7:30-9:30PM 08/22-12/06 PSH457 00/24
+
+========================================================================================
+
+https://catalog.apps.asu.edu/catalog/classes/classlist?advanced=true&campus=TEMPE&campusOrOnlineSelection=A&catalogNbr=123&honors=F&instructorName=Knierman&promod=F&searchType=all&subject=SES&term=2247
+
+
+SES 123 Earth, Solar System and Universe Lab, K. Knierman, M. Simon, Fall 2024:
+
+TA                SLN  Course SCH Days/Start-EndTime Start-EndDate Room Open/Used
+
+TBD               64203 SES 123 1 M  10:45A-12:45P or 7:30-9:30PM 08/22-12/06 PSH457 00/30
+TBD               68705 SES 123 1 M  10:45A-12:45P or 7:30-9:30PM 08/22-12/06 PSH456 00/30
+TBD               70693 SES 123 1 W  10:45A-12:45P or 7:30-9:30PM 08/22-12/06 PSH457 00/30
+TBD               78113 SES 123 1 W  10:45A-12:45P or 7:30-9:30PM 08/22-12/06 PSH456 00/30
+

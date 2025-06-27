@@ -1,0 +1,59 @@
+ 	Select All 	
+Name
+(Switch to First Last) 	ID 	Posting ID 	Status 	Associated Sections 	Units 	Grade Basis 	Program and Plan 	Academic Level 	ASURITE 	Residency
+1 		Chochrek, Hannah Email 	1218977409 	7409-268 	ENRL (03-14-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Business (Communication)-BA
+	Junior 	hchochre 	Non-Resident
+2 		Deshpande, Aditya Email 	1224725710 	5710-651 	ENRL (03-09-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Cybersec)
+	Sophomore 	adeshp32 	Non-Resident
+3 		Espinal, Noah Email 	1214802394 	2394-454 	ENRL (08-16-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	Integrative Sciences & Arts - Interdisciplinary Studies
+	Sophomore 	nespinal 	Non-Resident
+4 		Gavlik, Joanna Email 	1228250051 	0051-687 	ENRL (03-03-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Junior 	jgavlik 	Resident
+5 		Goodman, Nicholas Email 	1219857548 	7548-660 	ENRL (08-15-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Business (Communication)-BA
+	Junior 	nhgoodma 	Non-Resident
+6 		Hernandez Ayala, Melissa Email 	1229267548 	7548-632 	ENRL (06-26-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BS - Tempe
+	Freshman 	maher114 	Resident
+7 		Hested, Max Email 	1218734439 	4439-736 	ENRL (08-16-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	University College - Explore-Social & Behavioral Sc
+	Junior 	mhested 	Resident
+8 		Hetzler, Andrew Email 	1221414506 	4506-633 	ENRL (03-14-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	Undergrad Non-deg/Non-Fin Aid - Sales & Marketing Essentials
+	Senior 	ahetzler 	Resident
+9 		Kaushik, Ayush Email 	1225096990 	6990-706 	ENRL (06-29-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Sophomore 	akaush27 	Non-Resident
+10 		Kelly, Brianna Email 	1230160414 	0414-917 	ENRL (03-09-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Economics
+	Freshman 	bmkelly8 	Resident
+11 		Lu, Luke Email 	1225855087 	5087-335 	ENRL (08-11-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	Integrative Sciences & Arts - Interdisciplinary Studies
+	Sophomore 	lukelu 	Non-Resident
+12 		Majchrzak, Krystian Email 	1224625935 	5935-950 	ENRL (07-30-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Cybersec)
+	Sophomore 	kmajchrz 	Resident
+13 		McCarthy, Avery Email 	1226055339 	5339-792 	ENRL (03-02-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	MaryLouFulton Teachers College - Elementary Education
+	Sophomore 	admccar6 	Non-Resident
+14 		McLaughlin, Avery Email 	1224981797 	1797-072 	ENRL (03-02-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Family & Human Development
+	Sophomore 	amclau12 	Non-Resident
+15 		Otoole, Finnegan Email 	1224737007 	7007-513 	ENRL (03-11-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	Herberger Institute - Architectural Studies
+	Sophomore 	fotoole 	Resident
+16 		Schlachter, Sage Email 	1231244458 	4458-995 	ENRL (07-11-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BA
+	Sophomore 	sschlach 	Non-Resident
+17 		Swan, Tyler Email 	1225389932 	9932-492 	ENRL (03-13-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Business-BA
+	Sophomore 	tswan3 	Resident
+18 		Towers, Ben Email 	1225232749 	2749-354 	ENRL (03-03-2023) 	70286-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - History
+	Sophomore 	btowers1 	Non-Resident
+
+

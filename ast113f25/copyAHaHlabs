@@ -1,0 +1,33 @@
+# Copy all AHaH Lab exercises into /Users/raw/teach/ast113f20
+# from 1) /webb1/users/raw/udf/HUDFjavatool/exercises :
+
+cd /Users/raw/teach/ast113f20/ ; pwd
+
+mkdir galmorphdir/
+
+ls -la *.js *.css cosmo* dist* gal* hub* look* para* wave*
+
+\cp -pr /webb1/users/raw/udf/HUDFjavatool/exercises/* .
+
+ls -la *.js *.css cosmo* dist* gal* hub* look* para* wave*
+
+\cp -pr /webb1/users/raw/teach/ast114s17/gal* .
+
+\cp -pr /webb1/users/raw/teach/ast114s17/hub* .
+
+\cp -pr /webb1/users/raw/teach/ast114s17/para* .
+
+\cp -pr /webb1/users/raw/teach/ast114s17/ic*jpg  galmorphdir/.
+
+\cp -pr /webb1/users/raw/teach/ast114s17/m*jpg   galmorphdir/.
+
+\cp -pr /webb1/users/raw/teach/ast114s17/ngc*jpg galmorphdir/.
+
+\cp -pr /webb1/users/raw/teach/ast114s17/ugc*jpg galmorphdir/.
+
+cd /Users/raw/teach/ast113f20/ ; pwd
+
+ls -la *.js *.css cosmo* dist* gal* hub* look* para* wave*
+
+
+exit

@@ -1,0 +1,35 @@
+
+Your personal Zoom meeting room link is https://asu.zoom.us/j/7191824655
+
+ASU Courses fall 2023: AST 111, Tempe, All Labs, Done 04-aug-2023, Tempe Campus
+
+TA                SLN  Course SCH Days/Start-EndTime Start-EndDate Room Open/Used
+
+Elder             85255 AST 111 1 M  7:30 PM-10:00 PM 08/17-12/01 PSH-450 00/21
+McIntyre          85282 AST 111 1 M  7:30 PM-10:00 PM 08/17-12/01 PSH-456 00/24
+Carpenter         96316 AST 111 1 M  8:30 PM-11:00 PM 08/17-12/01 PSH-460 00/20
+
+Elder             85283 AST 111 1 T  7:30 PM-10:00 PM 08/17-12/01 PSH-450 00/24
+Carpenter         85285 AST 111 1 T  7:30 PM-10:00 PM 08/17-12/01 PSH-456 00/24
+McIntyre          96317 AST 111 1 T  8:30 PM-11:00 PM 08/17-12/01 PSH-460 00/21
+
+Carpenter         85284 AST 111 1 W  7:30 PM-10:00 PM 08/17-12/01 PSH-450 00/24
+McIntyre          85290 AST 111 1 W  7:30 PM-10:00 PM 08/17-12/01 PSH-456 00/24
+Gulser            96318 AST 111 1 W  8:30 PM-11:00 PM 08/17-12/01 PSH-460 00/22
+
+Herbst            85287 AST 111 1 Th 7:30 PM-10:00 PM 08/17-12/01 PSH-450 00/18
+Pang              96315 AST 111 1 Th 7:30 PM-10:00 PM 08/17-12/01 PSH-456 00/18
+Conrad            85292 AST 111 1 Th 7:30 PM-10:00 PM 08/17-12/01 PSH-460 00/24
+
+===============================================================================
+
+SES 123 Earth,Solar Sys & Universe Lab, K. Knierman, M. Simon, Fall 2023:
+
+Knierman          82076 SES 123 1 M  7:30 PM-09:30 PM 08/19-12/03 PSH-457 7/30
+
+Knierman          85652 SES 123 1 W  7:30 PM-09:30 PM 08/19-12/03 PSH-457 11/30
+
+Knierman          76307 SES 123 1 Th 7:30 PM-09:30 PM 08/19-12/03 PSH-457 1/30
+
+Showing 1 to 5 of 5
+

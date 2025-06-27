@@ -1,0 +1,860 @@
+Rogier Windhorst <windhors@asu.edu>, Mariella Abdon <mabdon@asu.edu>, Ahmed
+Abdullah <aabdul70@asu.edu>, David Aceves <djaceve2@asu.edu>, Tyler Adams
+<tjadam14@asu.edu>, Aman Adhav <avadhav@asu.edu>, Sergio Aguirre
+<saaguir2@asu.edu>, Hossain Ahmed <hahmed36@asu.edu>, AHMED AL SAADI
+<aialsaad@asu.edu>, Mohsin Khalid Mohsin Omer Albreiki <malbrei2@asu.edu>, Fahad
+M F A Alenezi <falene10@asu.edu>, Samantha Allison <sallis11@asu.edu>,
+Abdulrahman Almasoud <aalmaso3@asu.edu>, Emiliano Almeraz <ealmera1@asu.edu>,
+Jose Alonso Gomez <jalonsog@asu.edu>, Mason Amelse <mamelse1@asu.edu>, Efren
+Andrade <eandra28@asu.edu>, Paula Arellano <pearella@asu.edu>, Pedro Arellano
+<pjarella@asu.edu>, Danielle Armstrong <dnarmstr@asu.edu>, Jack Artman
+<jartman1@asu.edu>, Julio Astorga <jastorg3@asu.edu>, Bobby Auld
+<rmauld@asu.edu>, Lynette Austgen <laustgen@asu.edu>, Hannah Baedke
+<hbaedke@asu.edu>, Mary Bahena <mrbahen1@asu.edu>, Visvanth Balamurugan
+<vbalamu1@asu.edu>, Nina Balan <nsbalan@asu.edu>, Shonita Bangale
+<sbanga22@asu.edu>, Dylan Banhart <dbanhart@asu.edu>, Michael Bastian
+<mbbastia@asu.edu>, Ryan Bergman <rdbergma@asu.edu>, Vibhor Bhatia
+<vbhatia8@asu.edu>, Maithili Ajay Bhondiwale <mbhondiw@asu.edu>, Drew Bianchi
+<atbianc1@asu.edu>, Braeden Bihlmeier <bbihlmei@asu.edu>, Arvin Bomma
+<abomma4@asu.edu>, Ryan Bower <rjbower1@asu.edu>, Jaci Bowers
+<jlbower7@asu.edu>, Gibson Bowling <gbbowlin@asu.edu>, Andrew Burgess
+<arburge2@asu.edu>, Norah Buss <nbuss@asu.edu>, Naysan Camillo-Castillo
+<nvcamill@asu.edu>, Taite Campanile <tcampani@asu.edu>, Anthony Cardin
+<acardin7@asu.edu>, Jessen Carriveau <jacarriv@asu.edu>, Noah Castorena
+<nncastor@asu.edu>, Dulce Cervantes <dmcerva2@asu.edu>, Dennis Chadliev
+<dchadlie@asu.edu>, Nick Chang <nschang2@asu.edu>, Russell Chapman
+<rtchapma@asu.edu>, Vishal Chikkala <vkchikka@asu.edu>, Gina Cisternelli
+<gocister@asu.edu>, Collin Craig <ccraig17@asu.edu>, Marianna Crispino
+<mcrispi2@asu.edu>, Sherlym Cuen Mendoza <scuenmen@asu.edu>, Tyronne Davidson
+<tdavid13@asu.edu>, Danna De La Torre <dpdelato@asu.edu>, May Deignan
+<mhdeigna@asu.edu>, Alayna Denis <adenis2@asu.edu>, Conner Derr
+<caderr@asu.edu>, Yashika Dhanda <ydhanda@asu.edu>, Anna Diciccio
+<adicicci@asu.edu>, Kimora Dixson <kkdixson@asu.edu>, Jasmine Dominguez
+<jedomin4@asu.edu>, Yuvixa Dominguez <yddomin1@asu.edu>, Ryan Driscoll
+<rdrisco2@asu.edu>, Keira Elles <kelles1@asu.edu>, Deetrel Ellis
+<daellis7@asu.edu>, Luis Encinas <lencina3@asu.edu>, Summer Escobar
+<slescob2@asu.edu>, Alan Escudero <aescude3@asu.edu>, Nico Espinosa
+<nespin17@asu.edu>, Jacob Fan <yfan104@asu.edu>, Julia Farnsworth
+<jrfarnsw@asu.edu>, Izabella Flores <inflore3@asu.edu>, Jasmine Flowers
+<jflowe14@asu.edu>, Johnny Fogel <jlfogel1@asu.edu>, Rocco Forney
+<rgforney@asu.edu>, Braedon Foundos <bfoundos@asu.edu>, Jeremy Gale
+<jgale7@asu.edu>, Lucas Garcia <lgarc161@asu.edu>, Neftali Garcia
+<ngarci64@asu.edu>, Alan German <aegerma1@asu.edu>, Charles Gibbs
+<cbgibbs@asu.edu>, Laura Gomez <lgomez43@asu.edu>, Seth Gonzalez
+<sgonz124@asu.edu>, Maurice Gould <mdgould@asu.edu>, Fretta Govan
+<fgovan@asu.edu>, Michael Gralnick <mgralnic@asu.edu>, Luiz Guerrero Valenzuela
+<leguerr2@asu.edu>, Rasul Guliyev <rguliye1@asu.edu>, Riley Gustafson
+<rgustaf4@asu.edu>, Luigie Gutierrez <laguti19@asu.edu>, Julianna Guzman
+<jdguzma2@asu.edu>, Dekker Hageman <dthagema@asu.edu>, Brandon Haiser
+<bhaiser@asu.edu>, James Hajicek <jhajicek@asu.edu>, Alexander Harrison
+<aeharr22@asu.edu>, Lamia Hasan <lhasan2@asu.edu>, Gofran Hassoun
+<ghassoun@asu.edu>, Cooper Hatch <cfhatch@asu.edu>, Laurel Heesemann
+<lheesema@asu.edu>, Ben Herman <bcherma1@asu.edu>, Noah Herman
+<nmherman@asu.edu>, Mateo Hernandez <mhern389@asu.edu>, Lucas Hertel
+<lhertel@asu.edu>, Bezalel Chris Hillson <bhillson@asu.edu>, Donnie Hoeltge
+<dhoeltge@asu.edu>, Grace Holguin <geholgui@asu.edu>, Joshua Huf <jhuf@asu.edu>,
+Josh Hunter <jchunte5@asu.edu>, Kelly Huynh <kthuynh4@asu.edu>, Hailey Imholte
+<himholte@asu.edu>, John Ixcoy <jixcoy@asu.edu>, Nuha Jabbar <njjabbar@asu.edu>,
+Lena Jackson-Bourne <lijacks1@asu.edu>, Alyssa James <arjames8@asu.edu>, Jedon
+Janneh <jjanneh@asu.edu>, Samantha Jansen <sjjansen@asu.edu>, Jeremiah Johnston
+<jjohn481@asu.edu>, Khanak Joshi <kvjoshi@asu.edu>, Jackson Kastl
+<jpkastl@asu.edu>, Brett Katz <blkatz@asu.edu>, Ashmeet Kaur <akaur61@asu.edu>,
+Connor Kavle <ckavle@asu.edu>, Alex Kester <akester3@asu.edu>, Terilynn Keyannie
+<tkeyanni@asu.edu>, Ren Kim <rkim99@asu.edu>, Matthew Kimball
+<mjkimba2@asu.edu>, Bretton Kitchen <bmkitche@asu.edu>, Halle Kolar
+<hkolar@asu.edu>, Hederik Kosten <hkosten@asu.edu>, Kira Krupiczowicz
+<kkrupicz@asu.edu>, Mallory Lajada <mlajada@asu.edu>, Erika Landa
+<emlanda@asu.edu>, Cristian Latreille <clatreil@asu.edu>, Crystal Lee
+<clee283@asu.edu>, Alex Leiferman <aleifer1@asu.edu>, Rob Lenz <ralenz@asu.edu>,
+Peter Liang <pcliang1@asu.edu>, Sara Liburdi <sliburdi@asu.edu>, Henry Locker
+<hlocker@asu.edu>, Gildardo Loera <gloera3@asu.edu>, Brayden Lopez
+<belopez8@asu.edu>, Dayne Lowe <delowe1@asu.edu>, Lali Loy <xloy1@asu.edu>,
+Yamilet Luna <yluna5@asu.edu>, Daniel Madrigal <dmadri10@asu.edu>, Eli Makston
+<emakston@asu.edu>, Isaac Marquez <imarqu20@asu.edu>, Katelynn Martindill
+<klmart45@asu.edu>, Annabella Martinez <annabellamartinez@asu.edu>, Nick
+Martinez-Ross <nhmarti4@asu.edu>, Claire Mask <csmask@asu.edu>, Matt Mccaleb
+<mcmccale@asu.edu>, Mark Mcgrew <mamcgrew@asu.edu>, Colton Mcmahon
+<cjmcmah3@asu.edu>, Natasha MellonWerch <nwmellon@asu.edu>, Beau Merino
+<bdmerino@asu.edu>, Maylie Mickelson <mmickel1@asu.edu>, Luca Migliore
+<lamiglio@asu.edu>, Chanel Mildenberger <cmildenb@asu.edu>, Lucas Minarich
+<lminaric@asu.edu>, Adrian Moncada <amoncad3@asu.edu>, Sarahrose Moreland
+<smorela5@asu.edu>, Shorya Moses <samoses2@asu.edu>, Jaden Mountain
+<jmounta5@asu.edu>, Nicholas Muir <namuir@asu.edu>, Gabe Newman
+<ganewma3@asu.edu>, Hieu Nguyen <hnguy158@asu.edu>, Pauline Nyambaka
+<pnyambak@asu.edu>, Ric Ohara <rsohara@asu.edu>, Connor Olson
+<colson32@asu.edu>, Mariana Ortiz <mcortiz6@asu.edu>, Brandon Ortiz Diaz
+<bortizdi@asu.edu>, Vladimir Pak <vpak1@asu.edu>, Andrew Palmer
+<apalme32@asu.edu>, Jesus Perez Garcia <jperezg2@asu.edu>, Kyle Perron
+<kpperron@asu.edu>, Daniel Pham <dpham27@asu.edu>, Kaiden Phillips
+<kphill48@asu.edu>, Anna Pickering <ampicke2@asu.edu>, Aarush Poosapati
+<apoosap1@asu.edu>, Larissa Quintero <ljquinte@asu.edu>, Christian Rael-McComish
+<cjrael1@asu.edu>, Advaith Rajeev <arajeev5@asu.edu>, Anahi Ramirez
+<asrami16@asu.edu>, Grayson Riley <gcriley@asu.edu>, Jacob Rudolph
+<jdrudol2@asu.edu>, Kyle Rush <kkrush1@asu.edu>, Liam Ruwet <lruwet@asu.edu>,
+Matthew Rybicki <mrybick2@asu.edu>, Ishaan Sandhu <isandhu1@asu.edu>, Ananya
+Sharma <ashar468@asu.edu>, Gabrielle Shawky <gshawky@asu.edu>, Anjali Singh
+<asing610@asu.edu>, John Sites <jrsites@asu.edu>, Clio Skye <cskye1@asu.edu>,
+Garrett Slusser <gslusser@asu.edu>, Kylee Smith <kgsmit16@asu.edu>, Tristen
+Smith <tmsmit82@asu.edu>, Derek Sol <dhsol@asu.edu>, Ashton Souza
+<acsouza@asu.edu>, Aaron St John <amstjohn@asu.edu>, Joshua Stephenson
+<jestep11@asu.edu>, Anastasia Stocks <astocks1@asu.edu>, Kaitlyn Stoddard
+<kjstodd1@asu.edu>, Dylan Sullivan <dmsulli8@asu.edu>, Ryan Sweeney
+<rsweene9@asu.edu>, Nyla Swisher <nswisher@asu.edu>, Awais Ahmed Syed
+<asyed23@asu.edu>, Mason Tallman <mtallma3@asu.edu>, Keon Texeira
+<kbtexeir@asu.edu>, lily thielmann <llthielm@asu.edu>, Mekdes Thompson
+<mithomp6@asu.edu>, Connie Toloza <ctoloza@asu.edu>, Dean Tsevas
+<dtsevas@asu.edu>, Grant Tucker <gatucker@asu.edu>, Melina Unsworth
+<munswort@asu.edu>, Analicia Valenti <avale104@asu.edu>, Elsa Valentine Rojas
+<emvale10@asu.edu>, Avery Vallelunga <avallelu@asu.edu>, Saadhana Venkatesh
+<svenk126@asu.edu>, Huu Binh Vu <huubinhv@asu.edu>, Anthony Waites-Taylor
+<awaitest@asu.edu>, Logan Ward <laward6@asu.edu>, Milo Ward <mrward7@asu.edu>,
+Jackson Watts <jfwatts1@asu.edu>, Brenden Weakley <bweakley@asu.edu>, Jake
+Weight <jkweight@asu.edu>, Ben Weskalnies <bweskaln@asu.edu>, Jake Wheeless
+<jwheeles@asu.edu>, Vanna Whitby-Corona <swhitbyc@asu.edu>, Jayden Widner
+<jawidner@asu.edu>, Jade Wing <jnwing@asu.edu>, Nicholas Woo <ngwoo@asu.edu>,
+Abhay Rakesh Yadav <ayada110@asu.edu>, Anton Zamoroz <azamoroz@asu.edu>, Aivar
+Zhubandykov <azhuband@asu.edu>, Lilly Zozaya <lzozaya@asu.edu>
+
+AST 111 F24 Oketa Basha <Obasha1@asu.edu>, Benjamin Douglass <Ben.doug@asu.edu>,
+Ashley Herbst <akherbst@asu.edu>, Cassandra Kraver <ckraver@asu.edu>,
+Logan Conrad <lrconra1@asu.edu>, Evrim Gulser <egulser@asu.edu>,
+Megan Miller <Mlmill46@asu.edu>, Rogier Windhorst <rogier.windhorst@gmail.com>,
+Karen Knierman <karen.knierman@asu.edu>, 
+
+
+AST 111 Lab Fall 2024 --- All students
+
+
+Class Roster
+Download | Print Print
+Total Enrolled Students: 240
+Enrollment Capacity: 240
+Show:
+
+	Select All 	
+Name
+(Switch to First Last) 	ID 	Posting ID 	Section 	Status 	Associated Sections 	Units 	Grade Basis 	Program and Plan 	Academic Level 	ASURITE 	Residency
+1 		Abdon, Mariella Email 	1228701749 	1749-295 	AST 111 (73521) 	ENRL (07-21-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business-BA
+	Sophomore 	mabdon 	Resident
+2 		Abdullah, Ahmed Email 	1232230274 	0274-686 	AST 111 (81067) 	ENRL (03-20-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Freshman 	aabdul70 	Non-Resident
+3 		Aceves, David Email 	1229138354 	8354-350 	AST 111 (73516) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	djaceve2 	Resident
+4 		Adams, Tyler Email 	1229373654 	3654-692 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Comptr Info Systems
+	Sophomore 	tjadam14 	Resident
+5 		Adhav, Aman Email 	1225687463 	7463-864 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	avadhav 	Non-Resident
+6 		Aguirre, Sergio Email 	1213150820 	0820-909 	AST 111 (73522) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Computational Math Sciences
+	Post-Bacc Undergraduate 	saaguir2 	Resident
+7 		Ahmed, Hossain Email 	1231055841 	5841-724 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Freshman 	hahmed36 	Non-Resident
+8 		AL SAADI, AHMED Email 	1230335628 	5628-132 	AST 111 (73518) 	ENRL (08-17-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Freshman 	aialsaad 	Non-Resident
+9 		Albreiki, Mohsin Khalid Mohsin Omer Email 	1224519387 	9387-419 	AST 111 (73521) 	ENRL (04-17-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Data Science
+	Junior 	malbrei2 	Non-Resident
+10 		Alenezi, Fahad M F A Email 	1231167251 	7251-182 	AST 111 (73522) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BA
+	Sophomore 	falene10 	Non-Resident
+11 		Allison, Samantha Email 	1231037511 	7511-627 	AST 111 (73515) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	MaryLouFulton Teachers College - Early Childhood Education
+	Sophomore 	sallis11 	Non-Resident
+12 		Almasoud, Abdulrahman Email 	1224709772 	9772-117 	AST 111 (81065) 	ENRL (07-27-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Accountancy
+	Senior 	aalmaso3 	Non-Resident
+13 		Almeraz, Emiliano Email 	1228417933 	7933-394 	AST 111 (73517) 	ENRL (07-09-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Bus Admin)
+	Sophomore 	ealmera1 	Resident
+14 		Alonso Gomez, Jose Email 	1228508790 	8790-149 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Sophomore 	jalonsog 	Resident
+15 		Amelse, Mason Email 	1228477694 	7694-499 	AST 111 (73490) 	ENRL (05-13-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business Entrepreneurship
+	Sophomore 	mamelse1 	Non-Resident
+16 		Andrade, Efren Email 	1232969740 	9740-535 	AST 111 (73515) 	ENRL (05-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Lang & Culture)
+	Sophomore 	eandra28 	Resident
+17 		Arellano, Paula Email 	1229368220 	8220-109 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Herberger Institute - Art (Animation)
+	Sophomore 	pearella 	Resident
+18 		Arellano, Pedro Email 	1230805903 	5903-328 	AST 111 (73521) 	ENRL (03-06-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business-BA
+	Sophomore 	pjarella 	Resident
+19 		Armstrong, Danielle Email 	1225460262 	0262-275 	AST 111 (73490) 	ENRL (08-20-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Undergrad Non-deg/Non-Fin Aid - Symb Cog & Ling Systems (Cert)
+	Junior 	dnarmstr 	Resident
+20 		Artman, Jack Email 	1227162900 	2900-091 	AST 111 (73515) 	ENRL (08-09-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Junior 	jartman1 	Non-Resident
+21 		Astorga, Julio Email 	1229755074 	5074-787 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Film & Media Production
+	Sophomore 	jastorg3 	Resident
+22 		Auld, Bobby Email 	1231090850 	0850-814 	AST 111 (73521) 	ENRL (08-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Economics BS
+	Sophomore 	rmauld 	Non-Resident
+23 		Austgen, Lynette Email 	1228519502 	9502-629 	AST 111 (73515) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Watts Col of Pub Ser & Com Sol - Criminology & Criminal Justice
+	Sophomore 	laustgen 	Resident
+24 		Baedke, Hannah Email 	1228846569 	6569-259 	AST 111 (73521) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Law)
+	Sophomore 	hbaedke 	Resident
+25 		Bahena, Mary Email 	1229157646 	7646-834 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Law)
+	Sophomore 	mrbahen1 	Non-Resident
+26 		Balamurugan, Visvanth Email 	1231000123 	0123-600 	AST 111 (73521) 	ENRL (07-19-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	vbalamu1 	Non-Resident
+27 		Balan, Nina Email 	1221878749 	8749-501 	AST 111 (73517) 	ENRL (08-19-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Earth & Space Exploration
+	Sophomore 	nsbalan 	Resident
+28 		Bangale, Shonita Email 	1232426873 	6873-134 	AST 111 (73517) 	ENRL (08-18-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Herberger Institute - Art (Animation)
+	Freshman 	sbanga22 	Non-Resident
+29 		Banhart, Dylan Email 	1228781231 	1231-608 	AST 111 (73521) 	ENRL (02-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)
+	Senior 	dbanhart 	Resident
+30 		Bastian, Michael Email 	1230348992 	8992-230 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Communication BS
+	Sophomore 	mbbastia 	Resident
+31 		Bergman, Ryan Email 	1227864328 	4328-683 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	rdbergma 	Resident
+32 		Bhatia, Vibhor Email 	1233690980 	0980-273 	AST 111 (73517) 	ENRL (07-15-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Data Science
+	Freshman 	vbhatia8 	Non-Resident
+33 		Bhondiwale, Maithili Ajay Email 	1232689096 	9096-036 	AST 111 (81065) 	ENRL (03-13-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Freshman 	mbhondiw 	Non-Resident
+34 		Bianchi, Drew Email 	1224348229 	8229-671 	AST 111 (73522) 	ENRL (03-14-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Media Arts & Sciences (Music)
+	Junior 	atbianc1 	Resident
+35 		Bihlmeier, Braeden Email 	1229276817 	6817-334 	AST 111 (73516) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Sophomore 	bbihlmei 	Resident
+36 		Bomma, Arvin Email 	1229062330 	2330-160 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	abomma4 	Non-Resident
+37 		Bower, Ryan Email 	1229084469 	4469-985 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	rjbower1 	Non-Resident
+38 		Bowers, Jaci Email 	1224129673 	9673-698 	AST 111 (81067) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Communication BA
+	Junior 	jlbower7 	Resident
+39 		Bowling, Gibson Email 	1228770181 	0181-923 	AST 111 (73515) 	ENRL (02-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Physics
+	Junior 	gbbowlin 	Non-Resident
+40 		Burgess, Andrew Email 	1229171049 	1049-399 	AST 111 (73519) 	ENRL (07-27-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	arburge2 	Resident
+41 		Buss, Norah Email 	1230980584 	0584-689 	AST 111 (81067) 	ENRL (03-27-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BA
+	Sophomore 	nbuss 	Non-Resident
+42 		Camillo-Castillo, Naysan Email 	1229682261 	2261-127 	AST 111 (81067) 	ENRL (03-26-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Computational Math Sciences
+	Sophomore 	nvcamill 	Resident
+43 		Campanile, Taite Email 	1228138355 	8355-560 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Sophomore 	tcampani 	Non-Resident
+44 		Cardin, Anthony Email 	1224439307 	9307-136 	AST 111 (73522) 	ENRL (03-16-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Cybersec)
+	Senior 	acardin7 	Resident
+45 		Carriveau, Jessen Email 	1228513340 	3340-498 	AST 111 (73515) 	ENRL (03-01-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Physics
+	Junior 	jacarriv 	Resident
+46 		Castorena, Noah Email 	1228499924 	9924-979 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Financial Planning)
+	Sophomore 	nncastor 	Non-Resident
+47 		Cervantes, Dulce Email 	1228728932 	8932-041 	AST 111 (73521) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Architectural Studies
+	Sophomore 	dmcerva2 	Resident
+48 		Chadliev, Dennis Email 	1228858919 	8919-315 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	dchadlie 	Non-Resident
+49 		Chang, Nick Email 	1226131038 	1038-583 	AST 111 (73517) 	ENRL (07-23-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Financial Planning)
+	Sophomore 	nschang2 	Non-Resident
+50 		Chapman, Russell Email 	1229083897 	3897-941 	AST 111 (73522) 	ENRL (07-26-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Mechanical Engineering
+	Sophomore 	rtchapma 	Non-Resident
+51 		Chikkala, Vishal Email 	1224356835 	6835-795 	AST 111 (73519) 	ENRL (08-13-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Bus Admin)
+	Junior 	vkchikka 	Resident
+52 		Cisternelli, Gina Email 	1228596683 	6683-494 	AST 111 (73521) 	ENRL (03-14-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Communication BS
+	Sophomore 	gocister 	Non-Resident
+53 		Craig, Collin Email 	1232866728 	6728-275 	AST 111 (73516) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Bus Admin)
+	Senior 	ccraig17 	Resident
+54 		Crispino, Marianna Email 	1227794778 	4778-914 	AST 111 (81067) 	ENRL (08-14-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	mcrispi2 	Resident
+55 		Cuen Mendoza, Sherlym Email 	1230048913 	8913-914 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Communication)-BA
+	Sophomore 	scuenmen 	Resident
+56 		Davidson, Tyronne Email 	1229079828 	9828-629 	AST 111 (73516) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Sophomore 	tdavid13 	Resident
+57 		De La Torre, Danna Email 	1224530710 	0710-628 	AST 111 (73490) 	ENRL (03-11-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Integrative Sciences & Arts - Interdisciplinary Studies
+	Senior 	dpdelato 	Resident
+58 		Deignan, May Email 	1228587674 	7674-830 	AST 111 (73522) 	ENRL (03-14-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BA
+	Sophomore 	mhdeigna 	Resident
+59 		Denis, Alayna Email 	1219348884 	8884-786 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BS - Tempe
+	Junior 	adenis2 	Resident
+60 		Derr, Conner Email 	1229139433 	9433-433 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business-BA
+	Sophomore 	caderr 	Non-Resident
+61 		Dhanda, Yashika Email 	1232642244 	2244-973 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Economics BS
+	Freshman 	ydhanda 	Non-Resident
+62 		Diciccio, Anna Email 	1228839809 	9809-740 	AST 111 (81067) 	ENRL (08-19-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Communication)-BA
+	Sophomore 	adicicci 	Resident
+63 		Dixson, Kimora Email 	1232055073 	5073-405 	AST 111 (81067) 	ENRL (05-04-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BA
+	Sophomore 	kkdixson 	Resident
+64 		Dominguez, Jasmine Email 	1228717154 	7154-822 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Justice Studies
+	Sophomore 	jedomin4 	Resident
+65 		Dominguez, Yuvixa Email 	1229036798 	6798-053 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Herberger Institute - Film & Media Production
+	Sophomore 	yddomin1 	Resident
+66 		Driscoll, Ryan Email 	1221715989 	5989-483 	AST 111 (73522) 	ENRL (08-13-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Senior 	rdrisco2 	Non-Resident
+67 		Elles, Keira Email 	1232164494 	4494-817 	AST 111 (73515) 	ENRL (05-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business Exploratory
+	Sophomore 	kelles1 	Resident
+68 		Ellis, Deetrel Email 	1230618105 	8105-128 	AST 111 (73522) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BA
+	Sophomore 	daellis7 	Non-Resident
+69 		Encinas, Luis Email 	1228787328 	7328-049 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Marketing
+	Sophomore 	lencina3 	Resident
+70 		Escobar, Summer Email 	1218069905 	9905-968 	AST 111 (73518) 	ENRL (08-15-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Mechanical Engineering
+	Senior 	slescob2 	Resident
+71 		Escudero, Alan Email 	1229203536 	3536-198 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Junior 	aescude3 	Resident
+72 		Espinosa, Nico Email 	1231944768 	4768-264 	AST 111 (81067) 	ENRL (03-25-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BS - Tempe
+	Freshman 	nespin17 	Resident
+73 		Fan, Jacob Email 	1227891407 	1407-729 	AST 111 (81067) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	yfan104 	Non-Resident
+74 		Farnsworth, Julia Email 	1232567078 	7078-981 	AST 111 (73515) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BS - Tempe
+	Sophomore 	jrfarnsw 	Resident
+75 		Flores, Izabella Email 	1230976528 	6528-079 	AST 111 (73517) 	ENRL (04-01-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business-BA
+	Sophomore 	inflore3 	Resident
+76 		Flowers, Jasmine Email 	1235420591 	0591-539 	AST 111 (81065) 	ENRL (08-14-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	New Interdis Arts & Sciences - Applied Computing
+	Junior 	jflowe14 	Resident
+77 		Fogel, Johnny Email 	1226120521 	0521-717 	AST 111 (81067) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Cronkite School-Journ/MassComm - Sports Journalism
+	Junior 	jlfogel1 	Non-Resident
+78 		Forney, Rocco Email 	1228432337 	2337-804 	AST 111 (73522) 	ENRL (05-08-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Asian Languages (Chinese)
+	Sophomore 	rgforney 	Resident
+79 		Foundos, Braedon Email 	1225997736 	7736-626 	AST 111 (73522) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Art (Photography)
+	Junior 	bfoundos 	Non-Resident
+80 		Gale, Jeremy Email 	1228041570 	1570-906 	AST 111 (73516) 	ENRL (07-19-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Engineering Management
+	Freshman 	jgale7 	Non-Resident
+81 		Garcia, Lucas Email 	1230209411 	9411-783 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Marketing
+	Sophomore 	lgarc161 	Resident
+82 		Garcia, Neftali Email 	1224343211 	3211-285 	AST 111 (81067) 	ENRL (02-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Senior 	ngarci64 	Resident
+83 		German, Alan Email 	1225231254 	1254-239 	AST 111 (73515) 	ENRL (03-14-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Watts Col of Pub Ser & Com Sol - Criminology & Criminal Justice
+	Junior 	aegerma1 	Resident
+84 		Gibbs, Charles Email 	1229702489 	2489-410 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business-BA
+	Sophomore 	cbgibbs 	Non-Resident
+85 		Gomez, Laura Email 	1224840123 	0123-174 	AST 111 (73522) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BA
+	Sophomore 	lgomez43 	Resident
+86 		Gonzalez, Seth Email 	1219433228 	3228-268 	AST 111 (73490) 	ENRL (06-24-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Marketing (Dig&IntegrMktComm)
+	Senior 	sgonz124 	Resident
+87 		Gould, Maurice Email 	1228067713 	7713-794 	AST 111 (73522) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Sophomore 	mdgould 	Resident
+88 		Govan, Fretta Email 	1228384016 	4016-699 	AST 111 (73519) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Herberger Institute - Art (Painting and Drawing)
+	Sophomore 	fgovan 	Resident
+89 		Gralnick, Michael Email 	1223473277 	3277-634 	AST 111 (73516) 	ENRL (05-02-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BA
+	Senior 	mgralnic 	Non-Resident
+90 		Guerrero Valenzuela, Luiz Email 	1229264922 	4922-430 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	leguerr2 	Resident
+91 		Guliyev, Rasul Email 	1231389733 	9733-166 	AST 111 (73515) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	rguliye1 	Non-Resident
+92 		Gustafson, Riley Email 	1229253521 	3521-553 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Law)
+	Sophomore 	rgustaf4 	Non-Resident
+93 		Gutierrez, Luigie Email 	1228542980 	2980-019 	AST 111 (73521) 	ENRL (02-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Mechanical Engineering
+	Junior 	laguti19 	Resident
+94 		Guzman, Julianna Email 	1230028165 	8165-076 	AST 111 (73515) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Undergrad Non-deg/Non-Fin Aid - Mild/Moderate Special Ed
+	Sophomore 	jdguzma2 	Non-Resident
+95 		Hageman, Dekker Email 	1230928519 	8519-555 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Undergrad Non-deg/Non-Fin Aid - Computer Gaming (certificate)
+	Sophomore 	dthagema 	Resident
+96 		Haiser, Brandon Email 	1229017363 	7363-229 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business-BA
+	Sophomore 	bhaiser 	Non-Resident
+97 		Hajicek, James Email 	1228381455 	1455-502 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Financial Planning)
+	Junior 	jhajicek 	Non-Resident
+98 		Harrison, Alexander Email 	1234960482 	0482-119 	AST 111 (73521) 	ENRL (05-30-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Junior 	aeharr22 	Resident
+99 		Hasan, Lamia Email 	1230587178 	7178-743 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Freshman 	lhasan2 	Non-Resident
+100 		Hassoun, Gofran Email 	1228861493 	1493-513 	AST 111 (73518) 	ENRL (07-16-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - English (Literature)
+	Junior 	ghassoun 	Resident
+101 		Hatch, Cooper Email 	1226919826 	9826-146 	AST 111 (73515) 	ENRL (07-03-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Junior 	cfhatch 	Non-Resident
+102 		Heesemann, Laurel Email 	1226538510 	8510-826 	AST 111 (81067) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BS - Tempe
+	Junior 	lheesema 	Non-Resident
+103 		Herman, Ben Email 	1225182283 	2283-739 	AST 111 (73521) 	ENRL (03-14-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Senior 	bcherma1 	Resident
+104 		Herman, Noah Email 	1229442879 	2879-678 	AST 111 (73521) 	ENRL (02-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	nmherman 	Resident
+105 		Hernandez, Mateo Email 	1234234588 	4588-319 	AST 111 (81065) 	ENRL (07-01-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Integrative Sciences & Arts - Project Management
+	Freshman 	mhern389 	Resident
+106 		Hertel, Lucas Email 	1221743510 	3510-239 	AST 111 (81065) 	ENRL (08-19-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Cronkite School-Journ/MassComm - Journalism & Mass Comm
+	Senior 	lhertel 	Resident
+107 		Hillson, Bezalel Chris Email 	1228636814 	6814-332 	AST 111 (73490) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	bhillson 	Resident
+108 		Hoeltge, Donnie Email 	1228296162 	6162-070 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Sophomore 	dhoeltge 	Resident
+109 		Holguin, Grace Email 	1229023629 	3629-589 	AST 111 (73516) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Communication)-BA
+	Sophomore 	geholgui 	Non-Resident
+110 		Huf, Joshua Email 	1220969971 	9971-624 	AST 111 (73515) 	ENRL (08-19-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - History
+	Junior 	jelsener 	Non-Resident
+111 		Hunter, Josh Email 	1228731207 	1207-216 	AST 111 (73518) 	ENRL (02-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Supply Chain Management
+	Sophomore 	jchunte5 	Non-Resident
+112 		Huynh, Kelly Email 	1228886713 	6713-938 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Tourism)-BA
+	Sophomore 	kthuynh4 	Resident
+113 		Imholte, Hailey Email 	1229249946 	9946-278 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Sociology
+	Sophomore 	himholte 	Non-Resident
+114 		Ixcoy, John Email 	1228582461 	2461-432 	AST 111 (73515) 	ENRL (03-22-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	jixcoy 	Resident
+115 		Jabbar, Nuha Email 	1222839631 	9631-980 	AST 111 (73522) 	ENRL (03-26-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BS
+	Sophomore 	njjabbar 	Resident
+116 		Jackson-Bourne, Lena Email 	1222012584 	2584-542 	AST 111 (73522) 	ENRL (05-23-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Integrative Sciences & Arts - Interdisciplinary Studies
+	Sophomore 	lijacks1 	Resident
+117 		James, Alyssa Email 	1226237326 	7326-661 	AST 111 (73522) 	ENRL (03-14-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Financial Planning)
+	Senior 	arjames8 	Resident
+118 		Janneh, Jedon Email 	1222764400 	4400-173 	AST 111 (73515) 	ENRL (08-17-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	jjanneh 	Non-Resident
+119 		Jansen, Samantha Email 	1228468854 	8854-819 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Financial Planning)
+	Sophomore 	sjjansen 	Non-Resident
+120 		Johnston, Jeremiah Email 	1228200638 	0638-005 	AST 111 (73521) 	ENRL (03-13-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Sophomore 	jjohn481 	Resident
+121 		Joshi, Khanak Email 	1228974489 	4489-485 	AST 111 (73516) 	ENRL (07-11-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	kvjoshi 	Resident
+122 		Kastl, Jackson Email 	1216596290 	6290-382 	AST 111 (81067) 	ENRL (07-03-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Comptr Info Systems
+	Senior 	jpkastl 	Resident
+123 		Katz, Brett Email 	1228083287 	3287-715 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	blkatz 	Resident
+124 		Kaur, Ashmeet Email 	1232471567 	1567-529 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Freshman 	akaur61 	Non-Resident
+125 		Kavle, Connor Email 	1234267413 	7413-005 	AST 111 (73519) 	ENRL (05-17-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Integrative Sciences & Arts - Project Management
+	Junior 	ckavle 	Non-Resident
+126 		Kester, Alex Email 	1230512116 	2116-994 	AST 111 (73515) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business-BA
+	Sophomore 	akester3 	Non-Resident
+127 		Keyannie, Terilynn Email 	1233037106 	7106-056 	AST 111 (73519) 	ENRL (06-24-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	MaryLouFulton Teachers College - Secondary Ed - English
+	Sophomore 	tkeyanni 	Resident
+128 		Kim, Ren Email 	1224174835 	4835-080 	AST 111 (73516) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Herberger Institute - Art (Animation)
+	Junior 	ekim99 	Resident
+129 		Kimball, Matthew Email 	1230695871 	5871-105 	AST 111 (81065) 	ENRL (04-20-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Communication BS
+	Sophomore 	mjkimba2 	Non-Resident
+130 		Kitchen, Bretton Email 	1225887158 	7158-450 	AST 111 (73521) 	ENRL (03-11-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Computational Math Sciences
+	Senior 	bmkitche 	Resident
+131 		Kolar, Halle Email 	1225328130 	8130-935 	AST 111 (73515) 	ENRL (06-17-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Bus Admin)
+	Junior 	hkolar 	Resident
+132 		Kosten, Hederik Email 	1230075979 	5979-040 	AST 111 (73519) 	ENRL (06-02-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	hkosten 	Non-Resident
+133 		Krupiczowicz, Kira Email 	1230345976 	5976-194 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BA
+	Sophomore 	kkrupicz 	Non-Resident
+134 		Lajada, Mallory Email 	1227753906 	3906-978 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Accountancy
+	Sophomore 	mlajada 	Resident
+135 		Landa, Erika Email 	1230377826 	7826-931 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BA
+	Sophomore 	emlanda 	Resident
+136 		Latreille, Cristian Email 	1230159543 	9543-850 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Integrative Sciences & Arts - Interdisciplinary Studies
+	Freshman 	clatreil 	Non-Resident
+137 		Lee, Crystal Email 	1224931071 	1071-853 	AST 111 (81067) 	ENRL (03-14-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Junior 	clee283 	Resident
+138 		Leiferman, Alex Email 	1228545671 	5671-226 	AST 111 (73516) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Herberger Institute - Performance (Jazz)
+	Sophomore 	aleifer1 	Resident
+139 		Lenz, Rob Email 	1229171218 	1218-412 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Financial Planning)
+	Sophomore 	ralenz 	Resident
+140 		Liang, Peter Email 	1226094196 	4196-654 	AST 111 (73515) 	ENRL (07-23-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	pcliang1 	Non-Resident
+141 		Liburdi, Sara Email 	1227915392 	5392-249 	AST 111 (73521) 	ENRL (04-23-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Sophomore 	sliburdi 	Resident
+142 		Locker, Henry Email 	1234063924 	3924-060 	AST 111 (73522) 	ENRL (03-13-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Economics
+	Sophomore 	hlocker 	Non-Resident
+143 		Loera, Gildardo Email 	1228398043 	8043-306 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Sophomore 	gloera3 	Resident
+144 		Lopez, Brayden Email 	1228917614 	7614-482 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Law)
+	Freshman 	belopez8 	Non-Resident
+145 		Lowe, Dayne Email 	1229186363 	6363-351 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Law)
+	Sophomore 	delowe1 	Non-Resident
+146 		Loy, Lali Email 	1230154447 	4447-462 	AST 111 (73490) 	ENRL (03-15-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BA
+	Sophomore 	xloy1 	Resident
+147 		Luna, Yamilet Email 	1228934826 	4826-655 	AST 111 (73516) 	ENRL (05-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Philosophy (Moral Pol Law)
+	Sophomore 	yluna5 	Resident
+148 		Madrigal, Daniel Email 	1228687241 	7241-024 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Marketing
+	Sophomore 	dmadri10 	Resident
+149 		Makston, Eli Email 	1228273568 	3568-115 	AST 111 (73515) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Sophomore 	emakston 	Resident
+150 		Marquez, Isaac Email 	1230693830 	3830-951 	AST 111 (73518) 	ENRL (07-13-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	imarqu20 	Resident
+151 		Martindill, Katelynn Email 	1229032625 	2625-759 	AST 111 (73516) 	ENRL (07-09-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BA
+	Sophomore 	klmart45 	Non-Resident
+152 		Martinez, Annabella Email 	1230642948 	2948-833 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BA
+	Sophomore 	ammar194 	Non-Resident
+153 		Martinez-Ross, Nick Email 	1228546555 	6555-294 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Communication BA
+	Sophomore 	nhmarti4 	Resident
+154 		Mask, Claire Email 	1231922746 	2746-304 	AST 111 (73522) 	ENRL (03-23-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Supply Chain Management
+	Sophomore 	csmask 	Non-Resident
+155 		Mccaleb, Matt Email 	1228686578 	6578-973 	AST 111 (73521) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Sophomore 	mcmccale 	Resident
+156 		Mcgrew, Mark Email 	1228745507 	5507-397 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business Data Analytics
+	Sophomore 	mamcgrew 	Resident
+157 		Mcmahon, Colton Email 	1229482724 	2724-255 	AST 111 (73515) 	ENRL (04-24-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business-BA
+	Sophomore 	cjmcmah3 	Resident
+158 		MellonWerch, Natasha Email 	1222907959 	7959-054 	AST 111 (73517) 	ENRL (04-30-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Herberger Institute - Environmental Design
+	Junior 	nmellonw 	Non-Resident
+159 		Merino, Beau Email 	1228550299 	0299-582 	AST 111 (73519) 	ENRL (08-07-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Supply Chain Management
+	Sophomore 	bdmerino 	Non-Resident
+160 		Mickelson, Maylie Email 	1227772743 	2743-749 	AST 111 (81067) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Undergrad Non-deg/Non-Fin Aid - Food Ind Mgmt & Mkting
+	Sophomore 	mmickel1 	Resident
+161 		Migliore, Luca Email 	1229130060 	0060-712 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Junior 	lamiglio 	Non-Resident
+162 		Mildenberger, Chanel Email 	1224609139 	9139-227 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Herberger Institute - Art (Sculpture)
+	Sophomore 	cmildenb 	Resident
+163 		Minarich, Lucas Email 	1228598672 	8672-647 	AST 111 (73490) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Sophomore 	lminaric 	Resident
+164 		Moncada, Adrian Email 	1224008877 	8877-569 	AST 111 (81067) 	ENRL (05-01-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Theatre (Acting)
+	Senior 	amoncad3 	Resident
+165 		Moreland, Sarahrose Email 	1233195290 	5290-570 	AST 111 (73516) 	ENRL (08-16-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Marketing
+	Freshman 	smorela5 	Non-Resident
+166 		Moses, Shorya Email 	1230335121 	5121-862 	AST 111 (73516) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Freshman 	samoses2 	Non-Resident
+167 		Mountain, Jaden Email 	1228479553 	9553-074 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Watts Col of Pub Ser & Com Sol - Criminology & Criminal Justice
+	Sophomore 	jmounta5 	Resident
+168 		Muir, Nicholas Email 	1229179889 	9889-808 	AST 111 (73521) 	ENRL (02-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Music Learning and Teaching
+	Sophomore 	namuir 	Resident
+169 		Newman, Gabe Email 	1228800458 	0458-210 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Management
+	Sophomore 	ganewma3 	Resident
+170 		Nguyen, Hieu Email 	1230144229 	4229-828 	AST 111 (73518) 	ENRL (08-01-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	hnguy158 	Non-Resident
+171 		Nyambaka, Pauline Email 	1229145452 	5452-896 	AST 111 (81067) 	ENRL (03-21-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BA
+	Sophomore 	pnyambak 	Resident
+172 		Ohara, Ric Email 	1228736784 	6784-726 	AST 111 (73490) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	rsohara 	Resident
+173 		Olson, Connor Email 	1224973035 	3035-398 	AST 111 (73521) 	ENRL (02-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)
+	Senior 	colson32 	Resident
+174 		Ortiz, Mariana Email 	1230322602 	2602-992 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Communication)-BA
+	Sophomore 	mcortiz6 	Resident
+175 		Ortiz Diaz, Brandon Email 	1228584710 	4710-604 	AST 111 (73521) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Sophomore 	bortizdi 	Resident
+176 		Pak, Vladimir Email 	1230484647 	4647-532 	AST 111 (73521) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	vpak1 	Non-Resident
+177 		Palmer, Andrew Email 	1228231669 	1669-821 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Senior 	apalme32 	Non-Resident
+178 		Perez Garcia, Jesus Email 	1227362307 	2307-941 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Supply Chain Management
+	Junior 	jperezg2 	Resident
+179 		Perron, Kyle Email 	1225264651 	4651-099 	AST 111 (73516) 	ENRL (08-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	kpperron 	Resident
+180 		Pham, Daniel Email 	1228538092 	8092-056 	AST 111 (73521) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Mechanical Engineering
+	Sophomore 	dpham27 	Resident
+181 		Phillips, Kaiden Email 	1229576415 	6415-764 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Economics
+	Sophomore 	kphill48 	Resident
+182 		Pickering, Anna Email 	1224855047 	5047-460 	AST 111 (73521) 	ENRL (03-14-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sustainability)-BA
+	Senior 	ampicke2 	Non-Resident
+183 		Poosapati, Aarush Email 	1228298541 	8541-209 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Comptr Info Systems
+	Sophomore 	apoosap1 	Resident
+184 		Quintero, Larissa Email 	1229023577 	3577-585 	AST 111 (73516) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	ljquinte 	Resident
+185 		Rael-McComish, Christian Email 	1228386395 	6395-882 	AST 111 (73518) 	ENRL (02-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Film & Media Production
+	Junior 	cjrael1 	Resident
+186 		Rajeev, Advaith Email 	1230842108 	2108-840 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	arajeev5 	Non-Resident
+187 		Ramirez, Anahi Email 	1228064138 	4138-519 	AST 111 (73522) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Art (Animation)
+	Sophomore 	asrami16 	Resident
+188 		Riley, Grayson Email 	1227718559 	8559-060 	AST 111 (73517) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Global Politics)
+	Sophomore 	gcriley 	Resident
+189 		Rudolph, Jacob Email 	1228895683 	5683-627 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Comptr Info Systems
+	Sophomore 	jdrudol2 	Non-Resident
+190 		Rush, Kyle Email 	1218993542 	3542-560 	AST 111 (73522) 	ENRL (04-15-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics)
+	Junior 	kkrush1 	Resident
+191 		Ruwet, Liam Email 	1232116940 	6940-452 	AST 111 (81067) 	ENRL (03-14-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business Data Analytics
+	Junior 	lruwet 	Non-Resident
+192 		Rybicki, Matthew Email 	1228672226 	2226-161 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business-BA
+	Sophomore 	mrybick2 	Resident
+193 		Sandhu, Ishaan Email 	1225820520 	0520-651 	AST 111 (81067) 	ENRL (08-08-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Law)
+	Sophomore 	isandhu1 	Non-Resident
+194 		Sharma, Ananya Email 	1229397912 	7912-555 	AST 111 (73515) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	ashar468 	Non-Resident
+195 		Shawky, Gabrielle Email 	1231880678 	0678-568 	AST 111 (73516) 	ENRL (05-02-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Marketing
+	Sophomore 	gshawky 	Non-Resident
+196 		Singh, Anjali Email 	1230133036 	3036-083 	AST 111 (73516) 	ENRL (06-09-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BA
+	Freshman 	asing610 	Non-Resident
+197 		Sites, John Email 	1229055713 	5713-651 	AST 111 (73518) 	ENRL (07-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BS
+	Sophomore 	jrsites 	Resident
+198 		Skye, Clio Email 	1231292350 	2350-634 	AST 111 (81067) 	ENRL (03-15-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Anthropology
+	Sophomore 	cskye1 	Resident
+199 		Slusser, Garrett Email 	1228725578 	5578-783 	AST 111 (73517) 	ENRL (05-04-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Sophomore 	gslusser 	Non-Resident
+200 		Smith, Kylee Email 	1228314531 	4531-699 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Management
+	Sophomore 	kgsmit16 	Resident
+201 		Smith, Tristen Email 	1228025606 	5606-265 	AST 111 (73490) 	ENRL (03-14-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sports Business)
+	Sophomore 	tmsmit82 	Resident
+202 		Sol, Derek Email 	1230337630 	7630-012 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Accountancy
+	Sophomore 	dhsol 	Non-Resident
+203 		Souza, Ashton Email 	1229229198 	9198-307 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Management
+	Sophomore 	acsouza 	Non-Resident
+204 		St John, Aaron Email 	1228620564 	0564-679 	AST 111 (73516) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Sophomore 	amstjohn 	Non-Resident
+205 		Stephenson, Joshua Email 	1234551021 	1021-099 	AST 111 (81067) 	ENRL (07-26-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BS - Tempe
+	Junior 	jestep11 	Resident
+206 		Stocks, Anastasia Email 	1229746208 	6208-105 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Management
+	Sophomore 	astocks1 	Resident
+207 		Stoddard, Kaitlyn Email 	1232902218 	2218-404 	AST 111 (73518) 	ENRL (07-10-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BS - Tempe
+	Sophomore 	kjstodd1 	Resident
+208 		Sullivan, Dylan Email 	1229173584 	3584-593 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	dmsulli8 	Resident
+209 		Sweeney, Ryan Email 	1227949166 	9166-366 	AST 111 (73518) 	ENRL (02-29-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BS
+	Junior 	rsweene9 	Resident
+210 		Swisher, Nyla Email 	1228952792 	2792-870 	AST 111 (73518) 	ENRL (08-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Marketing (Dig&IntegrMktComm)
+	Sophomore 	nswisher 	Resident
+211 		Syed, Awais Ahmed Email 	1226188563 	8563-693 	AST 111 (73490) 	ENRL (07-23-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BS - Tempe
+	Sophomore 	asyed23 	Non-Resident
+212 		Tallman, Mason Email 	1228526873 	6873-196 	AST 111 (73521) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science (Sftwre Engr)
+	Sophomore 	mtallma3 	Resident
+213 		Texeira, Keon Email 	1223253590 	3590-663 	AST 111 (73517) 	ENRL (08-16-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Integrative Sciences & Arts - Organizational Lead (Prj Mgmt)
+	Sophomore 	kbtexeir 	Non-Resident
+214 		thielmann, lily Email 	1229380401 	0401-210 	AST 111 (73516) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business (Sustainability)-BA
+	Sophomore 	llthielm 	Non-Resident
+215 		Thompson, Mekdes Email 	1224941081 	1081-623 	AST 111 (73515) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business Entrepreneurship
+	Junior 	mithomp6 	Non-Resident
+216 		Toloza, Connie Email 	1232250710 	0710-060 	AST 111 (73515) 	ENRL (05-21-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Data Science
+	Freshman 	ctoloza 	Non-Resident
+217 		Tsevas, Dean Email 	1228895956 	5956-648 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Economics BS
+	Sophomore 	dtsevas 	Non-Resident
+218 		Tucker, Grant Email 	1218600422 	0422-514 	AST 111 (73522) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Asian Languages (Japanese)
+	Sophomore 	gatucker 	Resident
+219 		Unsworth, Melina Email 	1230086639 	6639-018 	AST 111 (73516) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Finance
+	Sophomore 	munswort 	Resident
+220 		Valenti, Analicia Email 	1224758340 	8340-615 	AST 111 (73519) 	ENRL (05-25-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Integrative Sciences & Arts - Psychology BS
+	Junior 	avale104 	Resident
+221 		Valentine Rojas, Elsa Email 	1228849923 	9923-517 	AST 111 (73519) 	ENRL (04-10-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BA
+	Sophomore 	emvale10 	Resident
+222 		Vallelunga, Avery Email 	1228384289 	4289-720 	AST 111 (73515) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)
+	Sophomore 	avallelu 	Resident
+223 		Venkatesh, Saadhana Email 	1222272207 	2207-261 	AST 111 (81067) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Economics (Politics & Economy)
+	Sophomore 	svenk126 	Non-Resident
+224 		Vu, Huu Binh Email 	1229445050 	5050-840 	AST 111 (73490) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	huubinhv 	Non-Resident
+225 		Waites-Taylor, Anthony Email 	1230624761 	4761-241 	AST 111 (73522) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Marketing
+	Sophomore 	awaitest 	Non-Resident
+226 		Ward, Logan Email 	1226036814 	6814-377 	AST 111 (81067) 	ENRL (08-20-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - International Relations
+	Junior 	laward6 	Resident
+227 		Ward, Milo Email 	1229073978 	3978-179 	AST 111 (73519) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business Exploratory
+	Sophomore 	mrward7 	Non-Resident
+228 		Watts, Jackson Email 	1222353028 	3028-226 	AST 111 (73522) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	University College - Explore-Mat/Tech/Egr/PhysSci
+	Freshman 	jfwatts1 	Non-Resident
+229 		Weakley, Brenden Email 	1228102982 	2982-422 	AST 111 (73516) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Business-BA
+	Sophomore 	bweakley 	Non-Resident
+230 		Weight, Jake Email 	1233222499 	2499-405 	AST 111 (73517) 	ENRL (05-18-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	University College - Explore-Mat/Tech/Egr/PhysSci
+	Freshman 	jkweight 	Non-Resident
+231 		Weskalnies, Ben Email 	1224344121 	4121-355 	AST 111 (81067) 	ENRL (03-18-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Theatre (Design & Production)
+	Junior 	bweskaln 	Resident
+232 		Wheeless, Jake Email 	1232346286 	6286-014 	AST 111 (81065) 	ENRL (05-06-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	College of Global Futures - Sustainability
+	Sophomore 	jwheeles 	Resident
+233 		Whitby-Corona, Vanna Email 	1228559425 	9425-724 	AST 111 (73522) 	ENRL (03-13-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BS - Tempe
+	Sophomore 	swhitbyc 	Resident
+234 		Widner, Jayden Email 	1229202496 	2496-121 	AST 111 (73522) 	ENRL (03-13-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Earth&SpEx(ExplorSystmsDesign)
+	Sophomore 	jawidner 	Resident
+235 		Wing, Jade Email 	1228399551 	9551-112 	AST 111 (73517) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Psychology BS - Tempe
+	Sophomore 	jnwing 	Resident
+236 		Woo, Nicholas Email 	1229792124 	2124-439 	AST 111 (73518) 	ENRL (03-12-2024) 	67875-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BA
+	Sophomore 	ngwoo 	Non-Resident
+237 		Yadav, Abhay Rakesh Email 	1231113704 	3704-278 	AST 111 (73516) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Freshman 	ayada110 	Non-Resident
+238 		Zamoroz, Anton Email 	1229204563 	4563-255 	AST 111 (81065) 	ENRL (03-12-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	azamoroz 	Resident
+239 		Zhubandykov, Aivar Email 	1231045844 	5844-535 	AST 111 (73516) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	azhuband 	Non-Resident
+240 		Zozaya, Lilly Email 	1227363217 	3217-839 	AST 111 (81065) 	ENRL (02-29-2024) 	60271-1001 Lecture
+	0 	Non-Graded 	W. P. Carey School of Business - Marketing (Professional Sales)
+	Sophomore 	lzozaya 	Resident
+My Info
+Comment BubbleFeedback
+
+

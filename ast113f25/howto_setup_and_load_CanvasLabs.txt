@@ -1,0 +1,56 @@
+How to Create a Canvas Page 
+
+Last Updated 8/19/20
+
+# Access your Faculty page on myASU. Your assigned sections should appear under
+My Classes on the Home screen.
+
+# Click the rectangular icon that looks like a little webpage with a +. Hovering
+over this icon will display the text "Create a Canvas class".
+
+# This will take you to the next screen to set up your course. It is recommended
+to set up each section individually, as setting up multiple sections at the same
+time requires the creation of a .csv file with a specific format. Do not select
+"Request a Canvas training/development/organization course".
+
+# Enter the information for your assigned section. The SLN is the Section Line
+Number listed for your specific section.
+
+# Click search, then select the section. You may find more than one section
+listed, one with your name as the instructor, and one with the name of the
+faculty member in charge of the labs. It is recommended to click on the section
+with your name listed, though it's unclear if this will affect anything.
+
+# Continue to follow the instructions on the next few screens. Do not click "Add
+Sections". Adding another section here will combine both Canvas pages into one
+so people from multiple sections will be combined. This is not recommended as
+different sections will have different schedules and due dates.
+
+# If you have multiple sections it is recommended to add the day of the lab to
+the title of the course. For example: "AST 113: Astronomy Laboratory I (2020
+Fall) Tuesday".
+
+# On the following screen it is recommended that if you have not taught the labs
+before to start a new Canvas class from scratch. All Canvas files will be
+provided. If you have taught the class before and used Canvas you can copy your
+previous Canvas page. There is also the option to copy a course from another
+instructor, however I'm not sure how this works. If possible you can copy the
+AST 113 Canvas pages from Kelley Liebst (although at the time of writing this
+document my pages are not fully set up).
+
+# When prompted to select instructors for the course delete Dr. Windhorst so
+that he doesn't get emails and announcements from all sections (in the future
+be sure to ask the faculty member in charge of the labs what their preference
+is). Also be sure to set yourself as the instructor. TA role in Canvas does not
+have as much functionality as the Instructor role.
+
+# No additional resources are needed.
+
+# Double check the information you have entered is correct and select "Create
+Canvas Course" to submit your course request.
+
+# Repeat for other sections.
+
+# It can take a little while for your course to be created but you should
+receive an email when it's ready.
+

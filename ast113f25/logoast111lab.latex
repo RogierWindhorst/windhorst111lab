@@ -1,0 +1,120 @@
+%%%% RUN UNDER LINUX/MAC-OS AS:
+
+%%%% > pdflltxg* COVID19
+
+%%%% or simply run as: > RUN*
+
+%%%% \documentclass[12pt]{article}
+
+%%%% \documentclass[twocolumn]{aastex63}
+
+\documentclass[12pt]{aastex63}
+
+\usepackage{graphicx}           % for including figures
+\usepackage{latexsym}           % additional math symbols
+\usepackage{amsmath}            % To split equations across lines
+\usepackage{nccmath}            % To left-adjust long split-equations
+\usepackage{bm}                 % bold math package
+\usepackage[english]{babel}
+\usepackage{color}              % for colored text and boxes; remove for subm.
+\usepackage{booktabs}           % for hlines with space between
+\usepackage{multirow}           % for multirow
+\usepackage{natbib}
+
+\input texinit.latex
+
+%%% \setlength{\textwidth}{6.5in}
+%%% \setlength{\textheight}{9.0in}
+%%% \setlength{\oddsidemargin}{+0.00in}
+%%% \setlength{\evensidemargin}{\oddsidemargin}
+%%% \setlength{\topmargin}{+0.00in}
+
+\definecolor{violet}  {rgb}{1.0,0.0,1.0}
+\newcommand{\violet}  {\color{violet}}
+\newcommand{\vio}     {\color{dblue}} 
+\definecolor{dviolet} {rgb}{0.75,0.0,1.0}
+\newcommand{\dviolet} {\color{dviolet}}
+\definecolor{blue}    {rgb}{0.0,0.7,1.0}
+\newcommand{\blue}    {\color{blue}}
+\definecolor{lblue}   {rgb}{0.5,1,1}
+\newcommand{\lblue}   {\color{lblue}}
+\definecolor{dblue}   {rgb}{0.0,0.0,1.0}
+\newcommand{\dblue}   {\color{dblue}}
+\definecolor{blgr}    {rgb}{0.70,0.80,1.00}
+\newcommand{\blgr}    {\color{blgr}}
+\definecolor{navy}    {rgb}{0.00,0.00,0.48}
+\newcommand{\navy}    {\color{navy}}
+\definecolor{green}   {rgb}{0.7,1.0,0.0}
+\newcommand{\green}   {\color{green}}
+%%% \definecolor{dgreen}  {rgb}{0.0,1.0,0.0}
+\definecolor{dgreen}  {rgb}{0.0,0.6,0.0}
+\newcommand{\dgreen}  {\color{dgreen}}
+\definecolor{lgreen}  {rgb}{0.0,0.8,0.0}
+\newcommand{\lgreen}  {\color{lgreen}}
+\definecolor{dg}      {rgb}{0.0,0.6,0.0}
+\newcommand{\dg}      {\color{dg}}
+\definecolor{orange}  {rgb}{1.0,0.5,0.0}
+\newcommand{\orange}  {\color{orange}}
+\definecolor{dorange} {rgb}{1.0,0.6,0.0}
+\newcommand{\dorange} {\color{dorange}}
+\definecolor{brown}   {rgb}{0.1,0.1,0.0}
+\newcommand{\brown}   {\color{brown}}
+\definecolor{lbrown}  {rgb}{0.7,0.5,0.0}
+\newcommand{\lbrown}  {\color{lbrown}}
+\definecolor{red}     {rgb}{1.0,0.0,0.0}
+\newcommand{\red}     {\color{red}}
+\definecolor{dred}    {rgb}{0.6,0.0,0.0}
+\newcommand{\dred}    {\color{dred}}
+\definecolor{grey}    {rgb}{0.1,0.1,0.1}
+\newcommand{\grey}    {\color{grey}}
+\definecolor{lgrey}   {rgb}{0.5,0.5,0.5}
+\newcommand{\lgrey}   {\color{lgrey}}
+\definecolor{black}   {rgb}{0.0,0.0,0.0}
+\newcommand{\black}   {\color{black}}
+
+\def\ltsima{$\; \buildrel < \over \sim \;$}
+\def\lsim{\lower.5ex\hbox{\ltsima}}
+\def\gtsima{$\; \buildrel > \over \sim \;$}
+\def\gsim{\lower.5ex\hbox{\gtsima}}
+
+\newlength{\txw}\setlength{\txw}{\textwidth}
+\newlength{\txh}\setlength{\txh}{\textheight}
+
+\renewcommand{\textfraction}{0.000}
+
+\newcommand{\citebox}[1]{\hspace*{1.5em}\parbox[t]{0.45\txw}{\hspace*{-1.8em}#1\\[-4pt]}}%
+
+\pagestyle{empty}
+
+%%% \baselineskip=12pt %%% for single spacing, =24pt for double spacing
+
+%%%%%%%%%%%%%%%   B E G I N    P R E S E N T A T I O N   %%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%%% set default text font...
+\Huge\sf
+\boldmath
+%%% set default text and page color...
+\color{white}
+%%% \color{lightyellow}
+\color{green}
+\pagecolor{white}
+
+
+\ve %%% Slide  01 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\vspace*{+5.0cm}
+
+\n \begin{center}
+
+\textcolor{dblue}{\kybgbf AST 111 Lab}\\[-10pt]
+
+\mn
+
+\textcolor{dgreen}{\kxbgbf Astronomy Lab I}\\[-10pt]
+
+\end{center}
+
+\end{document} %%%%
+

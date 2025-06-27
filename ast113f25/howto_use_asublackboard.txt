@@ -1,0 +1,105 @@
+Date: Thu, 19 Aug 2010 14:44:37 -0700
+From: Karen Knierman <karen.knierman@asu.edu>
+To: Rogier Windhorst <Rogier.Windhorst@asu.edu>
+Cc: Scott Smas <Scott.Smas@asu.edu>, Robert Alling <Robert.Alling@asu.edu>,
+    Marian Benton <Marian.Benton@asu.edu>, Bryce Carande <bcarande@asu.edu>,
+    Angel Fuentes-Figueroa <Angel.Fuentes@asu.edu>,
+    Jacqueline Monkiewicz <Jacqueline.Monkiewicz@asu.edu>,
+    Kelley Liebst <Kelley.Liebst@asu.edu>, Mark Rubin <Mark.E.Rubin@asu.edu>,
+    Sara Swinson <sara.swinson@asu.edu>
+Subject: How to set up Blackboard for AST 113
+
+You will need to request a blackboard site for your sections.
+
+Go to my.asu.edu
+
+Click on "Switch to: Faculty Info"
+
+Under "My Classes" is listed your sections you will be TAing (Becky just
+updated this for all those who are switching around)
+
+Click on the "Bb +" icon to the right of your section number
+
+You will see a new page pop up - Click "Continue to Next Step" (do not add
+additional sections)
+
+Course name page (don't need to change this from default) Click "Continue"
+
+Select "Start from Scratch"  and click "Continue to Next Step"
+
+On the Assign Roles page, Add yourself as Instructor (Very Important!), and
+delete Rogier (so he won't get any emails you send)
+
+(click "Continue")
+
+Summary Page (you should be the only Instructor)  Click "Continue"
+
+Second Summary Page  Click "Confirm Course Request"
+
+Repeat for all Sections!
+
+You will get a confirmation email when your class has been created on
+Blackboard.  (it will take a day or two)
+
+Thanks,
+
+Karen 
+
+
+Date: Wed, 9 Jan 2013 08:05:41 -0700
+From: Eric Hasper <Eric.Hasper@asu.edu>
+To: "rogier.windhorst@asu.edu" <rogier.windhorst@asu.edu>
+Cc: windhors@asu.edu, "robert.alling@asu.edu" <robert.alling@asu.edu>,
+teresa.ashcraft@asu.edu, Bryce Carande <bcarande@asu.edu>,
+ehasper@asu.edu, Kelley <kelley.liebst@asu.edu>, nguyenp@asu.edu,
+luke.probst@asu.edu, mjrutkow@asu.edu, "heather.singleton@asu.edu"
+<heather.singleton@asu.edu>, twoyner@asu.edu Subject: Access to your classroom.  The whole story.
+
+Hello everyone, Just for clarity, access to your lab section requires two
+requests: 
+
+1st and for most, you must request access to blackboard on your own.  If you
+have already taught you should have access to the faculty tab in MYASU.  Go
+there and click on the link for Request Blackboard access.  You will need to
+know your section numbers to do this.  
+
+If you do not have a faculty tab, you need to check with HR because this is part
+of the hiring process.  Once you have submitted the request for blackboard
+access they will notify you, usually within 24 hrs, that it has been granted. 
+
+You can then get into your account through the blackboard link on MYASU it will
+still NOT appear in your faculty tab yet.  Your section will appear as a
+class.  
+
+Once you are in you can post announcements and email students so everyone will
+quit emailing Rogier. 2nd a request for your lab section to show up in MYASU
+must be submitted to PeopleSoft.  This has already been done by Rebecca
+Polley.  We are all in the process of being approved.  To see the steps for
+approval go to this link:
+
+http://help.asu.edu/sims/selfhelp/SelfhelpKbView.seam;jsessionid=26D029416B6C769BBFDE934EC91636FC.node2?parature_id=8373-8193-4476&source=Selfhelp&cid=3704
+ It is a short 1 minute video.  Once you've seen it you will understand what is
+taking so long.  Our requests have been sent but need security approval, once
+granted access will magically show up in MYASU.  If it doesn't you need to check
+on your request with PeopleSoft.  You may be lacking some training and haven't
+received your clearance.  
+
+There is information on all of this on the link above if you need it. If you are
+stuck and need help just email me and I can try to help you troubleshoot. I hope
+this helps.  It only took 4 semesters for me to finally understand the whole
+process. Eric 
+
+> From: rebecca.polley@asu.edu
+> To: Rogier.Windhorst@asu.edu
+> CC: windhors@asu.edu; Robert.Alling@asu.edu; Teresa.Ashcraft@asu.edu; bcarande@asu.edu; ehasper@asu.edu; Kelley.Liebst@asu.edu; nguyenp@asu.edu; Luke.Probst@asu.edu; mjrutkow@asu.edu; Heather.Singleton@asu.edu; twoyner@asu.edu
+> Subject: RE: Class today
+> Date: Wed, 9 Jan 2013 14:03:44 +0000
+> 
+> Everyone was added via PeopleSoft to their appropriate sections.  I
+have nothing to do with Blackboard.  I believe you can request your own
+sites via MyASU. 
+> 
+> Thanks,
+> Becky
+
+

@@ -1,0 +1,33 @@
+Receiving PDF Lab reports via your section's Canvas page is the preferred and 
+simplest way to get all weekly Lab reports in. As a backup, we do have the 
+option to collect all lab reports into one Gmail account: 
+
+Username: ast113labreports@gmail.com
+
+Pwd for TAs only!:  ast113labreports_forTAs
+
+This file contains a brief write up how to route the Emails from each student into
+the appropriate different SLN folders in the Gmail account, so that the TAs only
+have to look at the Lab Reports that came in by Email in their respective SLN
+folders. For this to work, students must EMail their Lab Reports strictly
+following the instructions on the red COVID19 button: 
+
+1) Email all Lab Report PDF files to: ast113labreports@gmail.com by the posted
+deadlines. For each Lab Report, use exclusively unique file names that MUST start
+with your section's SLN and include your name + submission date and time, e.g.: 
+
+72048_Firstname_Lastname_introsky_31aug20_1030pm.pdf or
+72048_Mary_Doe_introsky_31aug20_1030pm.pdf . 
+
+Never include empty spaces in any file name, but use _ (underscores) instead. You
+MUST also include your section's SLN as first item into the Email Subject
+heading, e.g,:
+
+Subj: 72048 Mary Doe Introsky Lab report, 31 Aug, 2020
+
+Gmail will sort over 360 incoming lab reports automatically each week into
+different folders for each appropriate TA. Hence, failure to include your SLN as
+*FIRST* item in the Email Subject heading WILL result in your Lab report getting
+lost. You can find your correct SLN on your myasu.edu, or at the top of the
+Schedule page.
+

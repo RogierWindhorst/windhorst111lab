@@ -1,0 +1,100 @@
+How to make 2-column PDF file for schedule.html
+
+See file schedule.tabsv?.html
+
+In Mozilla/Konqueror, load this file VERBATIMLY with:
+
+file:///Users/raw/teach/ast113f23/schedule.tabsv1.html
+
+file:///Users/raw/teach/ast113f23/schedule.tabsv2.html
+
+(i.e., DON"T USE .../index.html)
+
+Now edit schedule.tabsv1.html and in front of:
+
+<p><font face="Arial"><a 
+NAME="1" 
+
+Put the following:
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+In Mozilla/Konqueror, click on reload, click on File and Print Preview, click on
+Scale, Custom: 86% (last year 82%), scroll down to page 2 or 3, and make sure
+first Table header starts at the top of the next page. If not, add or subtract
+<br> above until the first table header starts at the very top. Now you are
+ready to make all subsequent tables to start at the top of each next page. 
+
+In front of:             [NOTE: the space behind the "><a ]
+
+<p><font face="Arial"><a 
+NAME="n"
+
+where for n=ALL, put the following:
+
+<br> <br> <br> 
+
+or 
+
+<br> <br> <br> <br> <br> 
+
+in front of all NAME=ODD pages (may delete <p> <p> below </tr></table> ), 
+
+and NOTHING in front of all NAME=EVEN pages 
+
+(+/- one <br> more or less after the Tu night blocks, since We-Th have
+one night less this semester, since reading day is on We). (Or add an extra
+bogus night in Dec/Apr to the We/Th nights to make all tables the same size!)
+
+In Mozilla, click on reload, click Print to PS-file, Scale 86%, save as:
+
+/Users/raw/teach/ast113f23/schedule.tabsv1.ps
+
+/Users/raw/teach/ast113f23/schedule.tabsv2.ps
+
+/Users/raw/teach/ast113f23/welcome.ps
+
+/Users/raw/teach/ast113f23/contacts.ps
+
+Then do:
+
+ps2pdf14 schedule.tabsv1.ps 
+
+ps2pdf14 schedule.tabsv2.ps 
+
+o schedule.tabsv1.pdf &
+
+o schedule.tabsv2.pdf &
+
+cp -pr schedule.tabsv2.pdf AST111Fall23Sched.pdf
+
+Now put all final files on both AST websites:
+
+howto_make_ASU_websites.sav*
+
+
+To make a final print to post, in acroread, click Print:
+
+Printer: cps
+
+Click on pages: pg. 3--10 or 3--24 only,
+
+Click on Page Scaling: Multiple pages per sheet,
+
+Choose 2 (or 4) pages per sheet, 
+
+orientation: Portrait
+
+[At home webb: Print to ps then to pdf:
+
+Print to ps file: /Users/raw/teach/ast113f23/schedule.tabsv1b.ps
+
+ps2pdf14 schedule.tabsv1b.ps
+
+o schedule.tabsv1b.pdf &
+
+]
+
+Then prints in color: a nice four-table/page, 1 Lab night/page format.
+
+

@@ -1,0 +1,131 @@
+AST 111/112 available rooms, Codes/Keys needed, What's in Storage, Computers: 
+
+Room Keycodes (CONFIDENTIAL: DO NOT GIVE OUT TO YOUR STUDENTS OR NON-AST TAs;
+Please close all doors when leaving for the night; there are thieves around!):
+
+==============================================================================
+
+Fall 2025:
+
+H450 = 439296*  H453 = 445838*  H456 = 387167*  H457 = 136231*  H458 = 35412
+H460 = 699598*  H461 = 794433*  H462 = 366110*  H465 = 218743*  H468 = 715112*
+H470 = 268861*  H568 = 104154*
+ 
+==============================================================================
+
+Spring 2025:
+
+H450 = 552882*  H453 = 633337*  H456 = 311665*  H457 = 316625*  H458 = 35412
+H460 = 193821*  H461 = 579612*  H462 = 247222*  H465 = 352595*  H468 = 733993*
+H470 = 635590*  H568 = 643297*
+
+==============================================================================
+
+LabRoom  KeyNr       AST_Lab_Function   InStorageRoom:     
+-----------------------------------------------------------------
+PSH-Ent  DC-001      PSH-Entrance       (Don't lose it!)     
+
+PSF-768  DKB33       PSF AST Storage    Tels+Optics+Binos    
+PSF-7th  639871      East PSF stairwell PSF roof-access door code
+PSF-Elv  ELEV-57F    EAST PSF-elevator  Only one to 7th floor
+PSF-Ent  EX-516      PSF-Entrance       (Don't lose it!)     
+
+------------------------------------------------------------------------------
+All AST Lab materials (SandBoxes, MarsCharts, BoxOfRulers) are in the AST
+Storage Room PSH-470. To access PSFwing roof+storage PSF-768, need keys EQ-BP
+or ELEV-57F and DKB33! The elevator key is only used (in position ``on'') to
+enable the EAST elevator to go to PSF-7th. Turn it to the ``off'' position
+once you arrived, so people cannot abuse the elevators. Close the PSF-wing
+stairwell doors when leaving, so unauthorized folks won't enter the PSF-roof. 
+------------------------------------------------------------------------------
+
+==============================================================================
+Person        TAmtg  Email         Cell-phone   Nites      Offhrs/Room
+------------------------------------------------------------------------------
+Class Instructor:
+
+R. Windhorst  MT>1  raw@asu.edu    480-540-0816 MTWTh      M 1-2pm https://asu.zoom.us/j/7191824655
+
+Graduate Head TA's available for Fall 2025:
+
+Nick Foo        NFoo1@asu.edu      925-964-7337 MoTuWeTh  
+
+Ashley Herbst   AKHerbst@asu.edu   214-676-7270 TuTh  
+
+
+UG TAs available for Fall 2025 (I checked):
+
+Evrim Gulser    EGulser@asu.edu    623-552-8786 2 sections Perfers TuTh
+
+Megan Miller    MLMill46@asu.edu   815-931-1199 2 sections MoWe 
+
+Gibson Bowling  GBBowlin@asu.edu   937-474-8976 1 section  CAN ONLY DO Mondays!
+
+Spencer Emmons  SEmmons3@asu.edu   805-861-0062 1 section  MoWe
+
+Cole Haramis    CHaramis@asu.edu                1 section  (Pres of the Astronomy Club) TBC
+
+Kendall Johnston KJohn256@asu.edu  970-643-4987 1 section  TuTh
+
+-------------------------------------------------------------------------------
+
+EQUIPMENT REPAIR AND PURCHASES:
+
+Tom Mozdzen     Thomas.Mozdzen@asu.edu  480-236-2311  TBD   Zoom/TBD
+
+PLANETARIUM:
+
+Barbara Dente   Barbara.Dente@asu.edu   480-727-7799  Tu 2:00-3:00 ISTB4-531
+or:             sese.asu.edu/planetarium 
+
+H-wing FACILITIES/Keys:  
+
+Colin Engelson  Colin.Engelson@asu.edu  480-727-1719
+
+-------------------------------------------------------------------------------
+
+Our TA mtgs are every Monday 1-3 pm by Zoom (or in PSH-450), until we get to 
+cruising altitude, when we will meet less often on Mondays.
+
+===============================================================================
+
+TA workload division:
+-------------------------------------------------------------------------------
+
+Lead: 2 TAs x 1.5 sect   = 3 sect AH NF (20 hr Lead TAs)
+
+UGTA: 2 TAs x 2   sect   = 4 sect EG MM (hourly UG 12 hrs/wk; submit time cards)
+
+UGTA: 4 TAs x 0.5-1 sect = 3 sect GB SE CH KJ (hourly UG 8 hr/wk; submit time cards)
+
+-------------------------------------------------------------------------------
+Total 8 TAs             = 10 sect  (incl Lead TAs)
+-------------------------------------------------------------------------------
+
+===============================================================================
+AST 111/112 LabTA Weekly Workload (hrs/week listed for each TA below):
+-------------------------------------------------------------------------------
+
+ALL: TA mtg, office hrs, preparation:    +5 hrs/week =  5 hrs/week
+TAs Teaching 1.0 section  incl grading:  +5 hrs/week = 10 hrs/week
+TAs Teaching 2.0 sections incl grading:  +5 hrs/week = 15 hrs/week
+TAs Teaching 3.0 sections incl grading:  +5 hrs/week = 20 hrs/week
+Senior TAs:  2.0 sections + 5 hrs help supervise etc = 20 hrs/week
+
+-------------------------------------------------------------------------------
+
+AB, MH: Lead TA MTWTh in PSH & PSF. Oversee, order, repairs of equipment: 
+
+1) Coordinate computer accounts/Canvas in PSH 456-465 with Becky Polley;
+
+2) Order needed materials: paper, toner (see SESE office for Workorders/PO's);
+
+3) Coordinate Equipment and Telescope repairs (ask Tom Mozdzen for help);
+
+4) Help GrTAs with grading where needed, help train new TAs in new sections;
+
+5) Fill in occasionally for a few TA's when they are traveling. Any UG TAs
+can be called upon that too, since they get paid by the hour. 
+
+-------------------------------------------------------------------------------
+

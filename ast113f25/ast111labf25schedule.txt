@@ -1,0 +1,52 @@
+
+Your personal Zoom meeting room link is https://asu.zoom.us/j/7191824655
+
+===============================================================================
+
+My Classes Fall '25
+
+Combined Sections  Rogier Windhorst
+
+https://webapp4.asu.edu/myasu/
+
+https://catalog.apps.asu.edu/catalog/classes/classlist?campusOrOnlineSelection=A&catalogNbr=111&honors=F&instructorName=Windhorst&promod=F&searchType=all&subject=AST&term=2257
+
+
+Combined Sections  Rogier Windhorst 
+
+AST 591	JClub 76142	Astroph JClub M 12:00-1:00 PM          GWC505            Enrolled  9/10
+
+AST 498	JClub 76141	Astroph JClub M 12:00-1:00 PM          GWC505            Enrolled 12/12
+
+
+AST 111 Fall 2025 Introduction to Astronomy Laboratory I, Tempe campus, Rogier Windhorst
+
+TA (tentative) SLN   Course       Days/Start-EndTime                Room   Start-End  Open/Used
+
+Megan Miller       72029 AST 111 LabI  M  3:30-5:30PM  or  7:30-9:30PM  PSH450 8/21-12/5  0/24
+Gibson Bowling     72048 AST 111 LabI  M  3:30-5:30PM  or  7:30-9:30PM  PSH460 8/21-12/5  0/24
+
+Nick Foo           72049 AST 111 LabI  T  3:30-5:30PM  or  7:30-9:30PM  PSH450 8/21-12/5  0/24
+Evrim Gulser       72051 AST 111 LabI  T  3:30-5:30PM  or  7:30-9:30PM  PSH456 8/21-12/5  0/24
+Herbst/Haramis     77736 AST 111 LabI  T  3:30-5:30PM  or  7:30-9:30PM  PSH461 8/21-12/5  0/24
+
+Foo/Emmons         72050 AST 111 LabI  W  3:30-5:30PM  or  7:30-9:30PM  PSH450 8/21-12/5  0/24
+Megan Miller       72054 AST 111 LabI  W  3:30-5:30PM  or  7:30-9:30PM  PSH460 8/21-12/5  0/24
+
+Ashley Herbst      72052 AST 111 LabI  Th 3:30-5:30PM  or  7:30-9:30PM  PSH450 8/21-12/5  0/24
+Evrim Gulser       72055 AST 111 LabI  Th 3:30-5:30PM  or  7:30-9:30PM  PSH456 8/21-12/5  0/24
+Kendall Johnston   77737 AST 111 LabI  Th 3:30-5:30PM  or  7:30-9:30PM  PSH457 8/21-12/5  0/24
+
+========================================================================================
+
+https://catalog.apps.asu.edu/catalog/classes/classlist?advanced=true&campus=TEMPE&campusOrOnlineSelection=A&catalogNbr=123&honors=F&instructorName=Knierman&promod=F&searchType=all&subject=SES&term=2247
+
+SES 123 Earth, Solar System and Universe Lab, K. Knierman, M. Simon, Fall 2024:
+
+TA                SLN  Course SCH Days/Start-EndTime Start-EndDate Room Open/Used
+
+TBD               64203 SES 123 1 M  10:45A-12:45P or 7:30-9:30PM 08/22-12/06 PSH457 00/30
+TBD               68705 SES 123 1 M  10:45A-12:45P or 7:30-9:30PM 08/22-12/06 PSH456 00/30
+TBD               70693 SES 123 1 W  10:45A-12:45P or 7:30-9:30PM 08/22-12/06 PSH457 00/30
+TBD               78113 SES 123 1 W  10:45A-12:45P or 7:30-9:30PM 08/22-12/06 PSH456 00/30
+

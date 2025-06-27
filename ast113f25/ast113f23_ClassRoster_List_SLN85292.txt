@@ -1,0 +1,78 @@
+ 	Select All 	
+Name
+(Switch to First Last) 	ID 	Posting ID 	Status 	Associated Sections 	Units 	Grade Basis 	Program and Plan 	Academic Level 	ASURITE 	Residency
+1 		Adhikari, Anubhav Email 	1228877171 	7171-981 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Freshman 	aadhik21 	Non-Resident
+2 		Bates, Ethan Email 	1224433665 	3665-426 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Business (Sports Business)
+	Sophomore 	edbates 	Non-Resident
+3 		Carrington, Mae Email 	1224603913 	3913-357 	ENRL (02-23-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)
+	Junior 	mcarrin3 	Resident
+4 		Castaneda Marquez, Luis Email 	1224873858 	3858-931 	ENRL (05-13-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)
+	Sophomore 	lcasta16 	Resident
+5 		Dalbins, Andrew Email 	1230380556 	0556-685 	ENRL (06-15-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Data Science
+	Sophomore 	adalbins 	Non-Resident
+6 		Edmiston, Adam Email 	1224171286 	1286-807 	ENRL (02-23-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Physics
+	Sophomore 	aedmist1 	Resident
+7 		Groman, Jacob Email 	1229145270 	5270-882 	ENRL (08-16-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	jdgroman 	Resident
+8 		Gutin, Alexa Email 	1227570840 	0840-632 	ENRL (03-30-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Film & Media Production
+	Freshman 	agutin 	Non-Resident
+9 		Krosschell, Vince Email 	1225069768 	9768-612 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Art (Museum Studies)
+	Sophomore 	kkrossch 	Resident
+10 		Lopez Delfin, Anthony Email 	1226125968 	5968-002 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Business-BA
+	Sophomore 	alopezd4 	Resident
+11 		Merrill, Sydney Email 	1224727998 	7998-820 	ENRL (02-23-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Art (Animation)
+	Senior 	slmerril 	Resident
+12 		Murray, Miles Email 	1224749214 	9214-751 	ENRL (02-23-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Bio Sci (Conser Bio & Ecology)
+	Sophomore 	bemurray 	Non-Resident
+13 		Newhouse, Eric Email 	1224775409 	5409-823 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Sophomore 	enewhous 	Resident
+14 		Robledo, Maryan Email 	1224107911 	7911-327 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	The College of Lib Arts & Sci - Political Science BA
+	Junior 	mrobled8 	Resident
+15 		Salgado Barroso, Jose Email 	1224627378 	7378-061 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Marketing
+	Sophomore 	jsalga23 	Resident
+16 		Sneor, Grant Email 	1220955554 	5554-093 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Herberger Institute - Mda Art & Sc (Graph Info Tech)
+	Sophomore 	gsneor 	Non-Resident
+17 		Soucy, Brendan Email 	1225188848 	8848-362 	ENRL (02-23-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Aerospace Engr (Astronautics)
+	Junior 	bssoucy 	Resident
+18 		Spector, William Email 	1222321178 	1178-562 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Business (Law)
+	Sophomore 	wspector 	Non-Resident
+19 		Sullivan, Jack Email 	1225038750 	8750-572 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Business Entrepreneurship
+	Sophomore 	jbsulli2 	Non-Resident
+20 		Tarin, Maddy Email 	1225164421 	4421-232 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Business(Publ Svc & Publ Polc)
+	Sophomore 	mmtarin1 	Resident
+21 		Togao, Yuki Email 	1224902341 	2341-435 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Business (Sports Business)
+	Sophomore 	ytogao 	Non-Resident
+22 		Tse, Yip Email 	1225930357 	0357-070 	ENRL (05-03-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Marketing
+	Sophomore 	ytse7 	Non-Resident
+23 		Willems, Ryan Email 	1224539602 	9602-296 	ENRL (03-01-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	W.P. Carey School of Business - Supply Chain Management
+	Sophomore 	rjwillem 	Resident
+24 		Yu, Dalton Email 	1229595642 	5642-514 	ENRL (07-19-2023) 	78601-2001 Lecture
+	0 	Non-Graded 	Ira A Fulton Engineering - Computer Science - BS
+	Freshman 	dryu9 	Resident
+My Info
+
+
