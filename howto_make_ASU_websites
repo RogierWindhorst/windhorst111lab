@@ -30,7 +30,7 @@
 
 scp -pr -P 9022 *.html windhors@antelope.sese.asu.edu:/webuser/www/windhorst111lab.asu.edu/.
 
-scp -pr -P 9022 * windhors@antelope.sese.asu.edu:/webuser/www/windhorst111lab.asu.edu/.
+### scp -pr -P 9022 * windhors@antelope.sese.asu.edu:/webuser/www/windhorst111lab.asu.edu/.
 
 # Put backup files on mirror site on General:
 
