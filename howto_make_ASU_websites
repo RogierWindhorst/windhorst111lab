@@ -4,7 +4,11 @@
 # 
 # cd /Users/raw/teach/ast113f24/
 
+# cd /Users/raw/teach/windhorst111lab/  %%% Use this dir only with github
+
 # LOCAL URL: file:///Users/raw/teach/ast113f25/index.html
+
+# LOCAL URL: file:///Users/raw/teach/windhorst111lab/index.html
 
 
 # ssh -p 9022 windhors@129.219.108.241         ### OR:
