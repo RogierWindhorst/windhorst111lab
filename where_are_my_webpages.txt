@@ -1,0 +1,31 @@
+Where are my webpage?
+
+In /var/www/lambda/raw/ you should have write permission to copy files
+and create subdirectories with content. 
+
+Note: each and every subdirectory *must* have an "index.html" file that
+corresponds to a landing web page when people type the URL corresponding
+to that subdirectory, such that at no time the actual directory
+structure or directory navigation is exposed to a visitor of your web
+pages (i.e., they should not be able to follow a "parent directory" link
+to traverse the directory structure up to the root directory). Failure
+to do so will get this server disconnected by ASU IT.
+
+
+The URL to your top web directory is:
+  http://lambda.la.asu.edu/raw/
+
+and the URLs to your requested subdirectories:
+  http://lambda.la.asu.edu/raw/jwst/
+  http://lambda.la.asu.edu/raw/jwst/cv
+  http://lambda.la.asu.edu/raw/jwst/talks
+
+  http://lambda.la.asu.edu/classes/
+  http://lambda.la.asu.edu/classes/ast111
+  http://lambda.la.asu.edu/classes/ast322
+  http://lambda.la.asu.edu/classes/ast498
+
+and these have been pre-populated with dummy "index.html" files.
+
+
+Rolf Jansen -- Jun 27 2025
