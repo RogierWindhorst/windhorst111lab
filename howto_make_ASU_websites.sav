@@ -33,9 +33,14 @@
 
 # Put main files onto SESE 2025 jackalope server (Port 9022 requires -P in scp): 
 
-### scp -pr -P 9022 *.html windhors@jackalope.sese.asu.edu:/webuser/windhors/windhorst111lab.asu.edu/.
+### ### scp -pr -P 9022 *.html windhors@jackalope.sese.asu.edu:/webuser/windhors/windhorst111lab.asu.edu/.
 
-scp -pr -P 9022 * windhors@jackalope.sese.asu.edu:/webuser/windhors/windhorst111lab.asu.edu/.
+### scp -pr -P 9022 * windhors@jackalope.sese.asu.edu:/webuser/windhors/windhorst111lab.asu.edu/.
+
+
+### scp -pr -P 9022 *.html windhors@antelope.sese.asu.edu:/webuser/www/windhorst111lab.asu.edu/.
+
+scp -pr -P 9022 * windhors@antelope.sese.asu.edu:/webuser/www/windhorst111lab.asu.edu/.
 
 # Put backup files on mirror site on Microjansky:
 
