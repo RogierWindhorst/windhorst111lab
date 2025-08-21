@@ -42,11 +42,12 @@ scp -pr -P 9022 *.html windhors@antelope.sese.asu.edu:/webuser/www/windhorst111l
 
 ### scp -pr -P 9022 * windhors@antelope.sese.asu.edu:/webuser/www/windhorst111lab.asu.edu/.
 
+
 # Put backup files on mirror site on Microjansky:
 
-### scp -pr *.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast111/.
+scp -pr *.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast111/.
 
-scp -pr * raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast111/.
+### scp -pr * raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast111/.
 
 
 # All AST files will then be on:

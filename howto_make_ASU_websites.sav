@@ -42,6 +42,7 @@
 
 scp -pr -P 9022 * windhors@antelope.sese.asu.edu:/webuser/www/windhorst111lab.asu.edu/.
 
+
 # Put backup files on mirror site on Microjansky:
 
 ### scp -pr *.html raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast111/.
