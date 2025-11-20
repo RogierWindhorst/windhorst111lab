@@ -54,6 +54,8 @@ scp -pr * raw@microjansky.la.asu.edu:/var/www/lambda/raw/classes/ast111/.
 #
 # http://windhorst111lab.asu.edu/
 #
+# https://rogierwindhorst.github.io/windhorst111lab/ 
+#
 # Backup files on Microjansky are on:
 #
 # http://lambda.la.asu.edu/raw/classes/ast111/
