@@ -1,0 +1,25 @@
+        Afternoon: CC-2nd floor or LSE     All Night Labs in PSF or LSE
+Monday  3:30-5:30pm                        7:30pm-9:30pm 
+Aug. 24 DSL VR 1: CC-2nd floor             Lab 1A: Scale of the Solar System: LSE
+Aug. 31 Lab 1B: Lunar Phases: LSE        
+Sep. 07 Labor Day -- No Labs               Labor Day -- No Labs
+Sep. 14 DSL VR 2: CC-2nd floor             Lab 2A: Coordinate Systems: PSF
+Sep. 21                                    Lab 2B: Intro Night Sky: PSF
+Sep. 28 DSL VR3: CC-2nd floor              TLab 7: Intro to Telescopes: PSF
+Oct. 05 Lab 3A: Spectroscopy: LSE        
+Oct. 12 Fall Break -- No Labs              Fall Break -- No Labs
+Oct. 19                                    TLab 8: Lunar Observing: PSF 
+Oct. 26 Lab 3B: Orbital Motions: LSE       
+Nov. 02 DSL VR 4: CC-2nd floor             Lab 4A: Impact Cratering: LSE
+Nov. 09 Lab 4B: Planetary Processes: LSE        
+Nov. 16 DSL VR 5: CC-2nd floor             Lab 5A: Solar System Formation: LSE
+Nov. 23 Lab 5B: Planetary Atmospheres: LSE        
+Nov. 30 DSL VR 6: CC-2nd floor             Lab 6: Exoplanets: LSE
+          
+                
+Labs using Old Lab Scripts:                
+Lunar Observing                
+Intro Telescopes                
+Extrasolar Planets                
+                
+All other labs scripts are brand new and in Canvas quiz.                

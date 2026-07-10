@@ -1,0 +1,224 @@
+
+
+# ================================================================================
+# 
+# Course  SLN    Title  Mon LSE-S36 PSF-650J  TA              Enrolled Instructor(s)
+# AST 111 70667  Intro/Solar Sys Astr (Lab)   Spencer Emmons  13/24    Windhorst
+# 
+#NrLastName            FirstName        ID          PostingID  %Grade  ASURITE
+1   Bruno              Griffin          1235640421  0421-031   0.0     gbruno12   
+2   Campbell           Charlie          1236696229  6229-195   0.0     cbcampb9   
+3   Esposito           Chiara           1241716466  6466-345   0.0     cvesposi   
+4   Fallstrom          Isaac            1237177775  7775-500   0.0     ifallstr   
+5   Guarizo            David            1239852500  2500-588   0.0     dguarizo   
+6   Guerrero           Bronson          1234730642  0642-390   0.0     brguerr3   
+7   Jeffries           Eliot            1237079066  9066-317   0.0     ejjeffri   
+8   Kiwaluk            Nathan           1242133896  3896-537   0.0     nkiwaluk   
+9   Lazaro             Isaiah           1233561643  1643-515   0.0     ilazaro    
+10  Lee                Jadon            1239978249  8249-643   0.0     jadonlee   
+11  Lopez Benitez      Miguel           1231752589  mlopezb1   0.0     Resident
+12  O'Kelly            Parker           1232941907  1907-787   0.0     ptokelly   
+13  Sibilia            Quentin          1235842298  2298-976   0.0     qsibilia   
+
+
+================================================================================
+# 
+# Course  SLN    Title  Mon  LSE-S04 PSF-647  TA              Enrolled Instructor(s)
+# AST 111 70684  Intro/Solar Sys Astr (Lab)   Sambhavi Singh  24/24    Windhorst
+# 
+#Nr LastName           FirstName        ID          PostingID  %Grade  ASURITE
+1   Acosta             Max              1242095741  5741-484   0.0     maacos21     
+2   Albaker            Baker F B M      1234964785  4785-625   0.0     balbaker   
+3   Alsaif             Suliman          1239162265  2265-684   0.0     swalsaif   
+4   Bergren            Owen             1235765936  5936-172   0.0     obergren   
+5   Bhutalia           Vibhuti          1231040449  0449-131   0.0     vbhutali   
+6   Brown              Bill             1236275731  5731-749   0.0     wmbrown8   
+7   Carrasco           Estefania        1235860680  0680-390   0.0     ecarra18   
+8   Chrim              Elijah           1233411636  1636-890   0.0     echrim     
+9   DePasquale         Mauro            1236456899  6899-515   0.0     mfdepasq   
+10  Henderson          Daylen Henderson 1232158397  8397-302   0.0     dhende40   
+11  Khabrani           Kashvi           1236772279  2279-562   0.0     kkhabran   
+12  Mcguire            James            1235514295  4295-151   0.0     jnmcgui5   
+13  Merritt            Ami              1231720921  0921-095   0.0     amerrit8   
+14  Rivas              Kai              1237918164  8164-658   0.0     kcrivas1   
+15  Rivera             Erick            1236980760  0760-931   0.0     eriver93   
+16  Schalk             Izabella         1235393993  3993-889   0.0     ischalk    
+17  Shankar            Arya             1234828571  8571-979   0.0     ashank42   
+18  Slavin             Ethan            1237352352  2352-147   0.0     exslavin   
+19  Studulski          Aidan            1229292898  2898-799   0.0     astuduls   
+20  Suchanick          Timothy          1236697984  7984-330   0.0     tsuchani   
+21  Trexler            Jacks            1235686610  6610-990   0.0     atrexle2   
+22  Tuka               Tessa            1237664352  4352-355   0.0     ttuka      
+23  Varghese           Rohan            1233509084  9084-687   0.0     rvargh10   
+24  Youwanes           Kristen          1235898731  8731-325   0.0     kyouwane  
+
+
+# ================================================================================
+# 
+# Course  SLN    Title  Tue  LSE-S36 PSF-650J TA              Enrolled Instructor(s)
+# AST 111 75166  Intro/Solar Sys Astr (Lab)   Kamran Oskouie  6/24     Windhorst
+# 
+#Nr LastName           FirstName        ID          PostingID  %Grade  ASURITE
+1   Elliott            Michael          1235803909  3909-769   0.0     mrellio3  
+2   Heimsoth           Haley            1240970487  0487-243   0.0     hheimsot  
+3   Lovette            Madyson          1239772654  2654-221   0.0     mmlovet3  
+4   Mcbride            Caileigh         1234120695  0695-288   0.0     cmmcbri4  
+5   Saad               Lincoln          1236078495  8495-787   0.0     lmsaad    
+6   Smith              Harrison         1236324052  4052-851   0.0     hmsmit50  
+
+
+# ================================================================================
+# 
+# Course  SLN    Title  Tue  LSE-S04 PSF-647  TA              Enrolled Instructor(s)
+# AST 111 70685  Intro/Solar Sys Astr (Lab) Kendall Johnston  12/24    Windhorst
+# 
+#Nr LastName           FirstName        ID          PostingID  %Grade  ASURITE
+1   Bekken             Michael          1238135667  5667-118   0.0     mgbekken   
+2   Castro Garcia      Cynthia          1236228346  8346-325   0.0     ccastr42   
+3   Frank              Ryan             1236119887  9887-722   0.0     rmfrank1   
+4   Lopez              Daniel           1228173832  3832-363   0.0     dlope146   
+5   Maarafi            Hussen N A M M Z 1235530948  0948-652   0.0     hmaarafi   
+6   Miles              Mathew           1235653954  3954-445   0.0     mmmiles5   
+7   Rupchandani        Angel            1237624442  4442-482   0.0     arupchan   
+8   Sansone            Evan             1239468532  8532-278   0.0     esansone   
+9   Sullivan           Kona             1236038364  8364-434   0.0     casull20   
+10  Wong               Brian            1235987768  7768-740   0.0     bwong124   
+11  Woodley            Michael          1241011840  1840-568   0.0     mwoodle2   
+12  Zinn Palominos     Ari              1236267632  7632-159   0.0     azinnpal   
+
+
+# ================================================================================
+# 
+# Course  SLN    Title  Tue  LSE-S42 PSF-501  TA              Enrolled Instructor(s)
+# AST 111 70687  Intro/Solar Sys Astr (Lab)   Nick Foo        22/24    Windhorst
+# 
+#Nr LastName           FirstName        ID          PostingID  %Grade  ASURITE
+1   Aljuhani           Gigi             1237515970  5970-366   0.0     galjuhan   
+2   Campos             Alexandra        1236343123  3123-823   0.0     amcamp27   
+3   Cheam              Hann             1238112553  2553-595   0.0     xcheam     
+4   Cheure             Blessing         1232695245  5245-892   0.0     bcheure    
+5   Clothier           Tate             1237541723  1723-216   0.0     tclothie   
+6   Cote               Angie            1226008916  8916-751   0.0     acote3     
+7   De Paz             Nicholas         1240798783  8783-277   0.0     ndepaz     
+8   Ganes              Thatcher         1228171960  1960-515   0.0     tganes     
+9   Gupta              Aditya           1237395213  5213-291   0.0     agupt592   
+10  Gutierrez          Sidney           1238881191  1191-841   0.0     slguti11   
+11  Hintz              Gavin            1236982671  2671-341   0.0     gahintz    
+12  Hobani             Ayman            1230035653  5653-599   0.0     ahobani    
+13  Imhoff             Eli              1235633401  3401-431   0.0     etimhoff   
+14  Lietz              Kiera            1236461735  1735-887   0.0     klietz     
+15  Long               Evelyn           1237136461  6461-349   0.0     eclong1    
+16  Lucero             Caelan           1237314574  4574-067   0.0     clucer15   
+17  Matsuyoshi         Noah             1239433614  3614-456   0.0     nmatsuyo   
+18  Murphy             Kai              1234246548  6548-598   0.0     kjmurp17   
+19  Pippen             Jack             1235600680  0680-559   0.0     jpippen    
+20  Smallwood          Chloe            1235432967  2967-211   0.0     cnsmall1   
+21  Stockstad          Cole             1232817718  7718-561   0.0     castocks   
+22  Villa-Antone       Xavier           1236469392  9392-476   0.0     xvillaan   
+
+
+# ================================================================================
+# 
+# Course  SLN    Title  Wed   LSE-S04 PSF-647 TA              Enrolled Instructor(s)
+# AST 111 70686  Intro/Solar Sys Astr (Lab)   Spencer Emmons  4/24     Windhorst
+# 
+#Nr LastName           FirstName        ID          PostingID  %Grade  ASURITE
+1   Diaz               Aydan            1235826932  6932-069   0.0     mdiaz127   
+2   Huynh              Tyler            1224795650  5650-652   0.0     thhuynh6   
+3   Sandoval           Carlos           1229816694  6694-577   0.0     crsando4   
+4   Sarager            Avery            1236621583  1583-518   0.0     asarager   
+
+
+# ================================================================================
+# 
+# Course  SLN    Title  Wed  LSE-S36 PSF-650J TA              Enrolled Instructor(s)
+# AST 111 70690  Intro/Solar Sys Astr (Lab)   Rafael Ortiz    24/24    Windhorst
+# 
+#Nr LastName           FirstName        ID          PostingID  %Grade  ASURITE
+1   Aceves             Jon              1233937564  7564-446   0.0     jgaceve1   
+2   Al Salmi           Mohammed         1229830552  0552-445   0.0     malsalm1   
+3   Alhumaidi          Dalia A H        1227957616  7616-230   0.0     dalhumai   
+4   Barhydt-Lomeli     Ava              1237955825  5825-292   0.0     abarhydt   
+5   Chastain           Brooke           1229195242  5242-761   0.0     bchasta5   
+6   Garcia             Brielle          1242095065  5065-426   0.0     blgarc17   
+7   Gonnerman          Tyler            1233926228  6228-867   0.0     tgonnerm   
+8   Guzman             Victor           1241990961  0961-128   0.0     vguzma25   
+9   Johnson            Ian              1222232271  2271-984   0.0     ijohns29   
+10  Johnson            Nevaeh           1235826919  6919-068   0.0     nsjohn19   
+11  Krominga           Ethan            1237600132  0132-144   0.0     ekroming   
+12  Lamp               Aj               1242100226  0226-850   0.0     ajlamp     
+13  Lopez              Mia              1236632620  2620-668   0.0     mjlope45   
+14  McKeown            Tyler            1235620856  0856-404   0.0     tbmckeow   
+15  Menard             Spencer          1236713194  3194-909   0.0     dpmenar1   
+16  Myers              Michael          1236449970  9970-340   0.0     mwmyers2   
+17  Numkena            Laurence         1237450879  0879-341   0.0     lmnumken   
+18  Paige              Benjamin         1234928775  8775-571   0.0     bapaige    
+19  Pohle              Noah             1235378198  8198-908   0.0     npohle1    
+20  Sims               Rhea             1232220550  0550-939   0.0     asims22    
+21  Spry               Nikki            1229349448  9448-332   0.0     nspry1     
+22  Thompson           Aidan            1232851648  1648-741   0.0     arthom60   
+23  White              Ziairah          1236229100  9100-409   0.0     zwhite14   
+24  Yonan              Rachel           1231799519  9519-269   0.0     riyonan    
+
+
+# ================================================================================
+# 
+# Course  SLN   Title Thu LSE-S04/B34 PSF-647 TA              Enrolled Instructor(s)
+# AST 111 70688  Intro/Solar Sys Astr (Lab)   George White    11/24    Windhorst
+# 
+#Nr LastName           FirstName        ID          PostingID  %Grade  ASURITE
+1   Abdelmalak         John             1238737853  7853-691   0.0     jrabdelm  
+2   Akins              Naomi            1230836960  6960-446   0.0     nakins    
+3   Asuncion           Natalie          1235053653  3653-159   0.0     nmasunci  
+4   Berda              Christian        1237250705  0705-197   0.0     cberda12  
+5   Blagg              Jameson          1239222611  2611-372   0.0     jblagg    
+6   Gonzalez Aranda    Martin           1234111868  1868-789   0.0     mgonz382  
+7   McGrath            Elliot           1235176438  6438-792   0.0     emcgrat5  
+8   Ralston            Zane             1234142067  2067-168   0.0     zmralsto  
+9   Sadique            Ali              1231437495  7495-169   0.0     asadique  
+10  Smith              Amber            1236489152  9152-335   0.0     aesmit78  
+11  Vijayababu         Shreedev         1236725648  5648-867   0.0     svijayab  
+
+
+# ================================================================================
+# 
+# Course  SLN    Title  Thu  LSE-S36 PSF-650J TA              Enrolled Instructor(s)
+# AST 111 75167  Intro/Solar Sys Astr (Lab) Jacob Stefanovski 5/24     Windhorst
+# 
+#Nr LastName           FirstName        ID          PostingID  %Grade  ASURITE
+1   Calzadias Carbajal Manuel           1232646781  6781-622   0.0     mcalzad2  
+2   Fink               Cooper           1241705767  5767-519   0.0     cfink123  
+3   Morley             Celina           1241390478  0478-208   0.0     cdmorley  
+4   Ohagan             Patrick          1229753579  3579-672   0.0     pohagan1  
+5   Pascale            Joseph           1233068384  8384-601   0.0     jjpascal  
+
+
+# ================================================================================
+# 
+# Course  SLN    Title  Thu  LSE-S42 PSF-501  TA              Enrolled Instructor(s)
+# AST 111 70691  Intro/Solar Sys Astr (Lab)   Rachel Honor    19/24    Windhorst
+# 
+#Nr LastName           FirstName        ID          PostingID  %Grade  ASURITE
+1   Aguilar            Diana            1236946440  6440-972   0.0     daguil46   
+2   Aljuaib            Alzain           1238126892  6892-435   0.0     aaljuaib   
+3   Amii               Ryder            1237266201  6201-497   0.0     ramii     
+4   Benitez            Davi             1237603486  3486-401   0.0     drbenite   
+5   Chapman            Mariko           1240076048  6048-485   0.0     mechapm5   
+6   Collier            Gavin            1225104777  4777-305   0.0     gmcollie   
+7   Comadore           Bri              1236581777  1777-249   0.0     bcomador   
+8   Crespo             Kameran          1236129325  9325-448   0.0     kmcresp1   
+9   Daly               Quinn            1238274936  4936-094   0.0     qdaly     
+10  Jordan             Tavek            1232193978  3978-293   0.0     trjorda2   
+11  Lugo               Aubrielle        1236620023  0023-398   0.0     aslugo     
+12  Mahlstadt          Benaiah          1237000949  0949-982   0.0     bmahlsta   
+13  Matthews           Ava              1235457407  7407-851   0.0     ajmatth4   
+14  Meiers             Madison          1236482561  2561-829   0.0     mmeiers1   
+15  Rocha              Irayda           1236877670  7670-098   0.0     irocha12   
+16  Santos             Esteban          1232002891  2891-777   0.0     efsanto1   
+17  Thomas             Maelys           1241905005  5005-190   0.0     mtthom12   
+18  White Lomeli       Daniele          1235446383  6383-239   0.0     dwhitelo   
+19  Zaguilan Lechuga   Arisbeth         1235620726  0726-394   0.0     azaguil1   
+
+
+# ================================================================================
+

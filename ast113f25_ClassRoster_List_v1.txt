@@ -1,0 +1,305 @@
+
+# ================================================================================
+# 
+# Course  SLN    Title                       TA                    Enrolled  Instructor(s)
+# AST 111 72029  Intro/Solar Sys Astr (Lab)  Megan Miller          23/24     Windhorst
+# 
+#Nr LastName         FirstName        ID          PostingID  %Grade
+Agarwal              Keshav           1230802939  2939-104   0.0        ENRL (03-17-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Bus Admin) Junior        kagarw42        Non-Resident
+Aragon               Junior           1234433137  3137-381   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Political Science BA Sophomore        eaarago2        Non-Resident
+Broz                 Jackson          1233951695  1695-098   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Political Science BS Sophomore        jbroz        Non-Resident
+Chaussee             Mikayla          1232754629  4629-550   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        Herberger Institute - Interior Design Sophomore        mchausse        Resident
+Cohill               Taylor           1234717239  7239-927   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Political Science BA Junior        tcohill        Resident
+Coutinho Araujo M.   Enzo             1233127339  7339-738   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Finance Sophomore        ecoutin1        Non-Resident
+Gonzalez Ramirez G.  Emilia           1234408606  8606-968   0.0        ENRL (08-25-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business-BA Sophomore        egonz236        Non-Resident
+Jamjoom              samar            1235110697  0697-906   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Economics BS Freshman        sjamjoo1        Non-Resident
+Johnson              Billy            1233927866  7866-768   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Finance Sophomore        bajohn75        Non-Resident
+Kessary              Ayla             1233186853  6853-921   0.0        ENRL (03-17-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - English (Creative Writing) Sophomore        akessar1        Resident
+Lester               Patrick          1236431172  1172-682   0.0        ENRL (05-05-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Sports Business) Freshman        pjlester        Resident
+Leuna                Maisha           1234618283  8283-025   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Justice Studies Sophomore        mleuna        Non-Resident
+Macleod              Rylee            1233328540  8540-072   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Finance Sophomore        rmmacleo        Non-Resident
+Martinez             Jayden           1232402537  2537-882   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        MaryLouFulton College for Teac - Secondary Education Sophomore        jamar218        Resident
+Ngo                  Hung             1231746206  6206-817   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        htngo6        Resident
+Palmer               Aaliyah          1238005667  5667-132   0.0        ENRL (05-12-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Psychology BS - Tempe Sophomore        dapalm10        Resident
+Roth                 Gavin            1232007558  7558-136   0.0        ENRL (08-21-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Syst Egr (Cybersec) Sophomore        gjroth        Resident
+Sato                 Gento            1234315591  5591-745   0.0        ENRL (06-12-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Sports Business) Senior        gsato2        Non-Resident
+Saxena               Abhinav          1232806512  6512-516   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Junior        asaxen84        Resident
+Shah                 Ariya            1224890940  0940-397   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Computational Math Sciences Senior        ashah122        Non-Resident
+Soletti              Joao             1226468245  8245-056   0.0        ENRL (06-06-2025)        60246-1001 Lecture 0        Non-Graded        Integrative Sciences & Arts - Interdisciplinary Studies Junior        jvsolett        Non-Resident
+White                Evan             1236795939  5939-376   0.0        ENRL (08-12-2025)        60246-1001 Lecture 0        Non-Graded        University College - Explore Hum                     Fine Art & Design Freshman        erwhite9        Resident
+Yoshioka             Jack             1232952541  2541-605   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Bus Admin) Sophomore        jyoshiok        Non-Resident
+
+
+# ================================================================================
+# 
+# Course  SLN    Title                       TA                    Enrolled  Instructor(s)
+# AST 111 72048  Intro/Solar Sys Astr (Lab)  Gibson Bowling        23/24     Windhorst
+# 
+#Nr LastName         FirstName        ID          PostingID  %Grade
+Aguirre              Danny            1234489128  9128-957   0.0        ENRL (08-17-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Communication)-BA Sophomore        jdaguir5        Resident
+ahmed                Ilan             1232554741  4741-313   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Sftwre Engr) Junior        inahmed3        Resident
+Almuhamidh           Awam Ali R       1230478511  8511-060   0.0        ENRL (07-12-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Data Science Junior        aalmuha9        Non-Resident
+Andersen             Nick             1236212395  2395-171   0.0        ENRL (04-02-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Law) Freshman        naande15        Non-Resident
+Austin               Kristian         1232075652  5652-632   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Communication)-BA Sophomore        kdausti5        Non-Resident
+Blake                Jonas            1232809645  9645-691   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business-BA Sophomore        jsblake2        Non-Resident
+Coria                Angel            1233479288  9288-229   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Herberger Institute - Art (Animation) Sophomore        afcoria        Resident
+Custer               Macy             1232156265  6265-138   0.0        ENRL (05-06-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Anthropology Sophomore        mncuster        Resident
+Doyle                Aidan            1232853741  3741-902   0.0        ENRL (08-21-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Systems Engineering Junior        adoyle28        Resident
+Garcia               Tristan          1232839298  9298-221   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing (Professional Sales) Sophomore        trgarc14        Non-Resident
+Hu                   Zhitao           1234837619  7619-321   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Finance Sophomore        zhitaohu        Non-Resident
+Jackson              Marcus           1232205197  5197-760   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing (Digital) Sophomore        mejack18        Resident
+Levinson             David            1232698248  8248-123   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Communication)-BA Sophomore        dclevins        Non-Resident
+liu                  Jack             1235378562  8562-936   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        heyuanli        Non-Resident
+Long                 Asher            1232103368  3368-328   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Management Junior        aslong1        Non-Resident
+Louvan               Tai              1232373391  3391-368   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Technology) Sophomore        tmlouvan        Resident
+mackey               preston          1233285289  5289-799   0.0        ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Psychology BA Freshman        pmackey4        Resident
+Martin               Paige            1232464170  4170-963   0.0        ENRL (02-27-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Communication)-BA Sophomore        pemart11        Resident
+Olson                Carlie           1229233423  3423-632   0.0        ENRL (03-17-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business Entrepreneurship Junior        cmolso15        Resident
+Pase                 Logan            1232123193  3193-933   0.0        ENRL (06-12-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Cybersec) Sophomore        lpase        Resident
+Scott                Cori             1229063526  3526-252   0.0        ENRL (03-17-2025)        67122-2001 Lecture 0        Non-Graded        College of Global Futures - Sustainability Sophomore        acscot16        Non-Resident
+Sinclair             kasey            1237294996  4996-009   0.0        ENRL (04-22-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Psychology BA Junior        ksincla8        Non-Resident
+Youngblood           Seth             1237848315  8315-568   0.0        ENRL (04-16-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science Sophomore        csyoungb        Non-Resident
+
+# ================================================================================
+# 
+# Course  SLN    Title                       TA                    Enrolled  Instructor(s)
+# AST 111 72049  Intro/Solar Sys Astr (Lab)  Nick Foo              22/24     Windhorst
+# 
+#Nr LastName         FirstName        ID          PostingID  %Grade
+Balogun              Tobi             1224093000  3000-418   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Finance Senior        ofbalog1        Resident
+Christiansen         Sydney           1231799311  9311-253   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Law) Sophomore        schris80        Resident
+Cote                 Sarah            1233184383  4383-731   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Psychology BS - Tempe Sophomore        scote5        Non-Resident
+Diaz                 Carlee           1233597432  7432-554   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing Sophomore        cediaz4        Non-Resident
+Eastman              Kingsley         1232722129  2129-707   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        MaryLouFulton College for Teac - Secondary Ed - English Sophomore        keastma7        Non-Resident
+Edwards              Darin            1237055406  5406-978   0.0        ENRL (04-21-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Graph Info Tech(Full-StackWeb) Junior        dedwar64        Resident
+Edwards-Machado      Andre            1225835873  5873-832   0.0        ENRL (08-20-2025)        60246-1001 Lecture 0        Non-Graded        Integrative Sciences & Arts - Interdisciplinary Studies Junior        atedwar4        Resident
+Goel                 Achal            1232722467  2467-807   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Finance Junior        agoel66        Non-Resident
+Jaiswal              Nishita          1229636449  6449-272   0.0        ENRL (07-02-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Psychology BS - Tempe Freshman        njaisw11        Non-Resident
+Keirstead            Mikayla          1232986367  6367-813   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Law) Sophomore        mkeirste        Non-Resident
+Manigault            Joshua           1232493888  3888-926   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Sftwre Engr) Sophomore        njmaniga        Resident
+Martinez             Mia              1232297224  7224-557   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Watts Col of Pub Ser & Com Sol - TDM (Resort & Hotel Ldrship) Sophomore        mmart522        Resident
+Nuesse               Ella             1232537984  7984-746   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Psychology BA Sophomore        enuesse        Resident
+Patel                Vashishth Mahend 1236132107  2107-662   0.0        ENRL (08-20-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Freshman        vpate181        Non-Resident
+Reese                Preston          1233007999  7999-819   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Asian Languages (Japanese) Sophomore        pwreese1        Resident
+Rose-Aranda          Destiny          1233218807  8807-150   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Law) Sophomore        droseara        Resident
+Szilagyi             Carson           1233908756  8756-162   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Economics Sophomore        cszilag1        Non-Resident
+Tamayo               Kate             1232995454  5454-788   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Accountancy Sophomore        ktamayo7        Non-Resident
+Tamkin               Nathan           1234062962  2962-937   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business-BA Sophomore        ntamkin        Resident
+Wang                 Kaile            1230684054  4054-063   0.0        ENRL (08-27-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business Data Analytics Junior        kwang218        Non-Resident
+Yung                 Aidan            1232980049  0049-327   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        ayyung1        Non-Resident
+Zhao                 Alex             1232365799  5799-784   0.0        ENRL (02-28-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Economics BS Junior        azhao27        Resident
+
+
+# ================================================================================
+# 
+# Course  SLN    Title                       TA                    Enrolled  Instructor(s)
+# AST 111 72050  Intro/Solar Sys Astr (Lab)  Nick Foo/Spencer Emmons 22/24     Windhorst
+# 
+#Nr LastName         FirstName        ID          PostingID  %Grade
+AL KINDI             Abdullah         1225900184  0184-706   0.0        ENRL (03-07-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Finance Senior        aalkindi        Non-Resident
+AL MALKI             SAUOD            1227779789  9789-294   0.0        ENRL (08-07-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Supply Chain Management Junior        shalmal1        Non-Resident
+Barry                Cameryn          1236513059  3059-091   0.0        ENRL (04-10-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Financial Planning) Freshman        cbarry13        Non-Resident
+Cerreta              Madi             1232019843  9843-502   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Communication)-BA Sophomore        mcerret2        Resident
+Cowart               Darius           1232875126  5126-921   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Health Solutions - Kinesiology Freshman        dmcowart        Resident
+Galaz Tirado         David            1238632930  2930-855   0.0        ENRL (08-12-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Financial Planning) Senior        dgalazti        Non-Resident
+Gordeev              Ross             1231056036  6036-739   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Junior        rgordeev        Non-Resident
+Greenlief            Kaden            1231012161  2161-111   0.0        ENRL (03-03-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Senior        kgreenl3        Non-Resident
+Jacobson             Isabelle         1231823153  3153-969   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing Sophomore        ijacobs8        Resident
+Jones                Ella             1232541403  1403-009   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Communication)-BA Sophomore        epjones3        Non-Resident
+LeVering             Amelia           1232839415  9415-230   0.0        ENRL (03-03-2025)        60246-1001 Lecture 0        Non-Graded        Herberger Institute - Interior Design Sophomore        ajleveri        Resident
+Marion               Kiara-Camille    1232585226  5226-920   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing (Digital) Sophomore        kcmario1        Non-Resident
+Marquez Cortez       Jose             1232164403  4403-810   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        jamarq13        Resident
+Medina Valdez        Isaac            1232622081  2081-176   0.0        ENRL (08-26-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Communication)-BA Sophomore        imedinav        Resident
+Nearman              Davey            1238465555  5555-042   0.0        ENRL (08-19-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Cybersec) Freshman        dnearman        Non-Resident
+Occhiogrosso         Mike             1231276685  6685-791   0.0        ENRL (08-01-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Sports Business) Sophomore        mocchiog        Non-Resident
+Poltl                Tanner           1232924227  4227-427   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business-BA Sophomore        tpoltl        Non-Resident
+Sheh                 Austin           1225370874  0874-465   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Supply Chain Management Sophomore        aqsheh        Resident
+Tarin                Ezequiel         1232157968  7968-269   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        etarin2        Resident
+Urbina Zavala        Gabriel          1233031542  1542-630   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Artificial Intel in Business Sophomore        gurbinaz        Non-Resident
+Valenzuela Meza      Manuel           1232158410  8410-303   0.0        ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business Data Analytics Sophomore        mvale110        Resident
+Wieseler             Max              1232966932  6932-319   0.0        ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Film (Film & Media Studies) Sophomore        mwiesele        Non-Resident
+
+
+# ================================================================================
+# 
+# Course  SLN    Title                       TA                    Enrolled  Instructor(s)
+# AST 111 72051  Intro/Solar Sys Astr (Lab)  Evrim Gulser          Basha           24/24     Windhorst
+# 
+#Nr LastName         FirstName        ID          PostingID  %Grade
+ALRASBI              Abdulaziz        1232202545  2545-406   0.0       ENRL (08-17-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing Sophomore        aalrasbi        Non-Resident 
+Arroyo               Karol            1232782982  2982-056   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        MaryLouFulton College for Teac - Elementary Multiling Education Sophomore        kxarroyo        Resident
+Brimhall             Camden           1225907828  7828-337   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Accountancy Junior        cbrimha1        Resident
+Chisholm             Jamelia          1232461505  1505-758   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Political Science BS Sophomore        jnchisho        Resident
+Dhankhar             Anant Pratap     1237576992  6992-000   0.0       ENRL (08-27-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Aerospace Engr (Aeronautics) Freshman        adhankha        Non-Resident
+Geverola             SETH             1230561516  1516-894   0.0       ENRL (05-27-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Aeronautical Mgmt Tech (UAS) Sophomore        sgeverol        Non-Resident
+Huffaker             Alven            1221620608  0608-776   0.0       ENRL (03-25-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Freshman        ahuffak1        Resident 
+Hurtado              Alex             1225092063  2063-327   0.0       ENRL (07-07-2025)        67122-2001 Lecture 0        Non-Graded        Herberger Institute - Art (Animation) Senior        rahurta2        Non-Resident 
+Izaguirre            Jessica          1224720900  0900-251   0.0       ENRL (08-21-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Bus Admin) Senior        jizagui1        Non-Resident
+Jagalur              Johan            1233440379  0379-115   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Cybersec) Sophomore        jjagalu1        Non-Resident
+Menamo               Janni            1234302162  2162-151   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        jmenamo        Non-Resident
+Miller               Aiden            1233208680  8680-176   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Global Politics) Junior        armill50        Non-Resident
+Naeem                Hania            1238536925  6925-409   0.0       ENRL (05-23-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Computational Math Sciences Junior        hnaeem12        Non-Resident
+Nguyen               Hien             1235482302  2302-438   0.0       ENRL (08-27-2025)        67122-2001 Lecture 0        Non-Graded        Herberger Institute - Theatre - BA Sophomore        hnguy204        Resident
+Niles                Thomas           1232835424  5424-923   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business-BA Sophomore        tvniles        Non-Resident
+Preeshl              Brayden          1232880196  0196-548   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Sports Business) Sophomore        bpreeshl        Non-Resident
+Reshamwalla          Kaleb            1232976162  6162-028   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Senior        kresham1        Non-Resident
+Rodeman              Cale             1235699688  9688-020   0.0       ENRL (04-02-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Accountancy Sophomore        crodeman        Resident
+Sather               Eric             1221268061  8061-607   0.0       ENRL (05-07-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Supply Chain Management Senior        ensather        Resident
+Shah                 Taha             1234582585  2585-014   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business Entrepreneurship Sophomore        twshah        Non-Resident
+Shodiyorova          Nilufar          1236808133  8133-546   0.0       ENRL (03-05-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business Entrepreneurship Freshman        nshodiyo        Non-Resident
+Shoymardonov         Izzatullo        1233710025  0025-952   0.0       ENRL (03-06-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Cybersec) Freshman        ishoymar        Non-Resident
+Wallenhorst          Mia              1234527244  7244-160   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Materials Sci & Engineering Sophomore        awallenh        Non-Resident
+Zielinski            Gaby             1236940057  0057-039   0.0       ENRL (06-17-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Sports Business) Freshman        gzielin1        Non-Resident
+
+
+# ================================================================================
+# 
+# Course  SLN    Title                       TA                    Enrolled  Instructor(s)
+# AST 111 72052  Intro/Solar Sys Astr (Lab)  Ashley Herbst         22/24     Windhorst
+# 
+#Nr LastName         FirstName        ID          PostingID  %Grade
+Acamovic             Max              1227855839  5839-758   0.0       ENRL (07-28-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing (Digital) Junior        dacamovi        Resident
+Alaniz               AJ               1235371724  1724-258   0.0       ENRL (05-25-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business Data Analytics Sophomore        ajalani2        Non-Resident 
+Almaghrabi           Jana             1235290084  0084-131   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        jalmaghr        Non-Resident
+Bravo                Jacob            1232970481  0481-592   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Herberger Institute - Art (Art Studies) Sophomore        jpbravo1        Resident
+Chowdhury            Nanita           1233912084  2084-418   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        nchowd25        Resident
+Dunham               Thomas           1234734828  4828-712   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Sftwre Engr) Sophomore        tdunham4        Non-Resident
+Fettkether           Max              1232274968  4968-325   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Herberger Institute - Art (Animation) Sophomore        mfettket        Resident
+Gagnon               Sydney           1232620079  0079-893   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Bio Sci (Gen                     Cell & Dev Bio) Sophomore        sgagnon6        Resident
+Gerrard              Lily             1236565332  5332-946   0.0       ENRL (05-01-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Informatics Junior        nbgerrar        Resident
+Jagannadhan          Pavan            1232982896  2896-546   0.0       ENRL (02-27-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Economics Sophomore        prjagann        Non-Resident
+Khalid               Yamnoon          1234304424  4424-317   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        ykhalid2        Non-Resident
+Lockhart             Sophia           1228173793  3793-324   0.0       ENRL (08-27-2025)        60246-1001 Lecture 0        Non-Graded        Herberger Institute - Game Design Sophomore        llockha3        Resident
+Peitzmeier           Kyle             1231149207  9207-314   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        University College - Explore-Mat/Tech/Egr/PhysSci Sophomore        kpeitzme        Resident
+Perez                Anthony          1233422608  2608-736   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing (Digital) Sophomore        afperez7        Non-Resident
+Pritchard            Hayden           1232955323  5323-819   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Aerospace Engr (Astronautics) Sophomore        oepritch        Non-Resident
+Rios                 Chris            1233360676  0676-520   0.0       ENRL (04-03-2025)        60246-1001 Lecture 0        Non-Graded        University College - Explore-Mat/Tech/Egr/PhysSci Freshman        crios30        Resident
+Rodriguez            Luis             1233866051  6051-006   0.0       ENRL (08-01-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - English (Creative Writing) Freshman        lrodr180        Resident
+Sears-Giardina       Ezekiel          1232903050  3050-468   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Finance Junior        esearsgi        Resident
+Seo                  Alex             1234843950  3950-803   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business-BA Sophomore        hyeongwo        Non-Resident
+Shaheen              Ahmed            1234725702  5702-651   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Sftwre Engr) Sophomore        ashahee2        Non-Resident
+Warren               Brooklyn         1232138364  8364-382   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Finance Sophomore        wowarren        Resident
+Zanggaruly           Yedige           1234571769  1769-182   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing Sophomore        yzanggar        Non-Resident
+
+
+# ================================================================================
+# 
+# Course  SLN    Title                       TA                    Enrolled  Instructor(s)
+# AST 111 72054  Intro/Solar Sys Astr (Lab)  Megan Miller          21/23     Windhorst
+# 
+#Nr LastName         FirstName        ID          PostingID  %Grade
+Duke                 Peter            1228679766  9766-741   0.0       ENRL (07-08-2025)        67122-2001 Lecture 0        Non-Graded        Integrative Sciences & Arts - Organizational Lead (Prj Mgmt) Sophomore        pjduke        Resident
+Dumpala              Aditya           1231406958  6958-034   0.0       ENRL (08-21-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Data Science Junior        adumpala        Non-Resident
+Gardner              Chase            1228353258  3258-457   0.0       ENRL (08-23-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Sftwre Engr) Junior        cgardn31        Non-Resident
+Grenley              Caden            1227844581  4581-584   0.0       ENRL (03-07-2025)        67122-2001 Lecture 0        Non-Graded        Undergrad Non-deg/Non-Fin Aid - Planetary Science Junior        cgrenley        Resident
+Hagio                Taichi           1224021383  1383-975   0.0       ENRL (08-22-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Sustainability)-BA Sophomore        thagio1        Non-Resident
+Hoang                Ezekiel          1228818905  8905-716   0.0       ENRL (07-11-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing Sophomore        ehoang2        Resident
+Lepri                Edoardo          1238075932  5932-015   0.0       ENRL (06-17-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Physics Freshman        elepri        Non-Resident
+Mohammed             Dagmawi          1234191337  1337-663   0.0       ENRL (03-07-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Mathematics (Statistics) Junior        damoham2        Non-Resident
+Nashar               Ahmed Alaa A     1228088097  8097-277   0.0       ENRL (05-24-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Data Science Sophomore        anashar        Non-Resident
+Pelletier            Cj               1234405187  5187-705   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Law) Sophomore        cjpellet        Resident
+Pina                 Brielle          1235383567  3567-609   0.0       ENRL (04-20-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing (Digital) Freshman        bpina3        Resident
+Quebedeaux           Michael          1232970949  0949-628   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Bus Admin) Freshman        mquebede        Resident
+Reyes Arias          Jose             1228772911  2911-023   0.0       ENRL (03-17-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Communication BA Junior        jareyesa        Resident
+Rubalcava            Diana            1228825262  5262-205   0.0       ENRL (03-17-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Management Junior        drubalc3        Resident
+Scanlon              Mike             1232125130  5130-082   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Aero Mngt Tech (Prof Flight) Sophomore        mpscanl1        Resident 
+Sharma               Sameera          1230796504  6504-227   0.0       ENRL (03-18-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing (Digital) Junior        sshar360        Non-Resident 
+Shaw                 Corwin           1234179923  9923-939   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Bus Admin) Junior        chshaw        Non-Resident
+Spaid                Alexander        1226405195  5195-837   0.0       ENRL (03-07-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Sustainability)-BA Senior        alspaid        Non-Resident 
+Wang                 jinwen           1233955348  5348-769   0.0       ENRL (03-30-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business-BA Sophomore        jwang803        Non-Resident
+Yeong Zherui         Joshwa           1234198526  8526-216   0.0       ENRL (03-29-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Communication BS Senior        jyeong1        Non-Resident
+Zhumatayeva          Medina           1234891374  1374-717   0.0       ENRL (03-17-2025)        67122-2001 Lecture 0        Non-Graded        Herberger Institute - Architectural Studies Sophomore        mzhumata        Non-Resident
+
+
+# ================================================================================
+# 
+# Course  SLN    Title                       TA                    Enrolled  Instructor(s)
+# AST 111 72055  Intro/Solar Sys Astr (Lab)  Evrim Gulser          24/24     Windhorst
+# 
+#Nr LastName         FirstName        ID          PostingID  %Grade
+Acker                Hank             1230872177  2177-762   0.0       ENRL (08-05-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Economics BS Sophomore        hacker1        Non-Resident
+Alanis               Gabriel          1236072385  2385-319   0.0       ENRL (03-21-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Philosophy Junior        galanis2        Resident
+Alansary             Shoug            1228829422  9422-525   0.0       ENRL (08-21-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Political Science BA Sophomore        saalans3        Non-Resident
+Banuelos             Nikki            1233974406  4406-518   0.0       ENRL (03-12-2025)        67122-2001 Lecture 0        Non-Graded        Watts Col of Pub Ser & Com Sol - Criminology & Criminal Justice Sophomore        npbanuel        Non-Resident
+Bautista             Anthony          1237051142  1142-650   0.0       ENRL (03-12-2025)        67122-2001 Lecture 0        Non-Graded        New Interdis Arts & Sciences - Applied Computing (Cybersec) Freshman        axbautis        Resident
+Cilliers             Noah             1231809880  9880-726   0.0       ENRL (02-27-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Sftwre Engr) Junior        ncillier        Resident
+Constable            Devon            1232779108  9108-759   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Sftwre Engr) Sophomore        dconstab        Non-Resident
+Ferguson             Sydney           1233780784  0784-578   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Communication BS Junior        sjfergu4        Non-Resident
+Green                Leyton           1232960991  0991-255   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        ltgreen3        Resident
+Jafri                Shaun            1234589683  9683-531   0.0       ENRL (08-21-2025)        67122-2001 Lecture 0        Non-Graded        Herberger Institute - Architectural Studies Sophomore        sjafri7        Non-Resident
+John                 Malaysiah        1232272862  2862-163   0.0       ENRL (08-18-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - American Indian Studies Sophomore        msjohn        Resident 
+Lin                  Yanssel          1237978536  8536-764   0.0       ENRL (06-13-2025)        67122-2001 Lecture 0        Non-Graded        University College - Explore-Social & Behavioral Sc Sophomore        yanssell        Non-Resident
+Lyndon               Morgan           1233121567  1567-294   0.0       ENRL (03-19-2025)        67122-2001 Lecture 0        Non-Graded        Herberger Institute - Film & Media Production Sophomore        melyndon        Resident
+Martinez             Makayla          1231980960  0960-567   0.0       ENRL (03-05-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Psychology BA Sophomore        mimart22        Resident
+Morgan               Jiovani          1236156586  6586-453   0.0       ENRL (03-05-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Cybersec) Sophomore        jomorga1        Resident
+Murguia              Sofia            1233135646  5646-988   0.0       ENRL (03-20-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Psychology BS - Tempe Freshman        smurgui4        Resident
+Rushia               Sydney           1235576175  6175-277   0.0       ENRL (05-07-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Psychology BS - Tempe Sophomore        srushia        Resident
+Sanchez              Isa              1224144233  4233-259   0.0       ENRL (06-30-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Earth&Space Exp (Astrophysics) Junior        lsanch86        Resident
+Shami                Gasem            1222691964  1964-952   0.0       ENRL (08-11-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Information Technology Senior        gshami        Non-Resident
+Tapia                Gabriel          1229605522  5522-499   0.0       ENRL (07-02-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Political Science BS Junior        gjtapia1        Non-Resident
+Tat                  Dustin           1232944520  4520-988   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Supply Chain Management Junior        dustinta        Resident
+Van Fredenberg       Jack             1232402511  2511-880   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Supply Chain Management Sophomore        jvanfred        Resident
+Woods-Sweeney        Ryann            1233032127  2127-675   0.0       ENRL (03-04-2025)        67122-2001 Lecture 0        Non-Graded        Undergrad Non-deg/Non-Fin Aid - Computer Gaming (certificate) Sophomore        iwoodssw        Resident
+Xiang                Selena           1228758728  8728-414   0.0       ENRL (03-17-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Accountancy Junior        stxiang        Non-Resident
+
+
+# ================================================================================
+# 
+# Course  SLN    Title                       TA                    Enrolled  Instructor(s)
+# AST 111 77736  Intro/Solar Sys Astr (Lab)  Ashley Herbst/Cole Haramis 21/24     Windhorst
+# 
+#Nr LastName         FirstName        ID          PostingID  %Grade
+Anaya                Totes            1232472178  2178-576   0.0       ENRL (03-05-2025)        60246-1001 Lecture 0        Non-Graded        MaryLouFulton College for Teac - Secondary Ed - Mathematics Sophomore        csanaya1        Resident
+Baliunas             Algis            1233221628  1628-485   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business-BA Sophomore        abaliuna        Non-Resident
+Bleimeyer            Josh             1235400987  0987-070   0.0       ENRL (06-08-2025)        60246-1001 Lecture 0        Non-Graded        Cronkite School-Journ/MassComm - Journalism & Mass Comm Junior        jbleimey        Resident
+Bobadilla            Sophia           1232413561  3561-467   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Management Sophomore        sbobadi3        Resident
+Bullard              Wes              1231491354  1354-418   0.0       ENRL (03-07-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Information Tech (Cybersec) Junior        wbullard        Resident
+Carrillo             Giselle          1233937902  7902-495   0.0       ENRL (05-28-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Corporate Accountng) Freshman        gicarri1        Resident
+Crystal              Liam             1223888705  8705-948   0.0       ENRL (08-09-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Bus Admin) Junior        lcrysta2        Non-Resident
+Haldeman             Benjamin         1232844381  4381-182   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business Entrepreneurship Sophomore        blhaldem        Resident
+Hernandez-Ramirez    Gael             1229279937  9937-958   0.0       ENRL (07-29-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Bus Admin) Sophomore        gehern10        Non-Resident
+Herzog               Maci             1232686652  6652-849   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Undergrad Non-deg/Non-Fin Aid - Political History & Leadership Sophomore        maherzo2        Resident
+Hoffman              Davis            1233284067  4067-751   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business-BA Sophomore        dchoffm3        Non-Resident
+Horstmann            Adelaide         1233225229  5229-508   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - English (Literature) Sophomore        ahorstm1        Resident
+Mammadli             Aykhan           1226766972  6972-101   0.0       ENRL (08-17-2025)        60246-1001 Lecture 0        Non-Graded        Integrative Sciences & Arts - Interdisciplinary Studies Senior        amammadl        Non-Resident
+Morin                Mason            1235612289  2289-091   0.0       ENRL (08-21-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Comptr Info Systems Freshman        mdmorin        Resident
+Nielsen              Luke             1232039863  9863-895   0.0       ENRL (03-06-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Finance Sophomore        lpnielse        Resident
+Parra                Alicia           1232474609  4609-758   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business-BA Sophomore        amparra7        Resident
+Perkins              Carson           1232312876  2876-835   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business Entrepreneurship Sophomore        cvperki1        Resident
+Salazar              Teniya           1232446243  6243-568   0.0       ENRL (03-06-2025)        60246-1001 Lecture 0        Non-Graded        Herberger Institute - Art (Art Studies) Sophomore        tmsalaz2        Resident
+Wu                   Tony             1234053082  3082-667   0.0       ENRL (08-19-2025)        60246-1001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Sftwre Engr) Sophomore        yuhaowu4        Non-Resident
+Yasnogorodskiy       Val              1232975473  5473-975   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        Herberger Institute - Film & Media Production Sophomore        vyasnogo        Resident
+Zheng                Quanmin          1233471826  1826-630   0.0       ENRL (03-04-2025)        60246-1001 Lecture 0        Non-Graded        W. P. Carey School of Business - Supply Chain Management Sophomore        qzheng40        Non-Resident
+
+
+# ================================================================================
+# 
+# Course  SLN    Title                       TA                    Enrolled  Instructor(s)
+# AST 111 77737  Intro/Solar Sys Astr (Lab)  Kendall Johnston      21/24     Windhorst
+# 
+#Nr LastName         FirstName        ID          PostingID  %Grade
+Anderson             Leon             1218444812  4812-619   0.0       ENRL (04-11-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Psychology BS - Tempe Freshman        kander78        Resident
+Baker                Cassandra        1233125571  5571-602   0.0       ENRL (04-17-2025)        67122-2001 Lecture 0        Non-Graded        Undergrad Non-deg/Non-Fin Aid - Ethics (Certificate) Sophomore        cbaker76        Resident
+Carter               Blayze           1233424142  4142-838   0.0       ENRL (05-05-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business (Sustainability)-BA Sophomore        bcarte44        Resident
+Chung                Alex             1232030646  0646-255   0.0       ENRL (05-06-2025)        67122-2001 Lecture 0        Non-Graded        Health Solutions - Health Sciences Sophomore        akchung1        Resident
+Hartmann             Katarina         1236580828  0828-176   0.0       ENRL (04-18-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Physics Freshman        kvhartma        Non-Resident
+Lake                 Cooper           1231074158  4158-880   0.0       ENRL (03-07-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Junior        cmlake3        Resident
+Lambat               Sarthak Sanjay   1237280176  0176-118   0.0       ENRL (04-14-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Physics Freshman        slambat        Non-Resident
+LaSalle              Beckett          1236202515  2515-559   0.0       ENRL (04-11-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Actuarial Science Freshman        bslasall        Non-Resident
+Lewis                Kelsie           1231930130  0130-872   0.0       ENRL (05-07-2025)        67122-2001 Lecture 0        Non-Graded        Herberger Institute - Media Arts & Sciences (Design) Sophomore        klewis96        Resident
+Lugo                 Nathan           1237422526  2526-642   0.0       ENRL (07-16-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business(Publ Svc & Publ Polc) Sophomore        nklugo        Non-Resident
+Luther               Joshua           1232633456  3456-301   0.0       ENRL (03-08-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        jeluther        Resident
+Mohamed              Hassan           1232144396  4396-283   0.0       ENRL (03-23-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science (Sftwre Engr) Junior        hmoham60        Resident
+Momen                Iqra             1236350715  0715-376   0.0       ENRL (05-19-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Physics Sophomore        imomen        Resident
+Quintana             Andres           1237604110  4110-449   0.0       ENRL (03-27-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Freshman        aquint83        Resident
+S Jay                Rithvic          1233495408  5408-880   0.0       ENRL (04-17-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Data Science Sophomore        rsjay        Non-Resident
+Simmons              Xander           1232117473  7473-493   0.0       ENRL (02-27-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Accountancy Sophomore        xsimmons        Resident
+Sinha                Aikataan         1232949460  9460-368   0.0       ENRL (08-19-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Sophomore        asinh105        Non-Resident
+Valenzuela Haro      Esmirna          1235686883  6883-011   0.0       ENRL (04-17-2025)        67122-2001 Lecture 0        Non-Graded        The College of Lib Arts & Sci - Computational Math Sciences Freshman        evalen73        Resident
+Wali                 Jana             1217573825  3825-136   0.0       ENRL (08-17-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Marketing Senior        jwali        Non-Resident
+Wright               Ori              1231791693  1693-626   0.0       ENRL (03-29-2025)        67122-2001 Lecture 0        Non-Graded        W. P. Carey School of Business - Business(Publ Svc & Publ Polc) Freshman        owright5        Resident
+Yang                 Jiawen           1230619925  9925-367   0.0       ENRL (08-20-2025)        67122-2001 Lecture 0        Non-Graded        Ira A Fulton Engineering - Computer Science - BS Senior        jyang372        Non-Resident
+
+#
+================================================================================
+
